@@ -1,0 +1,3826 @@
+Alteracao de MOP apresentando problema - IR13039342 - Aberto em 27/03/2013
+[IM]ICARE SAC não está habilitando o botão para alterar a ordem de envio na OS - IR13067389 aberto em 08/05/13
+Sistema icare nohs treinamento apresentando indisponibilidade.
+Monitoração Nóhs indisponivel.
+Icare inoperante - CENU e Agua Branca
+Clientes estão com produto principal zerado. - Cobrança indevida
+Icare Nohs inoperante 
+Icare Nohs apresentando mensagem de falha
+ACESSO SISTESMA ICARE CLIENTES
+Erro na reversão de valores..
+Divergencia Faturamento clientes
+Cliente com entrada no passo 7 da régua de cobrança e com ...
+Alguns usuários não conseguem acessar ao ICARE NOHS
+[IA] Icare - ponto opcional gratuito
+Não apresenta OS 
+OS do Nóhs criada 4 dias após pedido
+[IA] Usuario reporta que os canais estão sendo desconectado pelo icare adm.
+Canais do HBO como desgutação por 2 meses não está sendo ativado
+Assinante continua em série de cobrança sem dívida.
+[PB]Ao acessar o protocolo no Icare para realizar a a solicitação de Envio do Protocolo, o pop retorna apresentando a informação “
+Icare NOHS Cliente pagou e continua na série de cobrança  
+[IM]Erro ao registrar contato após negociação
+Falha ao tentar alterar método de pagamento para Cartão ELO no iCare Clientes Nóhs
+Alteração de endereço do Cliente
+Erro ao pesquisar informações de pagamento
+Criação de Pedido no ODI em duplicidade
+Clientes efetuaram pagamentos dia 12/07 e 14/07 e não consta baixa no sistema icare legado.
+[PM]A aba globo não fuinciona para o cliente em anexo.
+Erro Icare para abertura de solicitação de gravação
+Tela de PPV Icare Clientes
+Itens de pedidos de cancelamento duplicados
+[IM]Icare Legado apresentando falha, Sistema não reconhece desistência de cancelamento e migra assinatura para Livre. 
+[PA]Ao tentar fazer aquisição de pontos adcionais o sistema bloqueia nova compra, quando o cliente atinge determinado número de equipamentos
+Marcação errada de pacote - NÓHS
+Icare Nohs - Dois status diferentes de produtos 
+ Icare NOHS -NÃO FAZ MIGRAÇÃO PÓS PARA LIVRE NÃO EFETUADA
+Icare nohs apresentando falha ao criar O.S de upgrade de equipamento que faz parte do pacote.
+Clientes da cidade de Guapimirim sem sinal do canal Globo
+[PM]Problema na Trava da Venda Base 
+ICARE CLIENTES apresenta erros - parâmetro: ValidateWorkOrderSynchronously
+consulta de pedido no Icare - IRD NOHS
+Área: Contas a Receber  Características do Incidente: Bug ...
+[IM]Visualização no Histórico de Eventos com falha - Icare Nohs.
+[IM]Icare apresentando falha para inclusão da assistencia técnica.
+Ao clicar na aba de metodos de pagamento icare apresenta uma mensagem de erro.
+LENTIDÃO iCARE LEGADO
+Área: Faturamento;  Arquitetura: NOHS;  Caracteristica do I...
+Icare legado apresentando intermitencia
+Icare Nohs indisponível.
+Lentidão no Icare Legado.
+Introscope Alert Message 
+[IM]Após o lançamento manual de desconto o from to esta fincando invertido
+ Erro ao conceder o desconto-NOHS
+Código 4 - Duplicidade Sky Telecine e TELECINE PLAY no parque
+Icare nohs apresentando falha na aba de pacotes e produtos.
+Pedido de Retirada de HW "Em andamento locked"  ( Inválido ).
+Icare Legado - Falha na efetivação do parcelamento (IBS)
+Pacote Principal sendo cobrado dentro de “gastos extras” na nova fatura
+Projeto Parcelamento "Na tela inicial do iCare deverá aparecer o aviso no formato de selo através do título “Condição Diferenciada” e com a opção “Parcelamento”. 
+O icare NOHS apresenta erro para gerar pedido de Reinstalação em novo endereço.
+Visualização de faturas indisponível.
+Icare nohs apresentado falha para realizar o registro de contato.
+Área   Faturamento;  Check Point Apontado    Sky Empresas;  Arq...
+CA610115 - Pacote Fit ofertado por 3 meses aos clientes Pré Pago Livre no Icare Legado 
+Projeto 14.0083. BL  -Incluir Novas Praças Banda Larga 2014 - NOHS
+SKY LIVRE - Falha na recarga do parque BRM para assinantes LIVRE
+Ligações Carterizadas - Serie de Cobrança
+Transação efetivada no valida e não efetivada no NOHS.
+[IBS- Legado]Codigo 4> Canal faz parte do  Pacote SKY Digital 2013> Sem serviço para liberar Canal 174 IDEAL TV.
+[PM] (A:17/11) Erro de Elegibilidade/Compatibilidade em relação aos equipamentos para o produto: “DUETO B SKY LIGHT CINEMA”
+[[[ SkyTEF ]]]
+ ICARE CLIENTE ao cadastrar equipamento através da tela de status de equipamento, o SubID não assume o número correto
+ICARE CLIENTES Os módulos de TV aberta SIM23 e SIM25 estão com caixas acopladas habilitadas no parque com link-Não deve ter opção.
+Tela status de equipamento - Parque sem equipamentos Habilitados não deveria apresentar SUB ID.
+[NÓHS]Tela status de equpamento - Permite habilitação de equipamento já cadastrado em outro cliente.
+[NÓHS]Tela status de equpamento - Parque e SubID não são atualizados após troca de cartão de acesso ou IRD no mesmo cadastro
+ Correção das Razões de OS do fluxo de up/downgrade 
+Pedidos sendo criados com subtipos incorretos
+iCARE NOHS - Telas de Sincronismos - Erro ao Ativar Produto.
+Ao realizar a consulta dos clientes em anexo de protocolos o sistema não disponibiliza a opção de Próximos 50. 
+A régua de ofertas está apresentando falha, ao cancelar o pedido vigente a nova régua (mudança de passo) não aparece as ofertas.
+Ref.: 613528 - Icare Clientes apresenta erro ao trocar vencimento.
+iCARE NOHS - Mensagem OSD 
+falha na operação HD TOP para realizar a alteração de endereço
+[A: 08/12] - Icare nohs apresentando falha para troca de pacote.
+Erro na tela de Combos e Duetos
+Recarga iCare: Novos valores não estão aparecendo no sistema.
+[14.0213.MK-ROADMAP] - iCare Nóhs de PRD apresentando valores antigos de recarga
+ICARE CLIENTE assinatura abaixo sofreu alteração de pacote de programação no ultimo dia 14/11/2014, entretanto, ao que tudo indica o pacote duplicou (vide tela abaixo).
+Não consegue realizar cadastro no site da SKY
+ICARE CLIENTE - Usuario informa que registro de contato pendente está subindo no Histórico de Eventos e na tela Consulta OSI sem número de protocolo.
+iCare clientes apresenta lentidão ao acessar a 2ª pagina de O.S
+iCare NOHS: Erro de cancelamento na série 1 de cobrança.
+[PM]iCare NOHS: Erro ao acessar a aba de combos e duetos.
+SITE: Erro ao efetuar compra de pacotes adicionais.
+iCARE NOHS - Duplicidade na abertura de OS.
+[IM]Cancelamento de Assinatura não habilitada - Icare Legado.
+ICARE CLIENTES - : Ao realizar um procedimento de reinstalação em novo endereço, sistema apresenta mensagem de erro e não cria O.S
+Icare Clientes - Apresentando erro ao tentarmos atualizar ‘Dados Cadastrais’. 
+Icare Clientes - ao executar o cancelamento de assinatura o sistema deve apresentar as seguintes opções de cancelamento: imediato, o período pago e período futuro porém sistema consta indevido.
+[IM]Icare Clientes - OSs foram criadas sem Agendamento Firme (NOHS e IBS)
+O.S. não informa período (manha ou tarde) - ICare Clientes
+iCare NOHS: Atribuição de usuário indevida no MOP
+[A:17/02] Não gera numero de pedidos.
+[17/12] - Pedido de Up/Downgrade adicionando mais equipamentos do que o pacote permite
+162.467 Contas Livres sem registro de SKY_ACCOUNT_T 
+Pedidos que devem gerar OS foram finalizados sem a geração de OS. 
+[IB]Portal ICARE não fecha pop up.
+CommunicationsFulfillmentOrder: Erro ao realizar venda no cartão de crédito
+iCARE NOHS - Falha no procedimento de abertura de pendente para visita tecnica não realizada.
+Icare Legado - apresenta mensagem de usuário não tem permissão
+Filmes não aparecem na lista para exibição.
+Icare Legado - Desconto concedido incorretamente para clientes que não são socios torcedores.
+iCARE NOHS -  Não tem opção de cadastro.
+Icare Clientes Nohs - Usuario informa que ocorre erro ao tentar reativar assinatura.
+Icare Clientes - Erro ao tentar atualizar endereço do cliente.
+FALHA NA ALTERAÇÃO DE PACOTE
+Icare nohs apresentando falha para cancelamento da assinatura em anexo.
+[WAR ROOM] ICARE NOHS apresentando falha para registro de informações no campo observações da O.SS.
+[21/01] - ICARE CLIENTES - Registro de contato no NÓHS pede nº da Ordem de Envio
+[12/02] Siebel Nohs pedidos estão em locked, deletando o produto principal do bundle.
+Icare Clientes - Falha no registro para solicitação de gravação do contato, não apresenta opção para inclusão do motivo 
+Icare Cliente Nohs não consta forma de reembolso correta, ocorreu falha.
+Icare Clientes Nohs - Divergência de dados no Icare para o Icare Nohs
+[A:15/12] Icare Nohs - apresenta falha para conceder ofertas 
+iCare NOHS: Erro ao incluir receptor Zapper
+Icare Sac  Icare esta com lentidão
+Icare Clientes Nohs - Erro na troca de pacote.
+iCARE NOHS - OS de retirada de equipamento.
+Icare erro na tela de Cliente 
+Icare Legado apresenta erro no registro de contato.
+[IM]iCARE NOHS - FALHA NO PROCESSO DE CANCELAMENTO DATA AGENDADA .
+iCare NOHS: Iserindo canais a mais na inclusão de produtos
+iCARE NOHS - Erro sistemico.
+[IA]iCARE NOHS - ERRO AO ABRIR CONTATO PENDENTE DEVOLUÇÃO.
+ERRO AO INCLUIR O CANAL GLOBO PELO ICARE
+iCARE NOHS - ERRO PESQUISA ICARE.
+ Reagendamento de OS (Ambiente Valida)
+Icare Legado apresenta erro na atividade com cartão de crédito.
+ICARE LEGADO apresenta falha na EPS Paschoalotto
+ICARE NOHS apresenta intermitências locais
+Erro ao geração OS - Icare Nohs
+Icare erro ao abrir pendente - Não há categorias para serem utilizadas (evidência no anexo)
+iCARE NOHS - Apresenta erros ao se logar e nas trocas de telas.
+Icare Cliente Nohs - Vendas não gerou numero de Pedido
+ICARE CLIENTES COM INTERMITENCIA
+Icare Clientes Nohs - Cliente com Ausência de Canais.
+dados divergentes
+ICARE NOHS intermitente
+iCare NOHS: Sistema não permite registro de contato pendente.
+iCare NOHS: Dados migrados erroneamento no NOHS
+Cliente migrado com divergencia no cadastro NOHS
+ERRO NO ICARE CLIENTES  PARA ABRIR
+ICare Legado não permite atualizar endereço
+Erro para gerar OS - ICARE NOHS
+ERRO INESPERADO CARTÃO DE CREDITO
+iCARE NOHS - ERRO alteração de endereço.
+Icare Cliente Nohs Cliente não localizado.
+Icare Legado. Pagamentos não contabilizando
+Icare Nohs - Tela Retornando ao acessar Combos e Duetos.
+Clientes com Código 13 no Canal Combate.
+iCARE NOHS - PPV de Luta.
+Fatura consta paga porem cliente continua a receber msn de cobrança no celular e TV
+Icare Legado Cliente em SCOB
+ICARE CLIENTE apresenta falha para pesquisa de custumers.
+Icare nohs apresentando erros intermitentes.
+ERRO AO REGISTRAR PENDENTE ICARE CLIENTES
+O cliente em anexo não está recebendo cobranças após o desconto que foi concedido no mês 08.
+icare nohs apresentando lentidão e erros intermitentes em trocas de telas.
+[05/02] ICARE NOSH apresenta falha na tela de OFERTAS
+ICARE NOHS apresentando falha para realizar cancelamento da assinatura.
+ICARE LEGADO apresenta lentidão
+ICARE SAC LEGADO. Erro ao carregar a página do customer 
+Icare Clientes Nohs - Erro de Aba Historico de Evento. 
+Icare Clientes Nohs - Erro ao cancelar assistência.
+Icare Clientes Nohs - Erro na alteração de endereço.
+Icare Nohs. Divergência dados do cliente.
+Icare Clientes Nohs. Erro ao incluir Canal.
+Icare Clientes Nohs.  Parque sem Equipamento.
+Icare Clientes Nohs. Não apresenta Movimentação de Equipamentos.
+Icare Nohs. Erro na alteração de pacote.
+Icare Cliente Nohs. Pagamento não consta no Icare Nohs.
+iCare NOHS: Erro no envio de comandos
+iCare NOHS: Parques sem equipamento apresentando SUB ID
+Ao realizar o processo de agendamento de O.ss icare nohs apresenta algumas intermitencias.
+Falha no processamento dos equipamentos para o assinante - ICARE NOHS
+Falha na alteração de dados cadastrais - ICARE NOHS
+ICARE NOHS - falha para cancelamento de assinanturas e pacotes via tela Relacionamentos 
+iCare NOHS: casos tratados não tem o status alterado no iCare
+Icare Nohs - Erro no Faturamento Pós
+Icare Nohs - Falha na reativação de assinatura
+[02/01] iCARE NOHS - Sem opção para incluir o produtos.
+Indisponibilidade da luta Machida x Dollaway
+iCARE NOHS - ALTERAÇÃO DE PACOTE SEM AGENTE TER SELECIONADO.
+iCARE NOHS - Envio de comando 16-12.
+Cliente migrado sem valores pagos no icare nohs.
+iCare NOHS: Erro ao realizar Login
+iCare IBS: Erro de Fluxo GPT
+Icare Clientes com falha no Desconto de Mudança de Comportamento.
+Icare NOHS TREINAMENTO
+Icare Clientes Nohs. Erro no Pedido de Cancelamento.
+[25/12] Icare Cliente Nohs. Erro no cancelamento de pedido.
+[IM]Icare Clientes Nohs. Consulta de OS, protocolo duplicado.
+Combos e Duetos / inclusões de opcionais não finalizam - Icare Nohs
+Icare cliente Nohs. Erro em movimentação de produtos.
+Registro de Contato sem Retenção Reativação.
+Alerta Monitoraçao Icare Frontend
+iCARE NOHS - Não encontrado no Nohs.
+Post-It - ferramenta com erro pós implantação
+iCARE NOHS - Falha para altera endereço.
+Icare Clientes Nohs. Erro na reinstalação de endereço
+Icare Legado. Erro cancelar oferta
+Data de Execução do Pedido está anterior a Data de Criaç...
+iCARE NOHS - Nova Aquisição de Equipamento.
+iCARE NOHS - Assinatura sem o nome do assinante.
+Icare Nohs - apresenta falha na alteração de dados
+iCARE NOHS - Erro ao Incluir Banda Larga
+Icare Cliente Nohs. Erro ao fazer aquisição de equipamento.
+Cod 72668300 – Falha no parcelamento
+iCARE NOHS - Clientes sem pacote ativo.
+Icare nohs apresentando pacotes opcionais duplicado.
+ERRO WS NOHS.
+iCARE NOHS - Banda Larga.
+Erro ao tentar alterar globo
+ICARE NOHS APRESENTANDO FALHA PARA INCLUSÃO DE BANDA LARGA
+iCare NOHS: Erro na tela de Recargas
+iCare NOHS: Erro ao realizar cadastro de equipamento
+iCare NOHS: Sem a opção de incluir produtos
+iCare NOHS: Tempo de resposta muito alto.
+Icare Legado. Cliente com concessões indevidas
+Icare Nohs lentidão e intermitências
+Erro ao logar no NOHS
+[IM]Consulta Lista de Valores com Maximo número de itens
+Icare Nohs TREINAMENTO
+IBS Area Contas a Receber;  Arquitetura NOHS/Legado;  Caract...
+[IM]iCare NOHS: Erro ao inclir desconto no cadastro do cliente.
+Icare Nohs - tela Produtos - Combos e Duetos volta para tela de login e senha
+Icare Nohs apresenta lentidão e erro para todas EPSs
+iCare NOHS: Erro no serviço UpsertSaleQuote
+iCare NOHS Treinamento: Erro ao pesquisar customer
+iCARE NOHS - Apresentando lentidão.
+Usuário AD SKY
+Icare Cliente Nohs. Pesquisa de equipamentos retornando.
+ICARE CLIENTES PARESENTANDO indisponibilidade
+Icare Clientes Nohs. Erro na troca de endereço
+[IM]Icare Cliente Nohs. Sem opção de cancelamento de canal.
+Icare Nohs/Legado. Divergência de dados do cliente.
+GRADE CINE SKY HD - SEMANA 52 - período de 25/12 à 31/12.
+ICARE NOHS APRESENTANDO FALHA PARA DIRECIONAR A O.SS DEIXANDO ELA VENCIDA.
+Icare Clientes Nohs. Cliente com nome incorreto de um outro cliente.
+Introscope Alert Message.
+Icare CLientes Nohs.; Não está apresentando a lista de receptores.
+Icare Clientes Nohs. Erro no cadastro de equipamento
+Icare Cliente Nohs. Valor incorreto de recarga
+Icare Cliente Nohs. Erro ao registrar contato pendente.
+Icare Cliente Nohs. Cliente adimplente e pós - MENSAGEM OSD NA TELA
+Icare  Agenda não disponível para troca de pacote.
+O iCare Homologa IBS apresenta extrema lentidão
+Icare Clientes Nohs. Cliente migrados sem assinatura
+Icare Clientes Nohs. Endereço não cadastrado na ferramenta.
+BAIXA PAGAMENTO CARTAO.
+Icare CLientes Nohs. ERRO alteração de endereço
+iCare NOHS: Sistema apresentando lentidão.
+iCare IBS: Sistema apresentando lentidão.
+Icare Clientes apresenta erro ao fazer Reconexão Palavra do Cliente.
+Icare clientes apresenta falha para visualizar fatura
+Icare Clientes Nohs. Erro ao registrar contato. 
+iCare NOHS: Sistema apresentando intermitencias na guia Técnica
+Icare Clientes Nohs. Erro ao registrar ofertas 
+Solicitação de arquivos para disponibilizar os arquivos de PPV.
+ICARE NOHS apresentando letindão e erros intermitentes.
+Icare nohs apresentando lentidão e erros intermitentes.
+Cliente migrado com um nome mais quando e consultado aparece outro cliente com o customer antigo.
+[IM]Erro ao registrar pendente de Venda Irregular
+Icare Clientes Nohs. Cliente sem Equipamentos habilitados
+Canal da Globo Icare Nohs 
+Icare Clientes Nohs. Cliente não localizado
+Erro Finalizar Tratativas no Icare Clientes
+Icare Clientes Nohs. Erro na alteração de endereço
+Icare Clientes Nohs. Não consegue incluir venda.
+Icare CLientes Nohs. Erro ao cadastrar equipamento.
+Icare Clientes Nohs. Falha na Reversão
+ICARE TREINAMENTO: Sistema apresenta problema na troca de telas.
+ICARE NOHS apresentando lentidão e erros intermitentes.
+iCare NOHS: Sistema apresentando intermitencias na pesquisa de customer e ao fazer login na ferramenta.
+[12/01] - iCare NOHS: Erron na aleação de data de pagamento.
+iCare Teinamento NOHS: Erro ao efetuar consulta de customers
+Icare Clientes Nohs. Pagamento não atualizado.
+[IB]Status Equipamento
+ Icare Clientes Treinamento
+Icare Nohs apresenta erro na consulta de OSI
+[IM]iCare NOHS: Erro de registro de contato
+[19/01] - Alteração de endereço indevida.
+iCare NOHS: Os consta como cancelada no NOHS
+Icare Nohs/Legado. Divergência de dados do cliente. 
+[IM]OFERTA - BBB
+iCare NOHS: Cliente com status ou pacote invalido impactando no GPT
+[19/01] - iCare NOHS: Customer com código 6 nos receptores;
+iCare NOHS: Erro na reversão de valores
+iCare NOHS: Equipamento instalado sem Habilitação.
+iCare NOHS: Cliente migrado com dados divergentes
+iCare NOHS apresentando intermitencias e erros para acessar a ferramenta.
+iCare NOHS: Notificação do cliente informando disponibilidade de Banda Larga
+iCare NOHS: Erro no rastreio de controle remoto
+iCare NOHS: erro ao realizar cancelamento do pedido.
+Venda Mais - operador de négocio não está conseguindo acessar as operações do admin
+Erro na troca de pacote NOHS.
+ICARE NOHS apresentando falha para pesquisas de customers e login.
+ERRO TELA DE FATURA
+Erro ao solicitar reinstalação em segundo endereço.
+erro ao incluir canal combate. 
+iCare NOHS não ativa pacote principal após reconexão/reativação.
+iCare IBS: Sistema não disponibilizou a venda do BBB 2015
+iCare NOHS: Erro ao comprar temporada BBB 2015
+iCare NOHS: Sistema não permite o pagamento de faturas do cliente
+ICARE NOHS apresentando lentidão e falhas intermitentes.
+iCare NOHS: Cliente migrado com dados divergentes
+iCare NOHS: Usuário com dados cadastrais divergentes
+iCare NOHS: Sistema apresenta erro ao tentar cadastrar endereço da segunda antena.
+Erro nas máscaras para registrar o contato pendente Devolução de Valores e Reembolso. 
+iCare NOHS: Usuário com dados cadastrais divergentes
+Icare clientes- Falha ao acessar  com lentidão
+iCare NOHS: Cliente migrado com os dados errados
+iCare NOHS: Cliente migrado sem dados no NOHS
+iCare NOHS: Cliente possui combo que está cobrando ponto adicional indevidamente.
+ERRO NA ALTERAÇÃO DE PACOT INC. EQUIP. HD
+NOHS apresenta erro ao habilitar calanl Globo.
+LENTIDÃO NOHS
+ICARE LEGADO e PORTAL SKY CLIENTES indisponíveis
+Icare Nohs apresenta indisponibilidade
+ICARE CLIENTES APRESENTANDO FALHAS
+iCare IBS: Erro ao realizar fluxo GPT 
+Ao acessar a tela de combos e duetos, sistema icare nohs apresentou a falha em anexo.
+BBB15 indisponivel para comercialização ICARE IBS.
+ICARE NOHS APRESENTANDO LENTIDÃO E ERROS INTERMINTES
+ICARE NOHS apresenta falhas e lentidão. 
+Foi solicitado alteração do metodo de pagamento porém o sistema não acatou a solicitação.
+iCare NOHS: Clientes adimplentes sem em SCOB sem sinal
+iCare NOHS: Sistema apresenta erros na aba Financeiro
+iCare NOHS: Ofertas não estão carregando para os customers
+iCare NOHS apresenta erros intermitentes e lentidão.
+Icare nohs apresentando falha, Alguns clientes estão com produtos com a letra “P”, desta forma não estamos conseguindo incluir o produto solicitado. 
+iCare NOHS não está abrindo o pop-up para agendar visitas técnicas.
+Erro ao acessar o Icare Desenvolvimento
+Historico de eventos está com a aba de proximos 50 desabilitada.
+Cliente migrado para Icare Clientes, com os dados divergentes (Código do cliente, Nome,CPF,endereço)               
+iCare NOHS: na alteração de dados Cadastrais o iCare apresenta o nome de outro cliente
+Protocolo com Razões Divergentes.
+[IM]Ao realizar o processo de alteração de endereço sistema apresentou falha.
+Erro na chamada do iCare ao serviço QueryItemEquipmentPossibilities.
+iCARE NOHS - Lentidão  intermitentes.
+ERRO NO CADASTRO DE MIGRAÇÃO
+iCARE NOHS - ERRO NA INCLUSÃO RÉGUA DE OFERTAS.
+iCARE NOHS - Erro para alterar exclusão do e-mail.
+[IB]Erro ao reativar assinatura.
+iCARE NOHS - Inclusão e Cancelamento de PPV.
+Erro Tela de Ajustes e Acertos_Icare Nohs
+ICARE NOHS não disponibiliza sinal do BBB para os clientes migrados.
+ICARE NOHS apresentando falha para registro de contato.
+ Introscope Alert Message.
+ICARE NOHS apresentando lentidão.
+ICARE NOHS APRESENTANDO FALHA PARA DISPONIBILIZAR A AGENDA.
+ICARE NOHS: Erro ao vizualizar oferta do ponto adicional gratuito
+[IM]Cobrança indevida do canal Sex zone
+Introscope Alert Message.
+Icare Nohs apresenta lentidão nas trocas de tela
+Icare Nohs. Erro na alteração de forma de pagamento.
+Icare Clientes Nohs. Erro ao consular ordem de serviço.
+Icare Clientes Nohs. Clientes sem opção de segunda antena.
+Problemas com acesso ao iCare Clientes (Treinamento)
+iCare NOHS: Falha ao selecionar itens de serviço.
+ICARE NOHS apresentando falha para assinatura em anexo. 
+ICARE NOHS apresentando falha para o cliente em anexo.
+Cliente migrado consta como um nome e na migração aparece outro cliente.
+iCare NOHS apresentando lentidão para conceder ofertas e pedidos.
+ICARE NOHS APRESENTANDO FALHA PARA O CANCELAMENTO PARA O PROXIMO PERIODO.
+Divergencia endereço 
+iCare NOHS apresentando lentidão nas telas de Ofertas e Produtos
+Icare CLientes Nohs. Nomes Divergentes Icare Legado - Nohs.
+Icare Nohs de Produção com indisponibilidade  na tela de sicronismo.
+Icare Clientes Nohs. Erro na abertura de OS
+Icare Nohs - Sem troca de tecnologia
+iCARE NOHS - Up e Down.
+Icare Legado não atualiza Ordem de Envio após baixa de pagamento
+Icare Clientes Nohs. Falha na tela de “Pacotes e Produtos” e/ou “Combos e Duetos”.
+Icare Clientes Nohs. Atrasado para gerar banda larga.
+iCARE NOHS - NÃO DISPONIBILIZA INCLUSÃO PACOTES OPCIONAIS.
+iCare NOHS apresentando falha ao realizar procedimento de assistecia na guia produtos
+iCare NOHS apresenta lentidão e erros de processamento na tela de Faturas
+Icare Clientes - Cobrança errada de sistema opcional – tela de aquisição
+Icare Clientes Nohs. Não apresenta data para retirada de equipamento.
+Icare Clientes Nohs. Cliente não consegue fazer cancelamento de socio PFC.
+Icare Clientes Nohs. Erro abertura OS
+OS está sendo cancelada ao ser criada
+Icare Nohs com lentidão na EPS Almaviva.
+Icare Clientes Nohs. Falha na aba faturas.
+Cliente adimplente em passo de cobrança - Icare Legado            
+Erro Viva Sky/Código 4 _ Icare Nohs
+Erro para visualizar faturas dos clientes
+CLIENTES QUE COMPRARAM O BBB NÃO ESTAO CONSEGUINDO A LIBERAÇÃO DO CANAL 139
+clientes que pagaram no dia 09-01-2015 já constam pagamento no sistema, porém ainda não saíram de SCOB.
+Clientes em SCOB após pagamento em Sistema
+ICARE NOHS apresentando erros para pesquisas de customers e lentidão em trocas de telas.
+Clientes efetuaram pagamento e permanecem em SCOB
+Produtos cancelados indevidamente
+ICARE NOHS apresentando divergencias de produtos.
+PORTAL SKY CLIENTES apresentando lentidão.
+Intermitência Local - ICARE NOHS lento - AeC
+Icare Nohs apesenta lentidão em todas as telas
+iCARE NOHS - DIVERGENCIA DE INFORMAÇÕES.
+LEGADO - Erro ao reativar.
+Erro ao alterar cadastro - Icare Nohs
+[PA]Alto Volume de Ordem de Envio criada pelo usuario WCONSUME
+ICARE NOHS intermitênte
+ERRO NA MIGRAÇÃO - Faturas
+Divergência Hora abertura
+iCARE NOHS - Cliente com nomes trocados na migração.
+Lentidão Icare Nohs
+iCARE NOHS - Cliente sky livre com Status Ativo.
+Icare. Não permite inclusão de Canal Adulto
+Erro dados cadastrais
+ICARE NOHS apresenta intermitencia na opção "Busca Avançada"
+Sercom alega que o iCare IBS está apesentando lentidão na pesquisa de customers.
+ERRO AO REATIVAR A ASSINATURA 
+ICARE PARCEIRO ADM apresentando lentidão.
+Sistema Opcional com código 4
+Introscope Alert Message
+iCare NOHS apresentando dados divergentes de cliente migrado.
+ICARE NOHS apresenta erro ao realizar aquisição do PPV do BBB 15
+ Icare Legado - Light II  Sem Oferta
+(iCare NOHS) cliente consta como migrado no IBS porém não consulta no NOHS
+iCARE NOHS - Código 6 - Downgrade sem troca de tecnologia - Retira equipamento do parque.
+Icare Clientes Nohs. Erro na liberação do PPV.
+Icare Nohs apresenta lentidão e erro na tela de Equipamentos
+Erro na pesquisa de clientes migrados
+Pedidos não foram concluídos. Sistema não dá opção de reativar assinatura.
+Icare Clientes Nohs. Cliente com nome incorreto após migração
+ERRO AO REATIVAR ASSINATURA.
+iCARE NOHS - Erro de Oferta.
+Up/down - produtos ativos porem pedido ainda apresenta opção de cancelar e não consta outro pedido.
+Icare. Falha ao tentar reativar assinatura do cliente
+Icare Clientes Nohs. Cliente adimplente
+GrupoNames corretos, mas os registros não estão disponíveis conforme Prints do e-mail anterior. 
+Icare Nohs liberação de PPV apresenta erro.
+iCare NOHS apresentando lentidão e intermitencias
+ICARE IBS não estpa apresentando oferta para cliente FIT
+Data de Expedição do PPV.
+Icare Clientes Nohs. Erro ao ativar assinatura para BBB
+Icare Clientes Treinamento. Erro ao processar informação ao acesso da ferramenta 
+ICARE NOHS não apresenta PEC como metodo de pagamento na Recarga
+Icare CLientes Nohs. Cliente migrado não consta após migração
+Icare Clientes Nohs. Erro ao abrir pagina de historico de eventos.
+Icare Clientes Nohs. OS com falha de  status pendente a mais de 72 horas.
+Icare Clientes Nohs. Erro ao incluir Cliente no PPV
+[PM]Icare. Pacote PFC não disponibilizado no valor 79,90 para cliente.
+Icare Clientes Nohs. Clientes efetuaram pagamento após migração consta não foi importada.
+Intermitência na Ferramenta iCARE NOHS {TREINAMENTO}
+Icare Clientes Nohs. Cliente não localizado.
+IBS Area Contas a Receber;  Arquitetura NOHS/Legado;  Caract...
+ICARE NOHS apresenta clientes sem pacote principal
+ICARE NOHS apresenta intermitências e lentidão
+ICARE APRESENTA FALHA AO REALIZAR O CANCELAMENTO
+Status do equipamento fica ativo e só altera na retirada do mesmo.
+Ofertas não são consultadas por um usuário.
+Icare Clientes Nohs. Sistema não da Opção de marcação em OS "CLIENTE POSSUI INSTALAÇÃO SDU", tem que estar escrevendo manual.
+Icare Treinamento. Falha no acesso.
+NOHS com erros intermitentes na busca e ao logar.
+Icare Clientes Nohs. Falha na nova funcionalidade de OS Plano de Visita
+[IM]Icare Clientes Nohs. Falha ao gerar OS para cliente.
+Icare Clientes Nohs. Erro ao alterar endereço 
+Ocorrência 16_01_2015 ICARE NOHS ALTERAÇÃO ENDEREÇO
+[SKY][CA618434] - Alto Volume de Ordem de Envio criada pelo usuario WCONSUME
+** DDH_0108.38636 **
+ICARE NOHS apresentando lentidão e erros para pesquisas de customers.
+Erro na migração nóhs - assintura juridica 
+ICARE NOHS apresenta erros e lentidão intermitentes
+Icare NÓHS com erros intermitentes e lentidão.
+iCARE NOHS - Apresenta erro intermitentes
+Erro tela de faturas
+Erro ao registrar contato- nóhs
+iCARE NOHS apresentando erros intermitentes.
+iCare NOHS: Valor de recarga inexistente e não gerou fatura. 
+Soliciação de Execução de script conforme anexo
+Não fechou fatura 
+ICARE NOHS apresenta falha ao editar OS
+iCARE NOHS - Falha na alteração de vencimento.
+ Icare Clientes - Historico 
+Icare Clientes Nohs. Erro ao solicitar BBB. 
+ICARE alarmando
+Icare Clientes Nohs. Mensagem de erro ao enviar comando
+Liberação de evento não disponivel - BBB
+Intermitências na consulta de equipamentos - Técnica -> Consulta OSI
+Configuração de Item na cotação sem Id - Incidente 615054 encerrado indevidamente
+Erro ao realizar o parcelamento
+PRODUTO NÃO MIGRADO
+Icare Clientes Nohs. Erro ao abrir assinatura do cliente.
+[PM]Cliente sem direito a Globo com informação de canal ativo. 
+Andamento de pedidos
+Icare Nohs com lentidão excessiva e erros intermitentes.
+Icare Clientes Nohs. Cliente consta com pagamento feito, porém não foi feito 
+Icare Clientes Nohs. Clientes ativo não constam serviços.
+Incidente referente a normalização no BBB15 formalizando a ação feita.
+iCARE NOHS - Erro cadastro do cliente.
+Icare Clientes Nohs. Canal combate indisponível para o opcional.
+ICARE LEGADO apresentando falha o Parcelamento IBS está disponibilizando mais de 6 parcelas.
+ICARE NOHS apresentando erro para logar.
+ICARE TREINAMENTO apresenta falha na pesquisa de customers.
+Opcional COMBAT não esta aparecendo para compra
+INCLUSÃO EQUIPAMENTO PERTENCENTE AO COMBO.
+iCARE NOHS - Reativação.
+iCARE NOHS - Apresenta Lentidão.
+Icare Nóhs não disponibiliza visualização dos opcionais - tela de pacotes e produtos
+iCARE NOHS - Erro ao incluir equipamento.
+Icare nohs apresentando erros intermitentes.
+ICARE NOHS apresenta falha para registro de contato
+iCare NOHS apresenta falha na data de criação de OS
+iCARE NOHS - SISTEMA OPCIONAL GRATIS 12 MESES - ERRO.
+Icare Legado - Inadimplência Indevida
+iCARE NOHS - Divergência na assinatura.
+Icare NHOS com problemas na tela de inclusão de ofertas
+iCARE NOHS - Apresenta erros intermitentes.
+iCARE NOHS - DIVERGENCIA DE CADASTRO ICARE LEGADOxNOHS.
+ICARE NOHS apresenta lentidão acima do normal.
+Falha no Histórico do GPT
+[IM]ERRO AO REALIZAR RECARGA CLIENTE TURBO.
+Alto Volume de Ordem de Envio criada pelo usuario WCONSUME.
+ICARE NOHS - Apresenta indisponibilidade.
+Icare Nohs Erro na tela de ofertas - Na finalização da negociação.
+ICARE NOHS apresentando erros intermitentes e lentidão.
+Os de Ponto Opcional
+Icare Clientes Nohs. Falha na migração de pós light
+Evento "COMBATE" não disponível no ICARE NOHS
+ICARE NOHS apresenta falha ao realizar suspensão temporária.
+Filme Cine SKY HD não está sendo comercializado no iCare NOHS
+Icare Clientes Nohs. Erro no agendamento.
+Icare Clientes Nohs. Dados divergentes após a migração.
+Icare Clientes Nohs. Pagamento não atualizado
+Icare Nohs - apresenta falha para compra de PPV
+Cliente Nohs com dados incorretos após a migração
+ICARE NOHS apresentando falha consultar o registro de contato.
+Erro ao atualizar dados cadastrais
+Falha ao abrir pendente
+SISTEMA NOHS COM LENTIDÃO.
+ICARE NOHS apresentando falha para o registro em postecipado.
+iCARE NOHS - ERRO CALENDARIO.
+Problemas no SIEBEL 8 gerando erros e lentidão na Busca de clientes e telas de Ofertas, Pacotes e Produtos e Combos e Duetos
+Exibição da Data de Próximo Faturamento
+Cliente está sendo cobrado de taxa de adesão + primeira mensalidade no ato do cadastro.
+Icare Legado - registro de contato categoria: reativação/retenção    // Subcategoria: aceita reat/recusa. Indisponível desde 13/01.               
+Icare Clientes Nohs. Erro ao reativar assinatura
+Icare Clientes Nohs. Cliente migrado não foi localizado.
+Icare Clientes Nohs. Clientes com dados divergentes.
+FALHA TELECINE HD
+Cadastro de cliente não localizado no iCare NOHS.
+ICARE CAMPO falha na geração da OS de SIM25 para equipamentos HD. 
+ICARE NOHS apresenta intermitencias para realizar atividades.
+ICARE NOHS não apresenta o calendario durante o fluxo GPT
+ICARE NOHS apresenta falha para alterar os dados cadastrais.
+ASSINATURA SEM PACOTE NO PARQUE - COD CLIENTE: 131717234
+Solicitação - incluir URL: /ICareOrderManagementUI/BasicProductChange/Index
+ICARE NOH apresenta falha na inclusão de temporadas
+Erro ao acessar cadastro:
+Ao realizar o processo de creditos e acertos icare nohs apresentou falha;
+ICARE NOHS apresenta lentidão e erros intermitentes. 
+Data de Execução do Pedido está anterior a Data de Criaç...
+Icare NOHS apresentando lentidão e erros intermitentes
+ICARE NOHS apresenta intermitencias e lentidão.
+ICARE TREINAMENTO apresenta erros intermitentes
+Clientes sky livre com tarifação correta, porém com vigência divergente nos sistemas
+Usuários concedendo créditos indevidamente 
+Post-it inoperante
+Icare Legado. Cliente pré pago 12 meses com mensagem para efetuar recarga.
+Icare Clientes Nohs. Não consegue incluir combate para opcional. 
+Icare Clientes Nohs. Valor BBB incorreto.
+iCARE NOHS - Erro na inclusão  Opcional.
+Icare Clientes Nohs. Pagamento não atualizado.
+iCARE NOHS - Erro ao Habilitar/Recadastrar equipamentos.
+Icare Clientes Nohs. Não consta cliente após migração.
+Icare Clientes Nohs. Não abre pagina devolução de valores para cliente.
+iCARE NOHS - Apresenta lentidão e erros intermitentes.
+Icare Clientes Nohs. Sistema disponbilizando mais de 6 equipamentos para assinatura.
+Icare Clientes Nohs. Nome divergente após migração.
+iCARE NOHs - Erro Sistemico SOA.
+ICARE CLIENTES NOHS lento
+Icare Clientes Nohs. Cadastro de cliente sem GEOCODE.
+Erro ao seguir fluxo GPT - Cadastro do cliente correto.
+IBS Area Contas a Receber;  Arquitetura NOHS/Legado;  Caract...
+Icare Clientes Nohs. Não abre pedidos do cliente.
+Icare Clientes Nohs. Erro na tabulação ao finalizar registro.
+Icare Clientes Nohs. Erro na liberação do canal Combate.
+Arquivo XML - Jogos dos Campeonatos Estaduais 31-01-2015
+iCARE NOHS - Apresenta lentidão e erros intermitentes.
+iCARE NOHS - Divergencia.
+iCARE NOHS - Erro na Titularidade.
+Icare Clientes Nohs. Sistema não acata a mudança de MOP
+Erro Icare Legado.
+Icare Clientes Nohs. Cliente Sky livre fez recarga e esta com cod 4.
+[IM]Icare Clientes Nohs. Erro ao liberar SPFC
+Icare Clientes Nohs. Erro ao localizar assinatura
+Icare legado indisponível e com lentidão 
+iCARE NOHS - Inclusão de Comate com Downgrade indevido.
+ICARE NOHS apresentando falha para cancelamento.
+iCARE NOHS - Indisponivel para logar.
+Erro  BRM. 
+iCARE NOHS - Lentidão e erros intermitentes.
+iCARE NOHS - Pagamento Cartão de Crédito.
+[IM]Erro PFC
+iCARE NOHS - Erro no cadastro do cliente.
+ICARE NOHS apresenta intermitências durante o atendimento
+ICARE NOHS apresente intermitências
+Cliente migrado com informação divergente do LEGADO X NOHS
+Icare Clientes Nohs. Cliente em duplicidade após migração.
+[IM]Icare. Erro ao incluir Canal Sex Zone.
+Icare Clientes Nohs. Erro ao adicionar pacote atual na quote.
+Icare. Sistema não nos permite a alteração da ação para selecionar equipamento HD
+iCARE NOHS - Falha na inclusão de sistema opcional. Informa número máximo de equipamentos.
+Icare NOHS não apresenta a opção de realizar recarga no cartão de credito.
+Icare Clientes Nohs. Erro ao registrar contato.
+Dados dos clientes divergentes, após migração.
+Icare Clientes Nohs. Erro na tela de pacotes e produtos não disponibilizando todos os produtos para os clientes
+Erro Nóhs Banda Larga.
+iCARE NOHS - Erro na suspensao temporaria.
+Falha na retirada do telefone residencial do cadastro do assinante
+iCARE NOHS - Não disponibiliza o produto.
+ICARE LEGADO apresenta indisponibilidade
+ICARE NOHS apresenta lentidão e erros intermitentes.
+ICARE NOHS TRN apresenta intermitências
+ICARE NOHS apresentando erro para consultar customers.
+Indisponibilidade de serviceID dos jogos do dia 03/02/2015, BT: 0094175
+ICARE CLIENTES apresenta falha intermitênte na pesquisa avançada pelo CPF
+ERRO TELA DE PACOTES E PRODUTOS.
+ICARE NOHS apreseta dados cadastrais divergentes do IBS
+Icare Clientes Nohs. Paginas de OS apresentam erro.
+Icare Clientes Nohs. Erro ao cadastrar equipamento.
+Icare Clientes Nohs. Não disponibiliza produto.
+Lentidão e erros intermitentes no ICare Nohs
+Icare Clientes Nohs. Erro ao incluir assistência técnica.
+Indisponibilidade IcareClientes - TREINAMENTO
+Icare Clientes Nohs. Não consegue cancelar assistência do cliente.
+Icare Clientes Nohs. Falha ao efetuar suspensao temporaria.
+Icare Clientes Nohs. Erro ao efetuar suspensao temporaria.
+ICARE TREINAMENTO apresenta falhas de acesso e erros intermitentes
+ICARE NOHS apresenta falhas intermitentes.
+PFC NÃO ESTÁ DISPONIVEL PARA VENDAS.
+Combo com futebol Indisponível 
+iCARE NOHS - Erro inclusão canais a la carte.
+Icare Legado inoperante
+Icare Lentidão ao reativar assinatura.
+Icare Nohs apresenta erro intermitentes e lentidão.
+Clientes sem inclusão de  pacote opcional - Icare Nohs
+iCARE NOHS -
+Divergência de dados de cliente entre NOHS e Legado.
+ICARE NOHS apresenta erros intermitentes
+ICARE NOHS com Historico de Eventos intermitente. 
+ICARE NOHS apresentando falha na aba de faturas.
+iCARE NOHS - Dados Divergentes.
+ICARE IBS apresenta falha na reativação de assinatura
+iCARE NOHS - Customer 179321285.
+ICARE NOHS apresenta intermitências
+ICARE NOHS apresentando falha para o cancelamento.
+ CANCELAMENTO DO PFC - 05/02
+ICARE NOHS apresenta falha na alteração de endereço do cliente
+Cliente sem planos para de banda larga
+Pacotes e produtos tela em branco. 
+Erro ao registrar pendente (crédito fora da alçada).
+Icare Clientes Nohs. Casos pendentes com prazo espirado não foram resolvidos.
+Icare Clientes Nohs. Não esta habilitando opção de recarga.
+Icare Clientes Nohs. OS pendentes fora do prazo determinado. 
+iCARE NOHS - Apresenta erros intermitentes.
+iCARE NOHS - Valor incorreto
+Icare Clientes NOhs. Cliente não consegue realizar gravação externa, pois, falta o Produto no Parque 
+Icare Clientes - Erro ao Cancelar canal adulto Sex Zone (SD ou HD) que faz parte do pacote Combo. 
+Usuario informa que não estam conseguindo efetuar nenhuma inclusão de pacote opcional.
+iCARE NOHS - Erro para habilitar equipamento.
+iCARE NOHS - Aquisição de Equipamento sendo Cobrado.
+Icare Clientes Nohs. Tela branca na tela de pacotes e produtos.
+ICARE NÓHS - INCLUSÃO OPCINAL - EM ANDAMENTO - NÃO LIBERADO PARA O ASSINANTE
+Ambiente NOHS com intermitências
+cobrança indevida para customer.
+Erro no ICARE ao tentar incluir cliente ao premiere.
+Icare Legado. PREMIERE SD A ou B + estadual  com pacote ATIVO e não liberou
+PPV dos Jogos do Estaduais de 8/Fev/15 não disponíveis
+Icare.´Pacote premiere ativo e em sua TV aparece na tela a mensagem pedindo
+Tela Palavra do Cliente com falha
+ICARE NOHS apresenta duplicidade de pedidos no PFC
+ICARE NOHS apresenta erros intermitentes
+Ao alterar o endereço do cliente sistema icare nohs apresentou uma mensagem de erro.
+ICARE NOHS inconsistente - Lentidão e erros intermitêntes
+ICARE CLIENTES TREINAMENTO com problemas para pesquisar Customers
+Problema gerado para criar pedido no ICARE NOHS
+ICARE NOHS - Pacotes e produtos - intermitente
+ICARE NOHS apresentando indisponibilidade para consulta de customers.
+iCARE NOHS - BBB Não disponível.
+Icare NOHS apresentando lentidão e erros intermitentes.
+Reagendar a Ordem de serviço
+ICare NOHS não permite troca de equipamento.
+iCARE NOHS - Erro na tela de cobrança.
+iCARE NOHS - Pendente fora do prazo.
+ICARE NOHS intermitênte na aba Financeira
+ICARE LEGADO, URA HAB, ICARE PARCEIRO, GTI apresentando indisponibilidade para geração de O.ss.
+ICARE NOHS apresentando erros intermitentes.
+Erro ao incluir PFC 
+ICARE NOHS apresentando erros após o cancelamento de pedidos a campanha não voltou.
+Durante a inclusão do sistema opcional, icare nohs gerou o valor errado.
+Icare nóhs  cliente sem opção de recarga
+Execução PIN_DEFERRED_ACT_1.
+NOHS com o erro: "The service is unavailable"
+iCARE NOHS - Apresentando erros intermitentes.
+iCARE NOHS - TELA PACOTES E PRODUTOS - TELA BRANCA - NÃO DISPONIBILIZA PACOTES .OPCIONAIS PARA INCLUSÃO.
+OSI - Consulta - apresenta pendente desde do dia 28/01      
+Erro ao executar alteração de endereço no sistema nóhs 
+Icare Nohs apresenta erro na alteração de cadastro.
+ERRO NO ICARE NOHS 
+SPFC cobrando multa indevidamente para clientes.
+Icare Clientes Nohs. Oferta não disponível para cliente.
+Icare nohs Inoperante
+Icare Clientes Nohs. Erro na consulta OSI
+ICare Cliente apresentando erro ao prosseguir com processo de reinstalação em novo endereço.
+ICare Nóhs   falha ao tentar cancelar uma ordem de serviço membrada
+Icare CLientes Nohs. OS Pendente. 
+Icare Clientes Nohs Erro na troca de pacote.
+Icare Clientes Nohs. Dados divergentes.
+iCARE NOHS - Lentidão e erros intermitentes.
+iCARE NOHS - Apresenta erros intermitentes.
+ICARE IBS apresenta lentidão na troca de telas. 
+Cliente migrado não localizado no ICARE NOHS
+Icare CLientes Nohs. Erro ao tentar inserir canal para cliente.
+iCARE NOHS - SEM OPCAO DE  A LA CARTE.
+iCARE NOHS - Não gerou número de Pedido.
+ICARE NOHS apresenta falha campo "Área" no registro de pendente.
+iCARE NOHS - Historico de eventos.
+IcarE Clientes Nohs Não consegue calcular desconto do cliente.
+Icare Clientes Nohs. Inconsistência da data termino de alguns clientes.
+Erro na ferramenta Icare nóhs ao alt o end do cliente
+Lentidão Icare e intermetências 
+SPW Lentidão e intermetências 
+Icare. Parcelamentos não deram baixa no pagamento.
+NOHS apresentando erros intermitentes e o erro: "The service is unavailable".
+Erro na pesquisa de clientes
+Erro nas telas financeira
+ICARE NOHS TRN apresenta erro
+Não estamos conseguindo finalizar as vendas pelo icare aleatoriamente .Ao clicar na opção de 2 ou 4 megas na aba produtos aparece erro
+Produtos não estão sendo apresentados
+ICARE NOHS apresenta dados do cliente divergente. 
+ICARE NOHS apresenta erro para registro de devolução de valores
+  {LEGADO/Repackage 2015} Canal Sex Zone HD faz parte do Pacote > Tela não configurada adequadamente
+Erro ao registrar a data da Visita Tecnica.
+NHOS ALTERAÇÃO DE ENDEREÇO
+Icare Clientes Nohs. Cliente cancelado sem solicitação de pedido.
+Icare Clientes Cliente com dados divergentes após migração.
+Icare nohs falha upgrade 
+Erro no Icare Clientes - Ambiente [Treinamento].
+Area   Contas a Receber;  Arquitetura   NOHS/Legado;  Caracteris...
+Icare Clientes Nohs. Erro no cancelamento
+ Icare Nohs Treinamento apresenta falha
+ICARE NOHS apresenta falha para incluir pacotes estaduais
+iCARE NOHS - Lentidão e erros intermitentes.
+ICARE NOHS não mostra calendário de visita técnica
+PEDIDOS COM ITENS INCOMPATIVEIS COM SUBTIPO
+Icare Clientes Nohs. Erro ao consultar OSI 
+Erro para pesquisa de clientes
+Erro ao rastrear controle.
+iCARE NOHS - Apresenta erro para acessar código de usuário [TREINAMENTO]. 
+ICARE NOHS com lentidão
+ Erro na criação de OS
+Problema para compra do evento 96081: UFC - Pezão x Mir. => 22/02/2015
+iCARE NOHS - Cancelamento de pacote opcional.
+Icare. Falha ao reativar assinatura
+ICARE CLIENTE nOHS.  Falha na baixa de pagamento, cliente esta recebendo cobranças. 
+Icare Nohs apresenta intermitência.
+Falha na pesquisa de customers do iCare NOHS Treinamento.
+Icare Clientes Nohs. Não consta equipamentos do cliente na aba Combos e Duetos.
+Icare Nohs apresenta interminitencia para acesso.
+Mensagem OSD indevida
+ICARE NOHS apresenta erro para acessar a tela de rastreio do controle remoto
+iCARE NOHS [TREINAMENTO].
+iCARE NOHS - Erro de Migração _ Diretor do Itaú .
+Campos não estão aparecendo na aba Pedidos
+Ausência oferta de agrupamento - Nóhs 
+ICARE NOHS apresenta constante intermitência
+Area   Contas a Receber; Faturamento;  Arquitetura   Legado;  Ca...
+[IBS - Legado]Tela cinza nos canais HD - RID não cadastrado no IBS.
+Icare Clientes Nohs. Falha ao registrar contato.
+Icare CLientes Nohs. Dados divergentes. 
+Icare Clientes Nohs. Erro ao cancelar assinatura.
+[IM]Procedimentos executados automaticamente
+Parcelamento Efetuado em mais de 6 parcelas (NOHS)
+Falha ICARE NÃO TROCA PACOTE - AlmaViva GC 19.02.2015 - ERRO
+ICARE NOHS intermitente
+ICARE NOHS apresenta falha na tela de recargas - não aparece a opção de produtos de recarga
+RM10854 - Manutenção da tela de ofertas
+ICARE CLIENTE APRESENTA ERRO CONSULTAR TELA ENVIO DE CONTROLE REMOTO
+ICARE NOHS problemas na TELA Combos e Duetos
+Clientes com programação Ativa perderam o Sinal.
+ICARE NOHS apresenta lentidão e intermitencias
+Sistema com lentidão e intermitência
+Códigos de clientes estão divergentes após migração.
+Erro ao incluir pacote de futebol.
+Não gerou numero de Pedido
+Icare - Divergencia de dados do cliente.
+[IM]carregar os registros dos PPVs dos jogos estaduais de 21/Fev/15 no IBS.
+iCare NOHS com erros intermitentes.
+Icare Clientes Nohs. Cliente cancelado porém ainda ativo.
+Icare CLientes Nohs. Erro Boleto Parcelado Icare Clientes
+Icare Cliente Nohs.  Ao realizar migração ocorre Erro na tela de combos e duetos.
+Inclusão de Assistência técnica para criar OS
+Erro do icare clientes
+O Icare representa erro na alteração de valor da fatura. (reverter).
+RM10854 - Manutenção da tela de ofertas
+RM10854 - Manutenção da tela de ofertas
+Erro para pesquisa de clientes
+Erro para pesquisa de clientes
+ICARE NOHS apresenta erro intermitente na tela de PEDIDOS
+Erro para pesquisa de clientes
+Icare. Erro na liberação de filme PPV.
+ Icare Clientes Nohs.Apresenta intermetência e erros. server error in ' / ICARE CustomerInteractionUI' Application
+Erro Boleto Parcelado Icare Nóhs
+ICARE NOHS apresenta intermitências locais na AeC JPII - Impacto: 60%
+Atraso nas tratativas de pendentes
+Icare erro ao registrar contato
+ICARE NOHS intermitente somente para a EPS Almaviva
+ICARE NOHS TRN apresenta mensagem de erro na tela principal
+ICARE NOHS  - Evento Jogos Estaduais 2015 - Segunda-feira - 23/02 não estão disponíveis no Sistema
+iCARE LEGADO. Apresenta Lentidão.
+Falha no parcelamento de faturas - Evento não está sendo gerado no Sistema
+ICare Cliente apresentando erro ao prosseguir com processo de reinstalação em novo endereço.
+iCare NÓHS - Cliente sem pacote ativo.
+Erro de migração do Legado para o iCare NÓHS.
+Erro ao transicionar vendas no cartão de crédito.
+Cliente recebendo SMS indevido de cobrança.
+iCARE NOHS - Telecine.
+[NOHS] Código 4 >Canais de futebol SPFC todos os campeonatos  HD - Sem serviço setado para liberar imagens.
+Icare Nóhs intermitente
+[PM]Ressarcimento dos clientes de Banda Larga referente as falhas da rede de Janeiro/15.
+[IM] Pró-rata de reativação da assinatura em P6 e P7 no Icare Ibs
+Erro na alteração de endereço - Nohs
+Reincidente 622948 - Tela de ofertas com erro - Sem carregar conteúdo
+ Icare Legado - Indisponivel para reativaçãode assinatura.
+ERRO AO REVERTER A FATURA
+Cliente não sai da serie de cobrança.
+ERRO AO CANCELAR A ASSIANTURA 
+[15.0043 – Melhorias Regra Criação Pedido Siebel (Procedure Siebel)] - erro ao cancelar o pedido de ponto opcional 
+[15.0043 - Tela de Ofertas iCare] - Erro na aba financeiro na categoria ofertas
+Lentidão apresentada para o ICARE LEGADO
+ iCare apresenta erro ao tentar cancelar assinatura.
+ICARE NOHS apresenta mensagem de erro na aba financeiro tela de faturas
+ICARE NOHS apresenta diversos problemas pontuais intermitentes
+iCARE LEGADO apresenta Lentidão.
+Erro ao incluir oferta 
+Inoperância IcareClientes [TREINAMENTO]
+Icare Legado - Apresenta lentidão na reativação de assinatura.
+[PAYMENT TYPE] - Icare CLientes Nohs. Tela combos e duetos em branco.
+Icare CLientes Nohs. ASSINATURA COM PROBLEMA DE SINCRONISMO
+ 0097945: JOGOS ESTADUAIS QUARTA 25.02.15 - Sem service id
+Cliente com PFC cobrando 18x na fatura
+Lentidão Icare
+Legado-IBS] Intemitencia ICare Legado
+Lentidão Icare Nóhs
+Abertura de incidente- Alteração de endereço após migração para nóhs
+Erro ao Cancelar a Assinatura - NOHS
+Icare Legado - erro na consulta dos dados do assinante (status de equipamentos)
+Sistema Icare legado intermitência.
+ICARE NOHS apresenta lentidão e intermitencia em várias telas
+Intermitência durante navegação no ICare Legado
+[PAYMENT TYPE] - ICARE NOHS não carrega opções na tela de Combos e Duetos
+Erro ao verificar histórico de eventos.
+ICARE NOHS apresenta falha no registro de contato.
+Tratamento de erros incorreto - iCare NÓHS
+Icare Clientes NOhs. Sismtema não disponibiliza 2º aparelho para cliente, conforme regra.
+0097945: JOGOS ESTADUAIS QUARTA 25.02.15 - Sem service id
+Icare CLientes Nohs. Falha ao alterar forma de pagamento.
+Lentidão em todas as telas do Icare Nóhs
+Lentidão no iCare NOHS.
+ Mensitef Nohs 25/02
+lentidão Icare Nóhs 
+[IM]Icare Legado. Cliente perdeu pacote após migração.
+Icare CLientes Nohs. Código 4 nos canais de futebol SD e HD dentro do Combo
+Erro de cancelamento de assiantura - customer 108947333
+Nohs - Erro ao cancelar oferta
+ICARE NOHS apresenta falha na tela de faturas
+ICARE LEGADO apresentou intermitencia local na AeC
+ICARE LEGADO apresenta lentidão
+ICARE CLIENTES TREINAMENTO com falha na pagina após login
+Icare clientes apresenta erro para agendar os (não aparece)
+Lentidão na tela de Equipamentos
+Icare Clientes Nohs. Sistema ativo mesmo após cancelamento
+Sem opção na Aba Financeira Produtos para Recarga 
+Icare CLientes Nohs. Falha após migração.
+Nóhs - Erro na alteração de pacotes na tela de  combos e duetos
+Erro no iCare Clientes - cancelamento
+ICARE NOHS apresenta falha para realizar movimentação de produtos
+ICARE NOHS apresenta lentidão na EPS AeC
+ICARE NOHS apresenta erro ao tentar visualizar o histórico de eventos e outras funções, como a tela de pedidos
+ICARE NOHS apresenta falha no processo de recarga.
+Aumento no throughput de comunicação entre módulo funcional iCare Clientes e mecanismo de cache AppFabric
+iCARE NOHS - Sem pacote ativo no parqque.
+ASSISTENCIA PREMIUM INDISPONIVEL
+ICARE NOHS intermitente na EPS ALMAVIVA
+ICARE NOHS não finaliza opção de pagamento de recarga PEC
+Falha Suspensão temporaria
+ICARE NOHS não apresenta tela de Banda Larga
+iCARE NOHS - Apresenta erro ao acessar a pagina
+TESTE
+iCARE NOHS -Divergência de Dados Cliente.
+Icare Nohs - erros após migração do cliente
+Tela de Negociação - Parcelamento NOHS.
+ERRO NO ICARE CLIENTES PARA INCLUIR ASSISTÊNCIA TECNICA  CLIENTE TEM DIREITO<SERCOM>
+Opção de banda larga não possui  cabeçalho lateral  / Icare Nohs
+PPV dos Jogos do Estaduais de 28-Fev não disponíveis
+PPV dos Jogos do Estaduais de 01-Mar não disponíveis
+ICARE CLIENTES COM ERRO PARA logar
+Erro tela de faturas
+iCARE NOHS - Apresenta erro na Tela de Fatura
+UPgrade de equipamento.
+ ICARE NOHS -28-02-15.xlsx
+ICARE CLIENTES-ERRO AO RESGISTRAR CONTATO
+Ocorreu um erro ao processar a informação. Entre em contato com o suporte técnico.   
+Icare Nohs apresentando erro na tela de equipamentos
+[NOHS] Código 6 equipamentos recebendo delete via EMMG
+[Legado] Código 6 equipamentos recebendo delete via EMMG
+NOHS apresentando intermitencia.
+ CAMPEONATOS 
+ICARE NOHS - Erro ao gerar OS.
+[IB]ICARE IBS apresenta falha ao realizar login
+Erro ao seguir GPT.
+ICARE NOHS não apresenta calendário durante a criação de OS
+ICARE TRN NOHS apresenta falha para pesquisa de customers
+ICARE NOHS não habilita a opção de UPGRADE de EQUIPAMENTO
+iCARE NOHS - ERRO ABERTURA DE PENDENTE.
+ICARE NOHS apresenta falha para conceder campeonatos 
+ICARE NOHS apresenta falha no cancelamento de assinatura
+ICARE NOHS apresenta mensagem de erro no registro de contato.
+ERRO AO CONSULTAR TELA DE OSI.
+ERRO AO ABRIR CONTATO PENDENTE DE DEVOLUÇÃO 
+iCARE NOHS - Erro no ICARE para reconexão palavra do cliente.
+ICARE NOHS apresenta troca indevida de pacotes
+iCARE NOHS - Erro ao solicitar Ponto Opcional.
+ICARE NOHS desloga após acesso na tela de combos e duetos
+Icare Nohs apresenta erro para efetuar o upgrade.
+ICARE HOMOLOGA INDISPONIVEL 
+Erro na inclusão do Ponto 02.03
+Indisponibiidade - Aquisição do filme Maze Runner: Correr ou morrer
+Cobrança indevida de ponto opcional  no pacote Light SII 2013  ICARE NÒHS.
+Lentidão Icare
+Ao conceder ponto adicional o ICARE NOHS está cobrando o dobro do valor correto.
+ICARE NOHS HOMOLOGA INOPERANTE 
+ICARE NOHS apresenta divergencia de nomes do SIEBEL 8
+Alerta no serviço ICare – ASP.NET Avg Rsp Time.
+CLIENTE MIGRADO NOHS apresenta divergencia de pacotes após migração
+No registro de contato não avança para a proxima tela
+[IB]ICARE IBS apresenta falha na criação de OS
+ICARE NOHS TRN apresenta falha na consulta de customers
+Erro na alteração de endereço no NOHS
+[PB]Icare SAC LEGADO - Falha na criação de OS.
+[IB]Icare Legado. Erro ao reativar assinatura do cliente.
+[IM]BANCO DO BRASIL SA ESTILO MOEMA/SAO PAULO-SP //124060994
+sistema IBS/SAP
+Erros iCare 28/02/2015 - Task Force Repackage (HML)
+Cliente não fecha fatura desde o mês 04/2014 
+Alerta de monitoração do ICare – Icare Customer Billing UI Pages, Stall Count – Icare Customer Interaction UI Pages, Stall Count – Icare Problem Management UI Pages, Stall Count
+[IM]ICARE SAC disponibilizou mais de 6 equipamentos para cliente
+ICare – Icare ASP.NET, Avg Rsp Time.
+Icare Sac Nohs -Falha em Funcionalidade 
+ Tramitação com erro no retorno da OSE
+smartcard 557245982 
+Erro ao realizar recarga.
+ERRO AO SOLICITAR TROCA DE TECNOLOGIA ICARE CLIENTES 
+ ICare Parceiro esta apresentando erro .
+[IB]ERRO LEGADO|| PAGAMENTO EM CARTAO DE CREDITO
+ICARE LEGADO NÃO POSSUI OPCIONAL SPFC EM HD PARA OFERTAR PARA O CLIENTE.
+Erro ao iniciar o iCare HML (busca de clientes)
+lentidão em todas as telas do Icare 
+Alerta de monitoração do ICare – Icare – ASP.NET, Avg Rsp Time.
+ERRO PARA AGENDAR OS
+Divergencia de dados no iCare NOHS.
+Falha IACARE Aba produtos- AlmaViva GC 05.03.2015 - ERRO
+Icare Nohs apresenta intermitencia
+ERRO ICARE
+ Cliente com Produto SPFC Bras A EB+SC habilitado em Triplicidade no BRM
+CommunicationsInvoiceReportEBSV2PS
+ Falha na Alteração Cadastral
+INCLUSÃO DE OPCIONAIS OU EQUIPAMENTOS
+ALTERAÇÃO DE VENCIMENTO
+Erro para verificação de faturas no ICARE clientes
+O erro aconteceu na tela de Pacotes e Produtos na tentativa de comprar um opcional.
+Icare Inoperante
+ICARE NOHS apresenta erros intermitentes
+[IM]Cliente em passo 7 continua tendo produto Banda Larga Ativo 
+ICARE NOHS apresenta intermitencia em diversas telas. 
+Icare clientes - pendentes fora do prazo - Up e Down - Cancelamento Combate
+ICARE NOHS apresenta alerta no serviço introscope
+Erro de sincronismo alteração de plano customer 31175320 (NOHS)
+ICARE NOHS TRN apresenta falha na busca de customers
+Erro na alteração de Endereço do assinante.
+Erro ao efetuar  cancelamentos
+Icare Clientes Nohs. Parcelamento não implatado.
+ICARE apresenta flaha no agendamento de OS
+Cliente NOHS reativado sem pacote principal
+ICARE NOHS HML apresenta falha na busca de customers
+[IM]Clientes Livre realizam recarga e estão sem liberação de sinal
+FALHA NA ABERTURA DE PENDENTE_Twitter_@luisdisousa_43977637
+Falha na tabulação de inadimplencia.
+[IM] ICARE NHOS Sem opção de Recarga na Aba Financeira
+[IB]Falha na solicitação de ponto opcionais na tela de equipamentos
+Erro na alteração de dados cadastrais - Icare Nohs
+Falha iCare Combos e Duetos
+Icare Nohs não gera o nº de pedido após a recarga
+Registro de pendente - Icare nohs               
+Indisponibilidade de ServiceID's: 0099835: JOGOS ESTADUAIS DOMINGO 08.03.15
+Falha ao realizar cancelamento de acerto.
+ICARE NOHS apresenta falha ao realizar ajuste (Financeiro/Créditos e Acertos)
+iCare homologação, apresenta falha.
+Erro na aba relacionamento.
+Falha ao atualizar dados cadastrais.
+Lentidão Icare 
+ICARE NOHS apresenta lentidão
+Falha ao adicionar um equipamento.
+ICARE NOHS HML com falha
+ICARE NOHS gerou oferta em triplicidade durante a inclusão do pedido.
+ICARE NOHS HML apresenta falha ao acessar a tela de ofertas
+ICARE NOHS falha no pagamento com cartão de crédito
+ICARE NÓHS SEM OPÇÃO DE RECARGA
+DIVERGÊNCIA DE VALORES - AÇÃO 
+ICARE NOHS com lentidão na tela de faturas
+CLIENTE MIGRADO NOHS com dados cadastrais
+ NÃO GERA NÚMERO DE PEDIDO
+Erro  iCare homologação
+Lentidão no ICare Nohs para todas as telas.
+lentidão em todas as telas - CHAMDO REF. 625496
+ICARE NOHS apresenta lentidão e erros intermitentes.
+ICARE NOHS HML apresenta falha na tramitação de pedidos
+Produtos e Pacotes - Erro ao alterar pacote - Nóhs 
+Lentidão Icare
+Icare Homologa indisponivel
+Icare  Nohs treinamento Falha na Busca de clientes.
+Icare Nohs apresenta intermitências
+Prazo Expirado - Icare Nohs reativação de assinatura.
+Divergência quanto ao conteúdo do parque do cliente entre os sistemas SIEBEL e ICARE CLIENTES. 
+Erro do icare indispinivel pelo navegador
+Sem registro de contato.
+Erro na tabulação VC SKY.
+Lentidão Icare Nohs 
+Icare Nohs - apresenta lentidão e intermitências
+Icare : Alteração de endpoint para atendimento a RM 10746 em HML
+Gerar OSE - Nóhs.
+Erro na liberação de ponto opcional.
+14.0220 Repackage - Nóhs - Ambiente Icare Nóhs Homologa Intermitente
+ICARE CLIENTES - Não está agendando visitas
+ERRO AO MIGRAR ASSINATURA PÓS PARA SKY LIVRE
+Pedidos de Não deveriam gerar O.S. e geraram
+Erro na migração.
+[NOHS] Código 4 >Canais de futebol SPFC todos os campeonatos HD - Sem serviço setado para liberar imagens. 
+Ambiente de HML-NOHS - Erro na tramitação
+ Indisponibilidade de serviceID, BT's: 0100501 e 0100151
+Lentidão e Intermitência 
+Icare Nohs apresenta intermitências
+Sky Pré Pago - sem sinal após recarga.
+Erro na alteração de endereço no NOHS
+ERRO NO UPGRADE DE EQUIPAMENTO
+ICare SAC NOHS permite inclusão de equipamento incorreto.
+Erro Icare Nóhs - Reversão 
+ICARE NOHS não habilita campos na tela de créditos e acertos.
+ICARE NOHS apresenta indisponibilidade de acesso.
+Erro SKYTEF
+Ticket a Infraestrutura - Erro iCare HML-NOHS
+CLIENTE NOHS apresenta duplicidade de pacotes no Parque
+Ticket à Infraestrutura - iCare HML-NOHS indisponível
+ICARE NOHS apresenta lentidão e erros intermitentes
+Alarme no Serviço ICARE Front
+Ticket à Infraestrutura - iCare HML-NOHS indisponível
+ICARE NOHS não carrega ações na aba de equipamentos
+[IM]Problemas na entrada em Suspensão Temporária IBS
+Faturamento BRM 12/03
+Numeração de pedido foi gerada mas não aparece na aba de pedidos
+Agentes de Homologação.
+Erro de migração.
+ICARE NOHS não apresenta desconto conforme informado no PORTAL SKY CLIENTES
+ICARE CLIENTES NOHS apresenta falha para reativar assinaturas
+Após reativação tela principal não apresenta produto de Cliente NOHS 
+Lentidão no Icare NOHs na aba Financeiro
+Alarme icare nohs Front
+Intermitencia no Icare NOHS
+Erro ao realizar cancelamento de pedido
+Cliente livre sendo cobrado por visita Tecnica 
+Erro ao realizar UPGRADE
+Relatorios do Control Guide inconsistentes
+desde o dia 02/03 cliente quer fazer a troca do PREMIERE.
+Nóhs - Erro ao cancelar oferta
+Lentidão e Intermitência Icare nóhs 
+Alerta de FileSystem no servidor Syssvc01
+[14.0022.MK-Atualização CEPs - Globo::IN] - Clientes NOHS sem o canal Globo Taubaté
+Clientes IBS sem o canal Globo Taubaté.
+[IB] ICARE IBS apresenta falha no registro de contato.
+ICARE NOHS apresentando falhas intermitentes
+ICARE NOHS HML apresenta falha ao acessar a tela de combos e duetos
+ICARE NOHS HML apresenta falha ao acessar a tela de Ofertas
+Registro de Contato para Devolução de Valores com descrições erradas na máscara de OSI.
+Icare legado - desconto indevido.
+Pendentes fora do prazo e Finalizado sem tratativa
+Recarga consta em não faturado e não ativa o sinal  (licare egado)
+Icare - 13-03 Erro de migração.xlsx
+Divergencia na Migração
+SEM INFORMAÇÃO DE COBRANÇA NA TELA PRINCIPAL DO ICARE
+Premiere inativo no parque do cliente - faz parte da composição do combo
+ICARE NOHS apresenta falha na aba pedidos
+iCARE NOHS - Erro para gerar os-nao seleciona receptor.
+ICARE NOHS apresenta intermitencia e erros intermitentes
+Alerta no Serviço BRM
+Dados cadastrais divergentes
+Icare Clientes - SPFC cobrando diversas vezes na fatura 
+URA HAB 4004-2112 apresenta intermitencia para reconhecer clientes IBS
+Perda de Histórico
+iCARE NOHS - Apresenta lentidão e intermitencia.
+Erro no processamento faturamento BRM 14/03/2015 -  GeracaoFatura_Printhouse
+GENTE INCLUIU PFC PARA O CLIENTE PORÉM FORAM GERADOS 9 PEDIDOS NA ASSINATURA DO CLIENTE
+Alguns casos tem OSI (Problema com Registro de Up/Downgrade de Sinal) Fora do prazo.
+FALHA NO ICARE Cliente
+iCARE NOHS - Apresenta erro na aba FINANCEIRO.
+Reinstalação em novo endereço
+ICARE NOHS HML apresenta falha na tela ofertas
+ICARE NOHS HML apresenta erro na para identificar próximo vencimento.
+ICARE NOHS HML apresenta falha ao acessar a tela de Faturas
+Erro histórico de evento GRC 160315.
+ICARE NOHS apresenta falha ao conceder o desconto
+ICARE NOHS HML apresenta falha ao realizar cancelamento
+ICARE NOHS apresenta lentidão na tela de faturas
+Dados divergentes após migração.
+Alerta Monitoraçao ICare
+ICARE NOHS apresenta lentidão intermitente em diversas telas
+[14.0206.FI-RGC - Faturamento Postecipado NOHS::N] Codigo 13 - Playboy TV e Sex Hot - P, não está liberando o sinal - sem service ID. 
+Dados divergentes após migração.
+Duplicidade de Receptores
+ICARE NOHS com erro para mudança de endereço - Erro: "Telefone residencial inválido (Endereço de segunda antena)".
+ICARE NOHS HML apresenta falha para registro de contato.
+Cobrança Indevida Premiere Combate Cancelamento
+Icare NOhs lentidão e erros intermitêntes.
+Icare Nohs - erro 2ºponto RECARGA FIT DOBRO.
+Lentidão Tela Pacotes e Produtos - Icare Nohs
+ICARE NOHS apresenta intermitencia em algumas telas
+ICARE NOHS apresenta falha ao realizar consulta de pedidos com filtro
+Ticket a Infraestrutura - Pedidos em "Andamento locked".
+Agentes de Homologação.
+Lentidão em todas as telas
+ICARE NOHS apresenta lentidão para realizar atividades
+Alerta Monitoraçao ICare
+Assinatura Sky Livre Sem a inclusão do SKY FIT pré-pago 3M - AFC
+ICARE NOHS apresenta erro na atualização de dados cadastrais (Telefone).
+Identificado erro no DUMP DE MEMÓRIA do sistema ICARE NOHS
+Area   Contas a Receber;  Arquitetura   Legado   Caracteristica ...
+[SKY-NOHS] Evidencias Erro no Serviço HML
+[NÓHS reincidencia] Código 4 após saída de Scob e Inversão na informação de entrada e saída de Scob no histórico de eventos
+ICARE NOHS - Erro na consulta.
+Falha na migração.
+iCare HML - Inoperante
+Dados divergentes, apos migração.
+Dados divergentes após migração.
+Incidente Ambiente Homologação 2
+Icare Clientes Cliente cancelado com globo ativa 
+Cliente realiza a compra do equipamento em varejo e é ofertado 3 meses de pré-pago gratuito , porém não é habilitado automaticamente 
+Area   Contas a Receber;  Arquitetura   Legado   Caracteristica ...
+Alocação OS Reinstalação Novo Endereço
+ICARE FRONT ALARMANDO EM VERMELHO
+[Nóhs-RID Divergente-Caixa Digital]Codigo 14_ Rid Divergente ArquivoXTela de Info Teste.
+ICARE NOHS apresenta Falha intermitente na aba: Técnica / tela: Histórico de Eventos
+ICARE NOHS HML apresenta falha na tela pesquisar clientes.
+ICARE NOHS apresenta lentidão extrema em diversas telas
+iCARE NOHS - LENTIDÃO ABA FINANCEIRO
+Lentidão em todas as telas
+Falha na Liberação de Recarga via PEC - ICARE NOHS retorna tela de Cartão de Credito indevidamente
+Erro na migração
+CLIENTE MIGRADO COM CUSTOMER DUPLICADO 
+Sistema não reconheceu pagamento do parcelamento IBS
+Inoperância 
+Icare Nohs lento e com erros intermetêntes.
+ Erro iCare nohs treinamento
+Lentidão Faturamento 18/03/2015 - SKY_INV_ACCTS  
+Icare nohs alarmando em vermelho
+Erro ao alterar endereço do cliente
+Indisponibilidade do Icare NOHS
+ICARE NOHS apresenta falha na tela de pacotes e produtos
+Erro nos dados, após migração.
+Realizar limpeza do cache do ambiente de Homoligação
+Produtos cancelados indevidamente
+osc01r9z17db01cn1-client
+Indisponibilidade no icare treinamento nóhs
+Lentidão em todas as telas
+Erro iCare HML - NOHS
+[Reincidente 620843] - ICARE NOHS apresentando falha para o cancelamento.
+Cliente Migrado NOHS com dados cadastrais divergentes.
+ICARE NOHS apresenta lentidão e erros para acessar a ferramenta.
+SMS de desconto não prometido
+Erro de Migração.
+Homologação 2.
+Ao registrar contato no ICARE NOHS apresenta divergencia de Logins no registro
+Inoperancia
+ICARE NÓHS INOPERANTE
+Icare Nohs - Intermitente e lentidão e erros na páginal inicial
+14.0220 Repackage - Nóhs <Atendimento> iCare Indisponivel
+Falha de migração - Mesmo codigo nos ambientes Legado e Nohs com dados cadastrais divergentes
+Icare Cliente Nohs. Sem opção de cancelamento de canal. 
+Erro no Icare Nohs ao alterar o endereço
+ICARE CLIENTES apresenta intermitencia para realizar login. 
+ERRO LIBERAÇÃO RECARGA PEC.
+Falha no pedido - pedido gerado em branco - NOHS
+Erro ao registrar contato
+ICARE NOHS - agente BKO ao responder a tratativa na consulta OSI, o login do agente consta divergente do nome
+Erro para agendar OS.
+14.0220 Repackage - Nóhs <Atendimento> iCare Indisponivel (HOMOLOGAÇÃO)
+Erro para agendar OS.
+Erro no agendamento de OS.
+Icare Cliente não atualiza a data de vencimento da fatura .
+Divergência Post it x Icare NOHS
+Erro Perfil no Operador Retenção.
+ LENTIDÃO ICARECLIENTES <SERCOM> 19/03
+Erro iCare Legado TRN
+Falha no iCare Treinamento.
+Erro Icare Legado
+Erro ao registrar pendente "Irregularidades na venda
+Erro ao registrar pendente "Cliente não recebeu produto/ desconto prometido na Reativação"
+LISTA DE EQUIPAMENTOS EM BRANCO
+ICARE LEGADO TREINAMENTO apresenta falhas intermitentes.
+Falha para realizar recarga - Clientes Nohs que realizaram recargas, passou o prazo de 48 horas e estão sem a programação liberada
+Falha para realizar recarga - Clientes IBS que realizaram recargas, passou o prazo de 48 horas e estão sem a programação liberada
+Icare Clientes Nohs. Erro ao efetuar a alt de end
+Icare Nohs apresenta intermitencia para logar 
+ Inconssitência para alteração de endereço - NOHS
+Inoperância no sistema Icare NOHS
+iCARE NOHS - Alteração.
+ICARE NOHS apresenta divergencia nos pedidos solicitados.
+Erro ao trocar campeonato - NOHS
+Icare Nohs. Falha no cadastramento.
+Erro aquisição de equipamento - NOHS 
+iCare HML-NOHS  HOMOLOGAÇÃO
+Area   Faturamento;  Arquitetura   NOHS;  Caracteristica do Inci...
+OS - Não disponibiliza seleção de equipamentos.
+ICARE NOHS apresenta lentidão para realizar atividades
+Alarme de monitoração do ICare
+ICARE SAC apresenta lentidão para realizar atividades.
+Erro na tela Combos e Duetos.
+Erro ao pesquisar customer - Icare Nohs Treinamento.
+Falha ao pesquisar customer;
+Falha ao pesquisar customer;
+Problemas no processamento - Fatura (669/670)
+Erro na tela combos e duetos.
+[NÓHS]Equipamento projeto Reuso arquitetura NÓHS não habilita no parque
+iCARE NOHS HOMOLOGAÇÃO apresenta LENTIDÃO.
+iCARE NOHS - Apresenta erros
+Código 6, sem quebra de link.
+ICARE SAC IBS apresenta falha ao realizar procedimento de ponto opcional.
+ICARE SAC IBS apresenta falha ao cancelar PPV
+ICARE SAC IBS apresenta falha no registro de contato.
+Ambiente de DEV de Venda+ fora
+Erro ao buscar customer.
+Erro na migração do cadastro 
+Icare Clientes apresentão lentidão e erros intermetêntes.
+Icare CLientes Nohs. erro ao registrar pendente - " Não recebeu devolução de valor no prazo combinado "
+ICARE APRESENTE FALHA ao logar
+Erro na tela OSI.
+ICARE SAC LEGADO apresenta problemas para acessar, após login apresenta Server Erro conforme evidências
+Erro iCare HML
+Lentidão para consulta de telas nas Aba FINANCEIRA
+Icare Nohs apresenta erro na alteração de cadastro.
+ICARE NOHS com falha para registro de contato - razão "Solicitação de devolução de valores - cobrança indevida ou cliente pagou em duplicidade"
+163294000 ** EDERLI JEFFERSON MANTUANI DE LIMA ** ERRO ALTERAÇÃO CADASTRAL 
+iCARE NOHS - Indisponivel (TREINAMENTO)
+ERRO NO CADASTRO NA MIGRAÇÃO.
+ICARE NOHS apresenta erros intermitentes
+Erro na tela Créditos e Acertos.
+ Introscope Alert Message
+Dados Divergentes 
+Erro de Migração do Legado para NÓHS
+Icare Nohs Treinamento apresenta lentidão para consultas de faturas
+Icare Nohs Treinamento apresenta erro para acessar o GPT NOHS.
+Erro ao carregar assinatura no Icare NOHS
+Ajustar campos e-mail e Incr. Estadual na Tela de Cadastro
+Nohs HML - Intermitente
+ICARE NOHS HML apresenta indisponibilidade 
+Lentidão iCare HML
+Mensagem de erro na tela de Pacotes e produtos
+Desconto Financeiro cancelado indevidamente
+ICARE NOHS HML apresenta tarja vermelha na tela de combos e duetos
+Alerta Monitoraçao iCare Stall Count 
+Falha para o cancelamento
+Cliente NOHS apresenta fatura  com data alterada indevidamente
+Cliente nohs sem pacote ou com status invalido
+[14.0274.TN-Telas de Sincronismo::N] Incidente de Garantia de Projetos
+Legado . Erro ao cancelar opcional
+Icare Clientes Nohs. Erro ao fazer habilitação de equipamento
+Icare NOHS. Erro ao fazer habilitação de equipamento
+Oferta de desconto percentual sem pedido gerado
+iCARE NOHS - Apresentan lentidão intermitente em diversas telas.
+Alerta Monitoraçao Zabbix
+ICARE NOHS apresenta erros - HOMOLOGAÇÂO.
+Erro ao gerar O.S
+ICARE NOHS HML com problemas na tela Combos e Duetos
+iCARE NOHS HOMOLOGAÇÃO.
+Erro ao abrir pendente para troca de parceiro
+Problema com registro de contato iCare Legado
+Inclusão de a la carte "Em andamento Locked
+Campo de Recarga no Historico de Recarga está vazio
+INOPERANCIA NOHS
+Icare Legado Treinamento 
+Icare Clientes. Falha abertura de contato pendente
+Icare Nohs está apresentando data errada no agendamento do periodo pago
+Icare Clientes Nohs. Cliente sem endereço de instalação cadastrado
+Icare Clientes Nohs. Erro ao agendar OS.
+Icare Clientes apresenta erro na reversão de transação financeira
+Legado. Erro ao incluir assistência técnica.
+iCARE NOHS - Apresenta lentidão e erros intermitentes.
+ICARE NOHS TREINAMENTO apresenta erros nas telas GPT e COMBOS E DUETOS.
+ICARE NOHS apresenta falha para visualizar ficha de compensação.
+Período pago incorreto
+ICARE NOHS HOMOLOGAÇÃO apresenta erro.
+Erro na migração da assinatura
+Ao realizar troca de pacote sistema cancela Telecine
+ICARE NOHS HML apresenta erros intermitentes
+Divergência de Saldo devedor Lotérica - IBS 
+CANCELAMENTO INDEVIDO NÓHS
+Icare Clientes nohs. Dados divergentes após migração.
+iCARE NOHS - Dados Cadastrais Alterados sem Solicitação ou Informações no Histórico.
+iCARE NOHS - Assinatura Cancelada por Usuário Sistêmico sem Constar Registro de Contato.
+Por favor deletar os serviços do canal 296 (SI 6301) no Icare Legado:
+Assinaturas sendo canceladas sem pedido do cliente
+Icare nohs erro ao abrir pendente
+Falha ao acessar Icare Treinamento.
+NOHS indisponível.
+Falha na Oferta Telecine
+icare nohs - pendente com erro - sem eqp habilitado
+Abertura de Incidente - ERRO ABA CREDITOS E ACEROS -  ICARE CLIENTES
+ERRO NA ABA CREDITOS E ACERTOS
+14.0295.MK-Reajuste de preço para filmes a la carte: Icare Nóhs Fora
+ICARE NOHS apresenta falhas intermitentes  e lentidão 
+ICARE NOHS apresenta falha ao incluir banda larga.
+ICARE NOHS HML apresenta falha no cancelamento de serviços e programações
+ICARE NOHS HML apresenta falha ao conceder ofertas
+ICARE NOHS não permite registro de pendente mesmo com OS aberta.
+iCARE NOHS - Apresenta lentidão na aba FINANCEIRO
+ICARE TRN LEGADO apresenta falhas para realizar login
+Premiere combate degustação ativo indevidamente
+ICARE SAC LEGADO apresenta lentidão extrema para utilização.
+Alteração do faturamento , de antecipado para postecipado. 
+Cliente não teve alteração de Account Status , gerando assim acumulo de valores. 
+COMBO CHECK AO INCLUIR CANAIS A LA CARTE
+Icare Nohs homologação apresenta falha
+NOHS - TradingStatus.Code.Value "NULL"
+14.0220.MK-ROADMAP - Repackage Outubro 2014 - Produtos Antecipados - 
+Pedido de reconexao palavra do cliente - Impede reativação - Nóhs 
+ICARE NOHS apresenta falha na abertura de OSI.
+Erro Na Migração 
+Icare Nohs apresenta lentidão erros.
+LP_DIMENSIONAL_DIARIO > LP_PEDIDO
+LP_DIMENSIONAL_DIARIO > LP_XDWR_DLR_DIM
+Erro Processamento de carga BI -  LP_DIMENSIONAL_DIARIO > PKG_VERIFICA_DEPENDENCIAS
+Erro ao gerar OS.
+Lentidão em todas as telas
+iCARE NOHS - Apresenta lentidão em varias telas.
+Erro Icare IBS
+- iCare HML-NOHS  homologação.
+Alerta Monitoraçao iCare Front (Legado)
+Erro ordem de serviço ibs.
+Erro na migração 31/03
+Icare nohs apresenta lentidão na aba financeiro
+Alerta Monitoraçao iCare (NOHS) Front Stall Count 
+GEOREF - STATUS
+BPM relatorios erro na extração de dados
+ Lentidão Icare Legado 
+Erro na data de cancelamento 
+Icare Clientes NOhs. Falha no rastreio do controle remoto.
+Falha na requisição para alteração de Pacotes
+Promessas de pagamento expiradas com o status "Aguardando Pagamento"
+Lentidão em todas as telas
+GPT falha no legado.
+Icare Legado - inoperante
+Erro ao excluir pacote opcional.
+STEMA ESTÁ DUPLICANDO FATURA APÓS MIGRAÇÃO 
+ERRO NO ICARE NÓHS
+iCARE NOHS - Apresenta lentidão nas abas financeiras
+Erro no iCare NOHS ao buscar customer.
+Icare Clientes - NÃO LOCALIZA ASSINATURAS
+Icare Clientes - REGISTRO DE PENDENTE TECNICO
+Erro ao alterar a data de vencimento
+ Erro na inclusão de Ofertas do tipo Produto. 
+Problemas no ambiente de HML JCA/BRM
+Erro - Nóhs Homologa 
+Icare Clientes -gpt em scob com assinatura adimplente
+Clientes em serie de cobrança indevido - código 4
+Icare Clientes Nohs. Forma de pagamento não atualizo 
+Divergência de dados no Icare NOHS
+ICARE HML com erro na tela Histórico de Eventos
+ICARE NOHS HML apresenta falha no registro de contato.
+Icare Clientes-mensagem ao alterar número de  telefone.
+ICARE NOHS HML apresenta mensagem de que impede a utilização do sistema
+Icare Legado com erro para alguns operadores
+Categoria errada no registro de cancelamento - Nóhs 
+Icare Clientes  -Erro de Migração
+Jogos dos Estaduais 2015 Vs2- Sábado - 04/04
+Sistema não acatou a alteração de data de vencimento dos assinantes
+ICARE NOHS HML apresenta falha ao acessar a tela de Histórico de eventos.
+Falha de Migração
+Categoria errada no registro de cancelamento - Nóhs 
+Lista do Histórico de Eventos
+CLIENTE NOHS com falha na migração de cadastro.
+Sistema cadastrando pacote diversas vezes na conta do cliente.
+Solicitação de inclusão de campeonatos divergentes no ICARE
+Erro ao reverter no icare nóhs
+Ticket à Infraestrutura - iCare não gera pedidos HML-NOHS
+Apresenta lentidão em todas as telas
+Erro no iCare NOHS.
+CLIENTE MIGRADO IBS E NÃO LOCALIZADO NO NOHS
+Erro ao processar venda no Pec
+Erro na busca de customer.
+Input de Banda Larga 
+Registro de contato pendente indisponivel
+Icare Legado apresenta intermitência e lentidão
+[sky-suporte] Ticket à Infraestrutura - iCare NOHS-HML indisponível
+Ambiente de HML do GPT legado.
+Problema ao abrir o calendário do Parceiro
+ICARE NÓHS - LENTIDÃO
+Pendentes sem protocolo - Não carrega no BOS 
+Erro da Tarja vermelha - Combos e Duetos
+iCARE NOHS - Erro para pesquisa de clientes.
+registro de OSI sem a opção PENDENTE DEVOLUÇÃO  
+ICARE NOHS HML apresenta falha na tela de combos e duetos.
+Ticket a Infraestrutura - Pedido com status Pending
+Area   Contas a Receber;  Arquitetura   Legado;  Caracteristica ...
+Falha no iCare Treinamento NOHS.
+iCare IBS impossbilitado de realizar recargas.
+ICARE NOHS apresenta lentidão e erros intermitentes
+LEGADO - Apresenta lentidão intermitente.
+Erro ao buscar custorer.
+Problema no pop up de Registro de Contato
+Cliente migrado com pacote errado 
+ICARE SAC apresenta lentidão e erros intermitentes.
+Cliente TOP que esta esperando uma mudança de pacote desde Janeiro
+Operações reportam lentidão no sistema ICARE NOHS 
+Sistema está mantendo clientes congelados
+ERRO AO ALTERAR ENDEREÇO DE CLIENTE NO NOHS
+Erro de migração.
+Icare Clientes Nohs. Falha no cancelamento. 
+ICARE CLIENTES indisponível para loguin
+Erro ao utilizar a reconexão 'palavra do cliente'
+iCARE NOHS - Erro para pesquisa de clientes.
+Ticket a Infraestrutura - iCare-HML NOHS indisponível
+ICARE SAC apresenta falha no registro de contato
+Clientes IBS apresentam código 4 no BBB 15
+ICARE NOHS apresenta lentidão e erros intermitentes
+Indisponibilidade de serviceID, BT: 0104798: UFC Fight Night - Gonzaga x Cro Cop 2.
+CLIENTES LEGADO com código 4 em todos os canais após fim do BB15
+Ticket a infraestrutura - erro iCare HML-NOHS
+Ticket à Infraestrutura - Migração em HML-NOHS não finalizada
+14.0220 REPACKAGE - ERRO NA PESQUISA
+Ticket à Infraestrutura - iCare HML-NOHS apresenta mensagem de Siebel indisponível
+Icare Nohs apresenta duplicidade de receptor no parque
+Lentidão aba "Financeiro".
+[SKY] ICare Homologação Indisponível
+ICARE IBS - ERRO AO REALIZAR VENDA - PONTO ADICIONAL
+ERRO NA ABA DE CRIAÇÃO DE OS.
+Icare Nohs apresenta intermitencia
+Icare CLientes Nohs. Erro ao reativar assinatura
+Icare Nohs / Campo - não está exibindo todos os itens de serviço 
+Identificado falha na tela de pacotes e produtos
+Icare Nóhs intermitente e apresentando erros
+ICARE NOHS apresenta extrema lentidão na busca de clientes e abas técnicas
+iCare-HML NOHS falha.
+Erro ao buscar customer HML
+Erro ao buscar customer HML
+Erro ao buscar customer HML
+ICARE NOHS - Codigo de Barras Indisponivel
+Erro no cancelamento.
+14.0273.TN-Redução dos grupos de acesso e razões de contato::N - Limpeza de Cache do Ambiente de Homologação
+Criação de incidente em homologação para tratar da correção do nome do grupo ATEND_VC_FIDELIZACAO
+Relógio de Ponto
+ICare Homologação Indisponível
+Erro alteração data de vencimento
+Ajuste dados do cliente Migração NOHS
+Falha na alteração de endereço.
+Códigos HD TOP
+care Clientes  -  Falha na Troca de Equipamento.
+Erro Processamento de carga BI -  LP_DIMENSIONAL_TER_QUI na LP_FINANCEIRO
+TN-Redução dos grupos de acesso e razões de contato::N - Limpeza de Cache do Ambiente de Homologação
+Legado. Falha ao seguir GPT.
+Icare Nohs - Troca de equipamento
+Erro e lentidão Icare CLientes
+APP FABRIC ICARE NOHS
+Icare Nohs - erro retirada de equipamento
+Erro ao alterar pacote para combo.               
+icare Front Alarmando
+[MA 15 0058 - Otimização e Simplificação Tela de Faturas do iCare] Icare Clientes Ultima Ficha de Compensação
+ERRO CANCELAMENTO TV MANTENDO BANDA LARGA ATIVA
+Ticket a Infraestrutura - iCare HML-NOHS indisponível
+Acesso Siebel HML
+Erro na tela de informação do cartão onde não aparece a opção de código de segurança
+iCARE NOHS - Apresenta lentidão
+[Sky] Abertura de incidente - Icare Legado - IBS
+Erro ao alterar vencimento - Nóhs 
+Icare Cliente não abri ficha de compensação
+Projeto: MA 15 0058 - Otimização e Simplificação Tela de Faturas do iCare.
+Icare Clientes SAC. Não consegue tabular
+iCARE NOHS - Apresenta lentidão na tela FATURA
+INCIDENTE HISTÓRICO DE EVENTOS
+Erro ao localizar assinatura.
+iCARE NOHS - Apresenta Erros intermitentes
+Erro na ordem de serviço Icare Ibs.
+Icare Front
+Erro PFC
+Erro upgrade de pacote
+Assinatura migrada não aparece no NOHS
+Erro na migração
+Introscope Alert Message - APP FABRIC - 13/04/2015
+ICARE NOHS apresenta falha nas telas de "Créditos e Acertos" e "Faturas"
+Siebel HML
+Pedidos com status Locked - HML-NOHS
+iCARE NOHS - Cliente diferentes com mesma assinatura.
+ICARE NOHS apresenta falha na consulta de OSI
+iCARE NOHS - Apresenta lentidão.
+ICARE NOHS apresenta falha ao conceder Assistencia Premium
+iCARE NOH - IMPOSSIBILIDADE DE VISUALIZAR FICHA DE COMPENSAÇÃO.
+ iCare HML-NOHS indisponível
+Evento PPV no canal 130
+ICARE NOHS apresenta falha na tela de pacotes e produtos
+iCARE NOHS - Divergência de dados.
+ICARE NOHS apresenta lentidão intermitente
+Problema nos servidores do SKY Online para resolver o hostname “API.SKYOTT.COM.BR” 
+Icare nohs - alteração espontânea da data de vencimento
+Falha na liberação do ponto opcional - Icare Legado
+Erro ao gerar Pedido Reinstalação em Novo Endereço
+Icare Nohs não gera numero de pedido 
+Icare CLientes Nohs. Erro ao abrir OS. 
+Icare clientes NoHS. Erro ao seguir gpt. 
+Icare Clientes NOhs. Divergência no cadastro do cliente. 
+Icare Clientes Nohs. Falha ao cancelar opcional 
+Icare CLientes NOhs. Falha nos valores de cobrança
+dados cadastrais divergentes 
+Erro referente a tela de faturamento 
+ICARE NOHS apresenta lentidão na aba de negociação.
+CADASTRO COM CUSTOMER DUPLICADO 
+BRM
+Falha no cód. de barras
+Rodrigo Santos Rossiter
+Erro geração de pedido Upgrade - iCare HML-NOHS
+ICARE NOHS apresenta falha na atribuição de itens na criação de OS
+LEGADO - Apresenta erro (TREINAMENTO)
+Assinatura - 12617484 migrada e não localizada no Nóhs
+Clientes com dados divergentes
+Cliente Migrado Dados Divergentes 
+PROBLEMA COM VOLUME DE BAIXA DE PAGAMENTO (Arquivo 13/04/2015  7hrs)
+[14.0273.TN] O iCare não filtra por evento 866 e pega sempre a primeira descrição vindo no response
+Carga de Eventos PPV IBS
+ICARE SAC apresenta falha ao tentar liberar parcelamento
+ICARE NOHS - Apresenta lentidão e erros (TREINAMENTO)
+ Inconsistência Nohs
+Icare Clientes NOhs.  Casos para tratamento de baixa de pagamento de cartão de credito com alto volume
+Erro ao migrar o cliente - Icare Nohs
+Icare CLientes Nohs. Sistema não esta gerando ordem de serviço para migração de pacote
+Ordermangement auto consume de CPU
+ICARE NÓHS - NÃO GEROU ORDEM DE SERVIÇO - TARJA AMARELA - TELA COMBOS E DUETOS.
+Erros módulo Customer Billing
+ICARE NOHS apresenta lentidão e erros intermitentes
+Erro UPgrade 
+iCare-HML-NOHS indisponível
+ICARE NOHS HML apresenta falha na tramitação de pedidos
+14.0220 Repackage - Nóhs - Ambiente - iCare NÓHS indisponivel
+Icare Nohs apresenta lentidão
+SKY_AEC_174
+Icare NOHS travando nas negociações via cartão de credito
+Icare Clientes Nohs. Assinatura ativa sem faturamento
+RES: SQL Server Job System: 'JOB_SAS_SMSREPLY_REASON' completed on \\SRVTBSAS04
+ICARE NOHS - ERRO ALTERAÇÃO DE DATA DE VENCIMENTO
+Erro na tela combo e duetos (Intermitente) - Icare Nohs
+ERRO CLIENTE SKY LIVRE
+Tratamento de causa raiz/backlog das duplicidades de cadastros no NOHS - 628784 
+Abertura de Incidente - ABRIR PENDENTE DE DEVOLUÇÃO - NÃO APARECE A CAIXA PARA INSERIR OS DADOS NECESSÁRIOS
+Erro na tela Combos e Duetos
+Clientes com dados divergentes
+ICARE APRESENTOU ERRO NA ALTERAÇÃO DE ENDEREÇO . ALMAVIVA GC 16-04
+ICARE NOHS HML apresenta lentidão e intermitencias
+Erro ao tentar agendar OS de reinstalação de novo endereço.
+Assinatura cancelada com status Ativo 
+Faturamento BRM 16/04
+Icare Clientes Nohs. Erro liberação opcional
+NÓHS - Bloqueio de DCC
+Alteração Cadastral Indevida
+Icare Clientes Nohs. Erro ao agendar OS
+ERRO NA JOB DE CARGA DE ASSINANTES BASE CONVIVENCIA
+Não aparacece mascara para incluir dados bancarios em Registro de Contato de Devolução de Valores.
+Icare Cliente Nohs. Falha na inclusão do canal globo 
+ ERRO NA JOB DE CARGA DE ASSINANTES BASE CONVIVENCIA
+Equipamento descadastrado antes da finalização da ordem de retirada
+Falha ao visualizar consulta OSI
+NOHS com lentidão e erros intermitentes.
+Globo ativa no iCare Clientes para regiões com serviço indisponível.
+Reativação de assinatura sem equipamento
+Icare: Cliente com código 6 e 3 encaminhamento para a célula técnica 
+Ticket a Infraestrutura - Problema na tramitação de pedidos - iCare HML-NOHS
+iCARE NOHS - Apresenta lentidão e erros intermitentes.
+iCARENOHS - Apresenta erro ao reverter.
+NOHS - CANCELAMENTO PPV 17-04 - TP SGA
+Clientes que estão em Régua de Cobrança no Passo 6 e tiveram as Assinaturas canceladas em ambos os Sistemas (BRM e ICARE). 
+Acesso ao Codigo de barras  - Icare Nohs 
+Icare Nóhs não gera OS.
+Formulario BATFONE 2015_ Sócio Torcedor-Produto elegível.
+Erro ao gerar ORDEM DE SERVIÇO 17/04 
+Pedidos de reativação não tramitados
+Erro Viva SKY  - ICare Clientes 
+[REINCIDENCIA] Nohs> ( Codigo 4) Cliente não localizado no Icare Clientes - Verificar causa raiz e backlog.
+ICare SAC NOHS inoperante.
+NÓHS - Bloqueio de DCC
+[MA 15 0058 - Otimização e Simplificação Tela de Faturas do iCare] - Erro na tela de faturas
+ICARE NOHS apresenta falha na alteração de dados Cadastrais.
+Icare Nohs apresenta lentidão
+ICARE NOHS apresenta lentidão intermitente
+ICARE NOHS apresenta falha na busca de protocolos
+ERRO TARJA VERMELHA ICARE NÓHS.
+ICare Clientes  Venda irregular de pacote
+Icare Nohs erro para alguns clientes no Relacionamento.
+Icare Nohs apresenta erro para combos e duetos
+ICARE NOHS apresenta lentidão
+Palavra SKY / Cancelamento / Cliente não recebeu produto/desconto prometido na reversão 
+Icare não abre Máscara para Registrar pendente de Devolução de Valores.
+Erro cadastro cliente
+ICARE NOHS apresenta falha na pesquisa de customers
+ [SKY] Serviço do ICare Homologação Indisponível
+Alteração na forma de pagamento
+Icare Nohs apresenta erro para pesquisa de clientes (Para várias operações)
+Icare Nohs apresenta erro na página inteira e lentidão.
+Icare Legado / Cliente com status cancelado
+Icare Legado - Ponto opcional 
+Cadastro incorreto Nohs 
+Erro ao selecionar IRD para abrir O.S
+iCARE NOHS - Apresenta erro ao logar e lentidão interitente.
+NOHS apresentando lentidão e erros intermimentes.
+Icare Clientes Assinatura Duplicada 
+Falha na migração 
+Erro ao acessar cadastro do cliente no NOHS
+ Erro Contato Pendente - Irregularidade - Desconhece Assinatura
+ICARE NOHS apresenta lentidão nas abas financeiras.
+ICARE NOHS TRN apresenta falha na busca de clientes
+ICARE NOHS HML apresenta falha na tela de combos e duetos conforme anexo.
+Alto volume de erros - Serviço CommunicationsInvoiceReportEBS - BI Publisher
+ICARE NOHS HML apresenta indisponibilidade de acesso
+ERRO DE SINCRONISMO
+icare NOHS - Alteração da data de vencimento.
+ICARE NOHS apresenta falha na tela de pacotes e produtos
+ICARE NOHS apresenta indisponibilidade de acesso.
+Cliente não gera Fatura 
+ERRO AO GERAR OS
+Lentidão Portal SKY Clientes;
+URA HAB
+Cliente não gera Fatura 
+ICARE NOHS apresenta falha ao reconhecer agencias na alteração de MOP
+Erro ao abrir solicitação de devolução de valores.
+ERRO NOHS||REGISTRAR CONTATO||JPA
+Icare Legado. Falha ao reativar cliente.
+LEGADO. Sistema não aplica a suspensão dentro do prazo de 24 horas
+Suspenção temporária de 60 dias apresentando falha no Legado
+ICARE CLIENETS NÃO ABRE TELAS DE FATURAS.
+Alteração de Vencimento Icare Nohs 
+Suspensão não concluída.
+Erro na tela de pagamento do Icare legado (IBS)
+Cancelamento de BAnda Larga não habilita
+Pacote Assistencia Prime II em Conjunto com Assistencia Premium
+Icare Clientes Nohs. Reativação feita sem informação de usuário
+[Nóhs]Urgente> Atraso na Entrega Controle Remoto
+icare apresenta lentidão 
+Erro ambiente iCare HML-NOHS
+Erro devolução de valores.
+iCARE NOHS - Apresenta lentidão e erros intermitentes.
+Cliente migrado NOHS não consta no ICARE NOHS
+ICARE NOHS não atualizou o endereço para reinstalação de equipamento
+Cliente efetuou o pagamento porém não saiu da sére de cobrança
+Icare Clientes Nohs apresenta lentidão.
+Grade Cine SKY - Semana 18
+Icare CLientes Nohs. Erro na abertura de OS.
+ICARE IBS - Sem acesso à tela de Aquisição
+ERRO - SEM ACESSO AO GPT - DUPLICIDADE DE PACOTE NÃO PROCEDE
+NOHS não gera numero de pedido.
+ICARE LEGADO NÃO GERA PRDEM DE SERIÇO
+Icare Clientes Nohs. Erro para acessar tela de pedidos
+Erro ao pesquisar/buscar Customer
+care clientes-erro para registrar reclamaçao do atendimento tecnico
+iCARE NOHS - ERRO ao passar cartão.
+Cliente migrado NOHS apresenta falha na consulta quando adicionado 0 antes do customer
+ICARE SAC apresenta falha após migração de pacotes
+Erro ao abrir pendente
+DADOS DIVERGENTES após migração cliente está com dados divergentes do Legado
+ ICARE CLIENTES INTERMITENTE com muita lentidão 
+{LEGADO} Reagendamento de OS via GPT com lentidão
+Erro iCare HML-NOHS
+ICARE NOHS apresentando erro ao consultar OSI
+ICARE NOHS HML apresenta falha ao realizar migração de equipamento
+Erro na tela Registro de Contatos.
+ICARE NOHS não disponibiliza opção de recargas para clientes
+ICARE NOHS apresenta falha na reativação de Assinaturas
+Icare Nóhs apresenta lentidão
+Icare Nohs - Lentidão na aba finaceiro e erros intermitentes.
+Descontos não obtidos
+Falha tela iCare Clientes -  Sócio Premiere
+Ticket a Infraestrutura - Erro iCare HML-NOHS
+14.0220 Repackage - Nóhs - Ambiente - iCare NÓHS indisponivel
+Icare Legado. Desmembramento
+ Problema ao tentar efetuar devolução de equipamento sistema NOHS
+Icare Nohs apresenta erros e lentidão
+ICARE NOHS HML apresenta falha após login
+Icare clientes com erro ao localizar assinatura
+iCARE NOHS - Ambiente HML - Erro ao realizar migração.
+Falha na migração, identificado clientes com 'Recarga futu...
+Clientes não habilitados que efetuaram o pagamento e a URA Não identifica.
+ICARE NOHS apresenta falhas e lentidão intermitente
+Divergência de dados - apás migração
+Chat SKY BANDA LARGA apresenta falha para acesso
+Erro Descumpre Acordo Base IBS
+Cobrança indevida de ala carte , quando o mesmo já está dentro da composição do principal. 
+NOHS apresentando lentidão em diversas telas.
+COMBATE : : UFC Fight Night - Hunt x Miocic
+Divergência de Status de Os - cusotmer 124554200
+Falha em funcionalidade 28/04/2015 - Icare Treinamento
+Erro após migração IBS / NOHS
+Erro após migração - dois nomes de clientes com o mesmo código.
+Nóhs - Ambiente HML - Erro ao realizar migração
+iCare Cliente - alterar data de vencimento
+Operações alegam lentidão no ICARE NOHS
+Alteração de Dados cadastrais
+Icare Clientes Nohs. Falha ao abrir tela de ofertas
+Icare Clientes Nohs. Falha naa abertura de tela. Erro inesperado
+Icare Clientes Nohs. Falha na aba negociação
+Icare Clientes Nohs. Clientes Postecipados sem mudança de account Status
+Icare Nóhs não Altera os Pacotes
+Icare Nóhs_Tela de Pacotes e Produtos
+Icare Clientes Nohs. Erro ao reativar assinatura
+14.0220 Repackage - Nóhs - Ambiente HML - Erro ao realizar migração
+Nóhs - Ambiente HML - Erro ao realizar migração
+Erro no parcelamento.
+Tela BackOffice TN - iCare NOHS.
+Homologação de Projeto 15.0131.MK-Reajuste de Preços de Venda Nóhs - Pedido de recarga HBO Digital 4 não concluiu.
+Homologação de Projeto 15.0131.MK-Reajuste de Preços de Venda Nóhs - Pedidos de recargas estão ficando Em Locked
+iCARE NOHS - Apresenta lentidão e erros intermitentes.
+Erro ao abrir pendente
+SISTEMA GEROU COBRANÇA INDEVIDA APÓS REAJUSTE DE PACOTES OPCIONAIS 
+assinatura  suspensa
+Recarga Livre não habilitada.
+Cadastro incorreto na migração
+Erro na inclusão e cancelamento de a la cartes
+Homologação de Projeto 15.0131.MK-Reajuste de Preços de Venda Nóhs - Erro no Icare Nóhs para acessar tela de Recargas
+Icare Legado - Falha no cancelamento de HBO apos termino de campanha
+Icare Clientes Nohs.  Falha de Reativação 
+Conta duplicada com o mesmo codigo em outro cliente
+Tela principal não apresenta produto de Cliente NOHS
+JOB Adicao_Remocao_HD_aLaCarte
+Não gera ordem de serviço para equipamento opcional no Icare IBS
+INCONSISTÊNCIA AO EFETUAR O BLOQUEIO DA FATURA
+Assinaturas divergentes.
+Erro na tela PACOTES E PRODUTOS.
+JOGOS ESTADUAIS 02/05 e 03/05
+ICARE NOHS apresenta lentidão para acessar algumas telas
+ICARE NOHS apresenta falha o gerar ajuste na tela de créditos e acertos
+ERRO NÓHS PARA PAGAMENTO NO CARTÃO
+Serviço CreateFulfillmentOrderSynchronouslyEBM no ICare Clientes está indisponível.
+CRIA OS DE REINSTALAÇÃO - Icare Nohs
+Alerta no servidor brcscs98 no volume /oracle 
+Alerta no servidor brcscs234 no volume /u01/oracle/domain 
+Remove_Quote_In_Progress
+ICARE NOHS apresenta falha de processamento ao realizar reversão de faturas
+iCARE NOHS - Apresenta Lentidão e erros intermitentes.
+Ambiente HML - Erro ao realizar migração.
+Falha de reatlivação.
+Falha ao registrar contato para Devolução de Valores.
+ICARE NOHS apresenta falha para registro de contato
+CLIENTE MIGRADO NOHS adimplente com falha no GPT por SCOB 7 ou 6
+CLIENTE MIGRADO NOHS com dados cadastrais divergentes
+Icare Nohs apresenta lentidão e erros intermitentes. 
+Icare Clientes Nohs. Cadastro com dados divergentes legado/nohs
+Icare Clientes NohsNão consegue atualizar Dados do cliente
+Icare Legado Cliente com várias movimentações realizadas
+ERRO NA TROCA DE MODALIDADE
+Erro ao Registrar Pendente - OS Cancelada sem Atendimento
+iCARE NOHS - Problema de Layout para acessar o icare nohs pelo IE.
+Siebel HML-NOHS indisponível
+teste 123
+Erro ao cancelar assinatura.
+ICARE NOHS - Erro para reativar
+ICARE NOHS HML apresenta falha na pesquisa de customers
+iCARE NOHS - Erro no parque cliente não esta sendo faturado.
+iCARE NOHS - Problema com FATURA
+Falha ao enviar controle remoto - Icare Nohs
+Ao tenta atualizar o endereço ocorre um erro - Icare Nohs
+Icare SAC apresenta lentidão para logar.
+Erro na Reativação do pacote - Icare Nohs
+Processamento em lote não processaram
+Erro de migração, cliente está com os dados incorretos no Icare Nóhs
+ERRO AO CANCELAR  ICARE CLIENTES
+ICARE IBS NÃO GERA ORDEM DE SERVIÇO
+Icare Nohs - Erro na troca de endereço
+Nóhs - Ambiente HML - Erro alteração cadastral.
+Nóhs - Ambiente HML - Erro Migração
+Falha de parcelamento.
+Erro alteração de endereço
+Icare Clientes - NÃO AGENDA VISITA (Habilitação s/ Instalação)
+Alteração de endereço
+Divergencias de Cadastro 
+HISTÓRICO DE EVENTOS.
+Icare CLientes Nohs. Falha na pesquisa do codigo do cliente.
+Icare Clientes Nohs. Erro ao registrar contato.
+icare nohs com lentidão
+Erro ao acessar o Icare Treinamento.
+Divergencia de Informação Portal x Tela de Equipamentos 
+Icare Cliente Nohs. Tela de pedidos pendentes
+ICARE LEGADO - NÃO GERA ORDEM DE SERVIÇO NA MOVIMENTAÇÃO DA TELA DE COMBOS
+NOHS não gera OS
+Icare nohs HML tela Sócio premier nao permite selecao de pacote 79,90 - Demanda A LA CARTE NÓHS - (Pacote PFC) 
+Erro em INCR_BRCSCZ1
+Erro em INCR_BRCSCZ1
+Erro ambiente HML-NOHS
+Erro ambiente iCare HML-NOHS - cancelamento e reativação.
+Icare clientes-ferramenta apresenta erro para agendar OS.
+ICARE NOHS - Apresenta lentidão mais acentuada na tela Fatura.
+Erro ao efetuar substituição de equipamento de digital para HD
+ICARE NOHS apresentando erro ao consultar OSI
+ICARE NOHS TRN apresenta falha na tela de Pacotes e Produtos
+HML timeout / Intermitencia - Venda do A LA CARTE NÓHS - (Pacote PFC)
+Erro ao caneclar O.S 
+ICARE APRESENTA MUITA LENTIDÃO  07/05
+Icare Nohs - Régua de ofertas sem trava
+Erro ao efetuar troca de endereço
+Icare Nohs Registro de contato pendente está subindo no Histórico de Eventos e na tela Consulta OSI sem número de protocolo. 
+Erro ao efetuar pagamento.
+Produto duplicado no parque 
+ERRO PROCEDIMENTOS NOHS
+teste
+Erro no Pacote Sócio Premiere.
+Icare Nohs não gera ordem de serviço
+Erro ao cancelar O.s. - Linha Vermelha
+ICARE SAC apresenta valor de Brasileirão divergente
+ICARE NOHS não cancela OS
+Erro na atualização de endereço
+Erro na tela de Equipamentos.
+Icare Legado Divergência de informações. 
+Icare Legado. Falha na abertura da  Aba Tecnico o GPT para envio de Sinal não foi migrado 
+Icare Clientes Nohs. Clientes Congelados. 
+[WARROOM] Icare Clientes Nohs.  Pedido sem O.S 
+Erro ao gerar suspensão temporária
+Erro na tela Combos e Duetos.
+iCARE NOHS - Apresenta lentidão.
+Alteração de combos.
+Erro ao cancelar O.S
+iCARE NOHS - ERROS na tela COMBOS e DUETOS.
+ERRO NA ABERTURA DE PENDENTE PARA DEVOLUÇÃO DE VALORES.
+iCARE NOHS - PENDENTE ABERTO PRAZO DE RETORNO DA AÇAO PFC PRAZO  SEM SUCESSO .
+Erro intermitente ao agendar OS (...QueryWorkOrderReasonList...)
+iCARE NOHS - Apresenta lentidão.
+iiCARE NOHS FRONT
+LEGADO - Apresenta erro.
+Erro ao gerar pedidos no iCare HML-NOHS
+Erro reinstalaçao - Nóhs 
+ICARE NOHS apresenta falha na alteração de dados cadastrais.
+ICARE NOHS apresenta falha na tela de equipamentos
+ Erro na abertura de pendente Nohs.            
+ICARE NOHS apresenta lentidão na busca de clientes e na tela de faturas
+Erro na aba CEP
+Divergencia de Valores entre Post IT e ICARE NOHS
+ICARE NOHS apresentando lentidão intertmitente em diversas telas
+iCARE NOHS - Erro na alteração de vencimento.
+Erro para alterar Metodo de pagto.
+Icare clientes Nohs. Lentidão e erros intermitêntes.
+Icare com lentidão
+Icare Clientes- falha ao alterar data de vencimento
+Icare CLientes Nohs. Falha de assinatura
+Icare CLientes NOhs. Serviço de troca não gerou OS de retirada
+Icare Clientes Nohs. Erro na suspensão temporaria
+Cadastro do cliente sem o GEOCODE
+Icare Clientes Nohs. Falha na aba devolução de valores.
+Falha de conexão IPs/URLs liberadas
+The Summary Alert "[v2] iCare NOHS" is in the danger state due to:
+Erro ao gerar pedido no iCare HML NOHS.
+Alto consumo na tela de recargas
+ICARE NOS não está criando Ordem de Retirada.
+Icare Clientes Nohs. Falha na alteração de endereço
+Dados de cliente divergentes no sistema
+Clientes com assinaturas divergentes.
+ERRO NOHS||FATURA ||JPA
+Realizar a alteração da NID para que seja realizado o fechamento da fatura. 
+Icare CLientes Nohs. Erro ao tentar trocar de pacote
+Icare Clientes NOhs. Erro na Aba dados cadastrais
+Icare Clientes - ERRO DE MIGRAÇÃO NO ENDEREÇO DE INSTALAÇÃO
+ICARE NÓHS - LENTIDÃO
+Icare Clientes Nohs.  Falha na abertura de OS
+Icare CLientes Nohs. Erro ao Reativar 
+iCare NOHS Indisponivel para realizar migração -  HOMOLOGAÇÃO.
+Erro ao finalizar vendas.
+iCARE NOHS - Erro ao abrir pendente.
+Icare nohs com lentidão na tela de faturas
+Abertura de OS no ICARE NHÓS apresentando erro.
+Não apresenta calendário - Nóhs 
+Icare Nóhs com lentidão
+Erro ao gerar pedidos.
+Cliente teve a reconexão dos produtos e não foi gerado as fintras. 
+ FERRAMENTA NÃO PERMEITE A ABERTURA DE OS.
+[SKY-AM]: QueryInvoiceList em HML fora do AR
+iCare Cliente - Nóhs_ Cliente desconhece assinatura 
+Icare nóhs com lentidão na tela de faturas
+[WARROOM] - Icare Clientes Nohs. Erro ao Incluir equipamento
+Icare Clientes Nohs. Problemas na criação de O.S
+[Nóhs} Reincidencia> CODIGO 13 > OPPV Não Liberado> Pedido OPPV não esta Tramitando Status Em aberto> GAP Mesmo evento liberado sem service ID>
+Customer com erro ao seguir o fluxo GPT
+Lentidão no Icare Clientes
+ICARE NOHS não realiza alteração de pendente fora do Prazo.
+Falha na abertura de contato.
+ICARE NOHS HML apresenta falha na pesquisa de customer
+Falha na tela ASSISTENCIA.
+iCARE NOHS - Apresenta lentidão.
+Falta de tabulção no registro de contato 
+ICARE SAC LEGADO apresenta falha na alteração de MOP
+Erro na tela combos e duetos.
+ICARE NOHS HML apresenta falha na tramitação de pedidos.
+Icare Legado. Erro na Regua de Oferta
+lentidão Icare Nohs
+Icare legado apresenta indisponibilidade
+falha  pendente para devolução de valores. A máscara para inclusão de dados para devolução não abre.
+Icare CLientes Nohs. Devolução de valores. A máscara para inclusão de dados não abre.
+Icare Clientes NoHS. erro na aba de GPT (alteração de dados cadastrais)
+Icare CLientes Nohs. Erro Parcelamento 
+Falha no firewall deixando acesso indisponível
+SAC LEGADO ERRO NA TELA PARA GERAR  PARCELAMENTO
+CLIENTE MIGRADO PARA ICARE NOHS NÃO ABRE O CADASTRO - 14/05
+ICARE NOHS HML apresenta intermitencias
+CLIENTE MIGRADO COM CUSTOMER DUPLICADO 
+divergencia de titularidade do mesmo cod de cliente
+iCARE NOHS - Apresenta lentidão.
+ICARE SAC LEGADO apresenta lentidão de acesso
+14.0220 Repackage - Nóhs - Ambiente - Icare indisponivel
+ERRO PAGAMENTO CARTÃO -  NÓHS
+ICARE NOHS apresenta falha na tramitação de pedidos
+14.0220 Repackage - Nóhs - Ambiente - Icare indiosponivel
+14.0220 Repackage NÓHS: Pedido não concluido em andamento locked
+Lentidão no Icare NOHS
+Erro  ao corrigir CEP 
+Cliente com erro de sincronismo
+Erro na pesquisa do cliente 163655019 (Migrado)
+ICARE NOHS HML apresenta falha na tela de pacotes e produtos
+ICARE NOHS HML apresenta falha na tramitação de pedidos
+ICARE NOHS HML apresenta falha após Upgrade de Pacote
+Icare.  Função negociacao não disponivel
+Icare CLientes  Nohs. Cliente com dados divergentes. 
+iCARE NOHS - APRESENTA LENTIDÃO.
+Erro ao acessar iCare TRN Legado.
+iCARE NOHS - ERRO NO CADASTRO NA MIGRAÇÃO COM CPF DUPLICADO - RECLAMAÇÃO CONSUMIDOR.GOV 
+Colaboradores reportam lentidão intermitente no ICARE NOHS
+icare com lendão
+ICARE NOHS apresenta falha para acessar o Historico de Eventos
+Erro ao realizar a suspensão temporária.
+Lentidão em diversas telas.
+Icare NOHS Treinamento não exibe ultimas faturas.
+Icare Clientes Nohs. Falha para alterar endereço
+Alteração de vencimento sem solicitação e sem historico 
+14.0220 Repackage NÓHS Postecipado - ETF - Erro ao executar cancelamento da assinatura
+14.0220 Repackage NÓHS: Migração com Upgrade e troca de tecnologia sem O.S criada
+iCARE NOHS - ERRO AO ACESSAR A TELA CONTA PARQUE.
+11 DIVERGÊNCIAS DE ENDEREÇO NO ICARE CLIENTES
+ICARE INOPERANTE
+Erro ao gerar débito.
+Icare Clientes Treinamento.
+Parque nao mostra o campeonato que compoe o pacote.
+Falha na vendas de recarga.
+Cobrança indevida de ofertas de adesão
+Falha na tela negociação.
+ICARE NOHS não permite troca (UP/DOWN) de equipamento – AFC
+Não é possível visualizar composição de equipamentos e produtos.
+Icare clientes-mensagem de erro ao realizar busca pelo código
+Conta não visualizada no Icare
+Icare Legado não cancela canais HBO e Telecine Light após fim da degustação.
+Falha ao inserir comentário - iCare NOHS.
+ Erro na Migração do Legado para Nóhs
+Falha no pedido - pedido gerado em branco - NOHS 
+Tela de Recargas - Erro - ENDPOINT 
+Erro ICARE NOHS - Pedido de cancelamento da assinatura deletado após sua criação
+Icare Nohs apresenta falha na alteração de pagamento - MOP
+Nohs não está realizando alteração de endereço.
+RRO AO EFETUAR PAGAMENTO NO CARTÃO DE CREDITO - ICARE NOHS
+ERRO AO ACESSAR TELA CONSULTA OSI 
+iCARE NOHS - Apresenta lentidão e erros intermitentes.
+FALHA NA ABERTURA DE PENDENTE DE DEVOLUÇÃO DE VALORES 1468
+Falha nos botões da tela COMBOS E DUETOS.
+ICARE NOHS apresenta falha no Bloqueio de OSD
+Cliente 171179877 não possui opcão de pacotes no sistema NOHS
+Falha na liberação do PPV.
+ICARE NOHS apresenta erro no Histórico de Eventos
+iCARE NOHS - Login Divergente em Ordem de Seriço.
+Icare Nóhs indisponível
+{Nhós}  Bug> Icare Clientes> Cada Clic  aba Cadastral o Endereço e alterado indevidamente e GPT ao Voltar fluxo.
+ERRO AO TENTAR AGENDAR OS DE REINST DE NOVO END.
+ICARE NOHS não permite realizar a alteração de telefone
+Icare CLientes NoHS.  Erro ao registrar pendente de troca de parceiro
+Icare Nohs apresenta lentidão e intermitência. 
+Icare Nohs apresenta lentidão e intermitência.
+[SKY-AM]: Erro na operação QuerClassificationList em HML
+14.0220 Repackage NÓHS Postecipado - Erro na tramitação de Pedido e Tela de Combos
+Erro no Icare. Pacotes e produtos
+Icare Clientes Nohs. Falha ao verificar assinatura do cliente.
+IBS: Globo Taubaté
+ICARE TREINAMENTO NOHS TELA DE GPT INOPERANTE
+ICARE TREINAMENTO NOHS TELA DE GPT COM ERRO.
+Inoperância no Icare Legado
+ICARE LEGADO apresenta erro na busca de clientes.
+iCare NOHS não exibe registro de contato da URA.
+ERRO PARA FINALIZAR VENDA NO CARTÃO DE CREDITO
+Erro ao incluir combate.
+iCARE NOHS - FALHA NA TELA DE PEDIDOS.
+Erro no cancelamento de sistema opcional
+BKO ALMAVIVA GUARULHOS 
+Falha em Funcionalidade 
+Icare Nohs apresenta erro para pesquisar clientes Pessoa Jurídica (CNPJ)
+Erro Alteração de Endereço - Icare Nohs
+Implantação Release 19/05
+Razão 5706 disponível após exclusão
+Erro no envio de comando - Icare Nohs na tela de negociação
+Customer não encontrado no Icare Clientes.
+Loguin indisponivel no ICARE NHOS
+ Credito e Acertos - Registro no campo comentário
+Tempo de consulta 
+Pedido de cancelamento s/ OS
+iCARE NOHS - Erro no GPT.
+ Dados migrados incorretamente do Legado para o Nóhs
+0112408: JOGOS BRASILEIRÃO SEXTA 22.05.15
+14.0220 Repackage NÓHS - ICare Nóhs com lentidão impossibilitando finalizar a ação
+Big Brother Brasil sendo cobrado indevidamente
+Os supervisores do Back Office AeC perderam o acesso para ut...
+ERRO NOHS|| REVERTER FATURA || JPA
+Cliente desconhece cancelamento realizado pelo usuario TRACKER
+Ticket a Infraestrutura - Pedidos HML em Aberto
+Icare CLientes NOhs. Falha na assinatura juridica 
+Icare clientes Nohs. Erro na alteração da data de vencimento
+Pacote principal
+Icare CLientes NOhs. Falha na inclusao do combate.
+ERRO NOHS|| CONSULTA OSI ||GV
+SKY LIVRE falha ao reativar assinatura
+Icare CLientes NOhs. Falha devolução de valores
+Icare Clientes Nohs. Dados Divergentes. 
+ERRO NOHS -  realizar recargas 
+Nohs sem gerar OS
+Falha ao seguir GPT para o cliente.
+Erro de Migraçao.
+Erro ao gerar OS
+Clientes Adimplentes
+Icare NOHS HML apresenta erro na consulta de Produtos
+Impossibilidade de criar os para retirada/devolução de equipamentos.
+ERRO NO REGISTRO DE REVERSÃO DE VALORES.
+Lentidão no Icare NOHS treinamento
+Erro ao fazer troca de modalidade PFC
+Cobrança indevida de Opcional que fazem parte do Pacote Combo/Dueto.
+ Icare IBS não esta gerando OS.
+Iccare Nohs não tem nenhum opcionais disponíveis
+Não gera fatura para o cliente - Icare Nohs
+Cliente migrado com dados cadastrais incorretos
+ERRO LEGADO||Agendamento de OS||GV
+ICARE NOHS HML apresenta lentidão e falhas intermitentes
+Servidor brcscs280 indisponível impactando o ambiente HML
+•  1 cliente (116333965) foi migrado sem CPF em função d...
+1 cliente (38280796) foi migrado como faturável e não deve...
+1 cliente (101382534) não teve algumas informações de end...
+Erro agendamento de os - Nóhs 
+Credito e Acertos - Registro no campo comentário.xlsx
+Area   Contas a Receber;  Arquitetura   NOHS;  Caracteristica do...
+Não é possível visualizar as faturas na Ferramenta Icare Nhos no campo: Número da Fatura.
+Diferença conta NID realizado x Previsto 
+ICARE NOHS realiza a troca da data de vencimento do cliente INDEVIDAMENTE.
+[RM10160 / RM10962] - Dependência da RM9727 de Projetos
+Icare Clientes NoHS.  falha no pagamento
+Icare CLientes Nohs. Conflito nas vendas realizadas entre as EPS
+Mudança Lateral SPFC - Nova tela de Combos e Duetos
+Ticket a Infraestrutura - iCare indisponível
+SKY PRÉ-PAGO: Queda no número de recargas
+ ERRO ENDEREÇO - ICARE NOHS - TP SGA
+Divergência nos dados do cadastro do cliente
+Valor de Pacote divergente
+ICare Clientes Pacote principal encontra- se duplicado no parque do assinante
+Icare CLientes NOhs. Falha ao vizualizar a ferramenta
+14.0220 Repackage NÓHS - Postecipado - Icare Nóhs lentidão e intermitência
+Icare Clientes Nohs. Cliente fez alteração de seu vencimento para todo dia 07 porém, o sistema alterou para dia 25 
+Icare Clientes NOhs.  Dois equipamentos e o pacote dá direito
+Icare CLientes NOhs. Falha no registro OSI
+Icare Clientes Nohs. Parcelamento indevido
+Não é possível alterar o pacote (upgrade)  para o cliente 36653562  desde o dia 16/05/2015.
+Erro para efetuar LOGUIN
+ICARE SAC apresenta crédito indevido após recarga
+ICARE NOHS apresenta falha na tela de Consulta de OSI
+ERRO NOHS||ASSINATURA||MOC/GV/JP
+Ao analisar os campos Status do Decoder e Código do Equipam...
+ICARE NOHS apresenta falha no fluxo GPT
+ICARE NOHS apresenta falha o realizar o ajuste do valor do pacote
+Substituição Indevida Equipamento Plus - Nova tela de Combos e Duetos
+Icare Nóhs com lentidão
+iCARE NOHS - Erro na migração.
+ERRO ICARE MOP
+ICARE NOHS apresenta falha ao acessar a tela de pacotes e produtos
+CLIENTE NOHS está com o pacote com valor incorreto
+Icare erro ao registrar pendente de troca de parceiro
+Migração de uma fintra com inversao de débito para crédito
+Icare CLientes Nohs. Falha na troca de modalidade. 
+Icare Clientes NOhs. cliente tem pacote com valor zerado
+Erro em LOG_ORACLE
+Icare CLientes NOhs. Falha na alteração de pacote. 
+Bloqueio OSD
+Icare Clientes NOhs. Falha na aba combos e duetos
+Migração de pós pago para livre indevidamente 
+Icare Nohs apresenta mensagem de problema de sincronismo
+Ambiente Nohs apresenta erros e falhas para diversas atividades
+PCB - 341_DCC_0000000002016_150527_001908.001
+Erro de registro de desconto - NOHS.
+ICARE NOHS apresenta falha na inclusão de equipamentos
+ICARE NOHS - Apresenta lentidão e erros intermitentes.
+NOHS - Não acatou Parcelamento
+iCARE NOHS - Apresenta lentidão.
+ Ticket à Infraestrutura - Tramitação com problemas HML/NOHS
+Nova tela Combos e Duetos 
+Produto A la carte incluso 9 vezes - Erro sistêmico 
+[SKY AM] Sistema BRM no ICare Clientes em HML está indisponível
+Servidor srvtbapl09 - 172.22.128.125
+ERRO DE SINCRONISMO
+Icare Nohs apresenta erros e falhas para logar.
+ Erro ao incluir ponto opcional no Icare Nohs
+iCARE NOHS - Erro tela fatura.
+Icare intermitente na tela de faturas
+iCARE NOHS - Alteração de vencimento diferente do acordado.
+ERRO PAGAMENTO CARTÃO DE CRÉDITO
+ICARE LEGADO TREINAMENTO - ERRO para pesquisar cliente
+Erro na tela Pedido
+Icare Clientes Nohs. Falha na tela combos e duetos
+Icare Clientes NOhs. Falha na tela pacotes e produtos.
+Ticket à Infraestrutura - Erro HML/NOHS
+Icare Clientes NOhs.   Falha na troca de pacote do cliente
+Erro ao tentar cancelar assinatura
+ZABBIX - NOHS - Front/Back
+ICARE NOHS APRESENTADO ERRO ALTERAÇÃO DE ENDEREÇO SEM PEDIDO ABERTO
+Alteração de Titularidade
+ICARE NÓHS - TELA DE PEDIDOS - AGAUARDANDO OSE - NOVO PACOTE CONCLUIDO
+ICARE IBS - INCLUSÃO EQUIPAMENTO - TELA DE EQUIPAMENTOS
+ICARE LEGADO indisponivel para loguin
+ICARE NOHS - Apresenta lentidão e erros intermitentes.
+Instabilidade Ambiente Homologação Nohs.
+ICare SAC NOHS não permite registro de contato
+OSs de AT/UP/DOWN/PO criadas sem agendamento firme
+Erro no sistema no Icare Nohs (interminitente) volta para tela de login
+FALHA AO ALTERAR ENDEREÇO / SEM ACESSO AO REGISTRO NECESSÁRIO
+Icare Nohs apresenta mensagem para aguardar 48hs (problema de sincronismo)
+NOHS - ERRO REGISTRO DE CONTATO - TP SGA
+ICARE NOHS- ERRO TELA DE FATURA
+INOPERANCIA ICARE clientes
+Após buscar CLIENTE NOHS 40339276 o sistema fecha
+ICARE NOHS apresenta falha na tela de combos e Duetos
+Icare Legado treinamento apresenta errro na tela do logon
+Icare Clientes NOhs. clientes Sem visualização nohs / Cobrança HBO TELECINE POS degustação
+Icare Clientes Nohs. SISTEMA NÃO PERMITE INCLUSÃO DE TELECINE
+ICARE NOHS apresenta falha na tela de Pacotes e Produtos
+CLIENTE NOHS com parque Inconsistente
+Canal loteria apresenta tela preta.
+Icare Clientes Nohs. erro na nova tela de combos e duetos
+Icare CLientes Nohs. Falha no registro de OS
+Icare Clientes NOhs. falha na tela de combos e duetos
+NOHS INDISPONIVEL 
+iCare Cliente - pendente fora do prazo 01_06
+Inclusão de Telecine e HBO sem a solicitação do cliente
+iCare Cliente - pendente fora do prazo 01_06..02
+erro ao tentarar reativar assinatura
+Erro ao tentar cadastrar e habilitar equipamentos
+ICare Nohs não direciona o Grupo de Acesso na chamada do BPM.
+produtos ativos no Icare e Conta Inexistente no BRM
+Icare legado-impossibilidade de incluir assistência tecnica para combos 2015
+[SKY AM]  BRM - HML
+Erro no robo de duplicidade
+Ao analisar o campo Valor SPFC na tabela do Oracle, foram en...
+Icare Clientes Nohs. Assinante está a com o parque inconsistente
+Abertura de chamado para boot dos servidores (SRVTBVMW06 e SRVTBVMW09) 
+Icare Clientes NOhs. Falha ao registrar contato. 
+LENTIDÃO ICARE NÓHS
+Icare Nóhs Intermitente
+Icare Clientes Nohs Ao acessar a TELA COMBOS E DUETOS(NOVO) o sistema ICARE NÓHS apresenta erro.
+Icare CLientes não cancela o produto da campanha de adesão, 
+[14.0345.TN]-[Nóhs] LOV de Comandos Bouquet descrição afetada em Produção ( Icare Clientes ).
+Icare CLientes Nohs. Falha ao seguir GPT. 
+Alerta dos BACKS do ICARE CLIENTES.
+Falha na consulta de faturas do ICARE CLIENTES
+Erro Negociação
+Abertura de novo incidente para Alteração de vencimento sem solicitação ou inadimplência.
+Erro Alteração de endereço
+ERRO NO PARQUE - NÓHS
+ICARE NOHS duplica e inverte dados de equipamento
+ ICARE Lentidão
+ICARE NOHS TRN apresenta falha na busca de clientes
+Problemas no HGateway - URA HABILITAÇÃO 05
+Conta está tarifando produto SKY Online Diversas vezes
+ICARE SAC LEGADO apresenta falha na tela de equipamentos.
+ICARE NÓHS - NÃO DISPONIBILIZA COMBO SKY HDTV SLIM TELECINE PARA ALTERAÇÃO.
+[Nóhs] Novo Front  Tela Icare BKO _ habilitação EM Lote_Não esta enviando Bouquet para range com cobertura de Globo.
+Icare Clientes Nohs. Falha na aba combos e duetos. 
+Icare cliente indisponivel para efetuar loguin
+Icare Clientes não está acessando cadastro de assinaturas ...
+ICARE NOHS apresenta falha na caixa de Atenção
+Icare Nohs sem Pacote Slim Telecine
+[MA 15 0058 - Otimização e Simplificação Tela de Faturas do iCare] Icare Clientes Ultima Ficha de Compensação
+iCARE NOHS - MASCARA PREENCHIMENTO.
+"srvtbtpc03 - PROBLEMA DE ALTA UTILIZACAO DE FILESYSTEM /incontrol"
+Erro na tela de combos
+[15.0043] Icare Nohs tela de ofertas informa que não há produtos para este cliente.
+Divergencia de status causando divergencia de informações 
+Cliente não pagou fatura, mas saída de cobrança, adimplente indevidamente
+ICARE NOHS apresenta falha na tela de equipamentos
+ICAR NOHS apresenta indisponibilidade da Regua de Ofertas
+Icare clientes - Erro ao registrar contato - Venda irregular _ Adesão deiferente do acordado 
+Icare nohs falha na atualização de dados cadastrais.
+Cartão de acesso cadastro consta em duas assinaturas.
+iCARE NOHS - Erro apresenta endereços diferente do cadastrado em sistema para a abertura de ordens de serviços.
+Abertura de Call [Procedimento Operacional para Restabelecer a Razão 1468]
+Icare nohs apresenta lentidão e intermitencias
+Icare Nohs  não tem as opções para recargas
+Erro  nas reversões do NOHS
+ Clientes pagaram e não sairam da serie de cobrança
+ Batfone - Envio de comando
+iCARE NOHS -  não gera numero de pedido.
+ Dados de cadastro divergente ao migrar assinatura de legado para NÓHS.
+ Icare Clientes - Almaviva 
+oferta combo SLIM TELECINE ausente no ICARE NOHS 
+Lentidão e erros intermitentes.
+Erro em LOG_BRCSCB
+TROCA DE DATA DE VENCIMENTO DIVERGENTE
+- Erro HML/NOHS
+Erro de cadastro na migração
+Erro HML/NOHS
+Erro HML/NOHS
+Falha dados cadastrais Cha
+iCARE CLIENTES TREINAMENTO | ERRO
+ICARE NOHS apresenta falha na tela de Faturas
+Alarme de monitoração do ICare
+Cobrança indevida Ala carte 
+ ERRO AO ABRIR A FATURA
+Icare Clientes NOhs. Falha na devolução de valores.
+Icare CLientes Nohs. Falha na troca de parceiro 
+Icare Nohs apresenta mensagem de pedido aberto para mudança de pacote.
+ICARE NOHS - Apresenta erro na tentativa de logar e lentidão intermitente
+Icare Cliente - Erro na migração dados incorretos
+ICARE NOHS apresenta lentidão na busca de clientes
+Dados Divergentes INTERNET
+Historico de Eventos não fica atualizado para clientes migraos.
+Icare Legado Treinamento - Falha na funcionalidade
+Dados cadastrais divergentes 
+ Falha no pagamento cliente LEGADO - HD TOP
+[Sky AM][CA 639573][Redirecionamento]
+ICARE NOHS | INFORMAÇOES DIVERGENTES | MOC - Eps AeC
+ICARE NOHS apresenta falha na alteração de dados cadastrais.
+ICARE SAC LEGADO não finalizou pacote de degustação automaticamente
+ICARE NOHS apresentou intermitencias entre 12:00 e 12:15
+DUPLICIDADE NA CONCESSÃO DE OFERTAS - 72461422 (Icare Nohs)
+CLIENTE MIGRADO NOHS apresenta divergencia nos dados cadastrais
+Ticket 16850 Em Atendimento (Updated) --> Alertas iCare Clientes Nohs: Verificado alertas.
+Erro ao agendar visita.
+Erro GPT - Legado 
+: Icare Cliente gera cobrança indevida após a migração do pacote HBO 
+ICARE NOHS - Cliente gera cobrança indevida após a migração do pacote HBO MAX 2 meses que é degustação de adesão.
+Icare Homologação
+ERRO NA ALTERAÇÃO DE ENDEREÇO
+Icare Clientes NOhs. Dados Divergentes.
+Icare Clientes Nohs. falha na troca de pacotes dos clientes
+Icare Legado Falha ao tentar debitar na conta do cliente.
+Icare Leagado. Falha ao gerar OS.
+Icare Nohs apresenta erro na página após login e senha.
+Icare Clientes NOhs. Falha ao registrar contato
+Icare Clientes Nohs. Falha ao alterar dados cadastrais. 
+Icare Clientes Nohs. Falha na faixa de preço postecipado
+[SKY-NOHS]  Siebel - HML
+ERRO||DEVOLUÇÃO VALORES||JPA
+ ERRO ICARE NÓHS - ERRO AO ALTERAR CADASTRO
+Erro na alteração de dados cadastrais.
+COBRANÇA INDEVIDA OPCIONAL ADULTO NOS PACOTES COMBO FULL 2015
+Erro De Tarja Vermelha na Tela de Pacote e Produtos.11-06-2015
+A nota não é faturada e o cliente não recebe a NF-e
+ Icare Clientes Treinamento Falha no login
+Limpeza do front do iCare Clientes - problemas na operação do iCare Clientes no que tange ao registro da razão 1468.
+Icare Clientes Nohs. Falha na alteração de email. 
+[Nóhs] Ocultar as duas Reasons que ficou Faltando na validação que estava dentro do escopo.
+Icare Clientes Nohs. Duplicidade no produto do cliente
+Icare Clientes Nohs. Cobrança da Gravação externa no mesmo valor da Assinatura 
+ICARE NOHS - Ultima ficha de Compensação
+Icare Clientes Nohs, Falha na tela combos e duetos
+Erro no job de Backup FULL_ORA_BRMPRD - Producao
+ICARE NOHS HML apresenta indisponibilidade na busca de clientes
+Ajuste nos Logs do ICARE NOHS
+ICARE NOHS apresenta timeout no processo de recarga
+Sistema cancela pedido
+Icare Clientes Nohs. Clientes congelados nas faixas de aging por vários ciclo.
+ICARE NOHS apresenta erro na criação de OS
+ICARE NOHS HML apresenta falha na busca de customers
+REPACKAGE 2º SEM 2014  - ENVIO DE COMANDO PREMIERE HD + PLAY
+ICARE CLIENTES Nohs. Falha ao cancelar pedido
+Desconto ativo indevidamente 
+ICARE NOHS apresenta falha no registro de OS
+Dados divergentes no icare clientes
+Cliente Livre sem sinal com recarga ativa
+Alerta Monitoraçao Mensitef IBS
+Icare CLientes Nohs .Canal 220 e 221 Codigo 4
+Icare Clientes NOhs. Falha na migração 
+Icare CLientes Nohs. Falha nos dados cadastrais. 
+ERRO NOS COMBOS COM PFC.
+Icare Legado - o cliente não tem ofertas disponíveis
+Icare clientes apresenta intermitência na tela de dados cadastrais.
+Icare Clientes Nohs.  Canal 127 com cod17'
+Email de alerta do Nimsoft: Alarme no servidor brcscs207
+Email de alerta do Nimsoft: Alarme no servidor brcscs62
+Backoffice almviva GC - erro na tela de Combos e Duetos
+falha na funcionalidade Icare Nóhs
+Erro no cancelamento de recarga.
+Erro na tela pacotes e produtos.
+ICARE LEGADO apresenta falha na criação de OS
+ICARE NOHS HML apresenta falha na pesquisa de customers
+Não foi gerado fintras após reconexão 
+ICARE NOHS apresenta intermitencia na aba historico
+Razão 1468 apreseta indisponibilidade
+icare nóhs inoperante
+iCARE NOHS apresenta Lentidão e erros intermitentes
+[SKY-NOHS]  Siebel - HML
+ FALHA NA FERRAMENTA NÓHS
+ERRO INCLUSÃO SUSPENSÃO TEMPORARIA 
+Icare Clientes NOhs. Dados Divergentes
+Cancelamento de smartcards IBS
+Icare CLiente Nohs. Falha na opção de cliente migrado
+Icare Clientes Nohs. Falha na Reinstalação novo endereço 
+Icare Clientes nOHS. Falha na negociação com cliente. 
+Icare Clientes Nohs. Falha no cancelamento 
+ERRO AO CONSULTAR TELA DE OSI 
+Nohs - Cliente Postecipado sem Desconto em Régua de Ofertas
+ERRO AO NEGOCIAR NO NOHS
+Icare Nóhs - Cliente migrado do IBS para o NOHS não carrega o histórico de faturas
+Ocorrência Desconto
+Erro na Tela de negociação Icare Clientes
+Erro na inclusão  de combos e Duetos
+Cancelamentos Programados com produtos inativados antes do vencimento da schedule.
+Icare nóhs com intermitência e lentidão
+Icare Clientes Nohs, Falha clientes cancelados 
+Icare Clientes Nohs. Falha no parcelamento. 
+Icare Clientes NOhs. Dados Divergentes 
+DrillDown - Processo Recarga
+DrillDown - Régua Cobrança
+CLIENTE NOHS com o status em cancelamento com código 4 e sem equipamento cadastrado.
+Icare Nóhs intermitente
+ICARE NOHS apresenta lentidão para realizar as atividades
+Intermitência de registro de contato - Nóhs 
+ICARE SAC LEGADO apresenta indisponibilidade
+ICARE NOHS HML apresenta falha ao realizar migração de equipamento
+ICARE NOHS apresenta falha na geração de OSI
+CLIENTE MIGRADO NOHS com dados divergentes
+Icare Clientes Nohs. ao seguir GPT aparece outro endereço
+ICARE NOHS concede desconto mas não desconta na fatura
+ICARE NOHS não atualiza o telefone
+ICARE NOHS apresenta trava para realizar troca de pacote
+ICARE NOHS HML apresenta falha na pesquisa de customer
+Icare CLientes Nohs. Falha ao reagendar OS.
+Icare Clientes NOhs. Falha ao acessar cadastro do cliente 
+Icare CLientes Nohs. Clientes perdendo as imagens antes do cancelamento concluido
+Icare CLientes Nohs. Falha ao alterar endereço 
+Icare Clientes Nohs. Falha na alteração de endereço 
+ICARE NOHS DEV1 apresenta falha no Serviço CommunicationsInvoiceEBSV2PS 
+ICARE NOHS apresenta falha no registro de contato
+ [sky-suporte] RM 11719 - Liberação para implantação em HML
+ICARE NOHS HL apresenta lentidão e intermitencias
+Erro ao gerar - O.S
+ERRO||PPV||MOC
+ICARE NOHS apresenta falha no agendamento de Visita Técnica
+Backoffice almaviva GC 
+[SKY AM] Siebel HML 
+ICARE CLIENTE APRESENTA ERRO CONSULTAR TELA ENVIO DE CONTROLE REMOTO 
+ICARE NOHS apresenta falha na tela de pacotes e produtos
+iCARE NOHS - Criação de Ordem de Serviço.
+ICARE NOHS não muda status de equipamento.
+Pagamento a maior pela URA 
+CLIENTE NOHS como Pessoa Juridica inves de Fisico
+iCARE NOHS - Assistência Premium Anual com valor errado.
+ICARE NOHS DEV1 apresenta falha no Serviço CommunicationsInvoiceEBSV2PS 
+A linha de descontos não está marcando o valor, por conta ...
+Icare Clientes Nohs. Falha ao alterar titularidade
+Icare LEGADO. Não possuem a cópia da fatura disponível no ICARE.
+Icare CLientes NOhs. Faturas duplicadas. 
+Icare Clientes Nohs. Falha na alteracado de dados cadastrais 
+Icare Clientes Nohs. TITULARIDADE CÓDIGO EM DUPLICIDADE COM CLIENTES NOME DIFERENTE 
+Icare Clientes Nohs. Erro na aquisição do Sócio Premiere (chamado filho)
+iCARE NOHS - Apresenta lentidão e erros intermitentes.
+Icare CLientes Nohs. Falha na tela combos e duetos. 
+Erro no iCare Cliente
+Icare clientes não apresenta máscara para preenchimento de informações 
+Indisponibilidade da Razão 1468
+Indisponibilidade da Razão 1468
+Alerta Zabbix no ICARE NOHS
+Alerta Zabbix no Banco Oracle
+Abertura de Incidente
+ICARE NOHS apresenta falha na tela de faturas
+SAP - Erro no job de backup LOG_BRCSCS - Quality Assurance
+Chamados Siebel
+Erro ao solicitar reinstalaçãoe em novo endereço. 
+Erro Nohs - parcelamento
+Indisponibilidade na funcionalidade
+Base de Clientes HBO/Telecine com cobrança após fim da degustação
+CLIENTES NOHS com apenas uma opção de GPT
+ICARE NOHS DEV1 com pedidos em "Em andamento locked “.
+Icare Clientes NOhs. Falha ao alterar endereço 
+Icare CLientes Nohs. Falha ao alterar E-mail 
+Icare Clientes Nohs. Falha ao alterar telefone 
+Cliente IBS com produto de pacote sendo cobrado como à parte
+ 15.0147.FI – Tratamento de rejeição definitiva de MOP - Ambiente Icare Nóhs QA indisponível
+O sistema não gera a fintra de retenção tributária 
+Icare Clientes Nohs. Pacote duplicado 
+Icare Clientes NOhs, Falha no historico do cliente. 
+Icare Clientes Nohs. Falha ao acessar dados do cliente.
+Email de alerta do Nimsoft: Alarme no servidor brcscs266
+ICare clientes com erro na tela de pedidos
+Erro no reagendamento de OS <ALMAVIVA GUARULHOS>
+ICARE NOHS apresenta falha na tela de faturas
+ICARE LEGADO TREINAMENTO - não funciona <EPS - AlmaViva GRU 
+PEDIDOS parados no status "em andamento locked"
+Acessos iCareGO
+cliente que foi habilitado no dia 30/05/2015 e não esta no arquivos para faturamento da NF-e no SAP.
+ERRO ACESSO ICARE TREINAMENTO LEGADO
+Problemas com o PIP HML - URGENTE
+Icare Nohs apresenta Tela branca
+Icare CLientes Nohs. Divergência de DADOS. 
+Icare Cliente Nohs. Combo com o valor errado na tela principal 
+ ICARE SAC NOHS inoperante - AFC
+NÓHS - Homologação - Tela de Faturas e recargas com erro
+War Room_Unificar o comando de Bouquet/Bits dentro do Bundle New Subscriber para qualquer Front End.
+Erro devolução de equipamento 12 meses
+Icare Clientes Nohs, Adimplentes em cobrança
+Icare Clientes Nohs. Falha na cotação 
+Solicitações dos agentes sumindo.
+Cliente PrePago com bouquet de Pós
+EGADO_ ERRO AO REGISTRAR CONTATO PENDENTE.
+lentidão no banco de dados Oracle 
+Busca de clientes no Icare Nohs apresenta falha.
+Icare Clientes Nohs, Falha a negociar 
+Sky Livre não tem opções de recargas
+Icare clientes nOhs. Falha no metodo de pagamento 
+ACESSO A CONTA NO NOHS
+ICARE NOHS apresenta falha na tela de Pacotes e produtos
+iCARE NOHS - Falha na tentativa de abrir a tela CONSULTA OSI.
+iCare NOHS apresenta erro na criação de pedidos.
+Icare Nohs apresenta falha para logar
+ICARE NOHS apresenta falha ao tentar pagar via boleto
+ICARE NOHS não apresenta dados cadastrais de apartamentos na tela principal
+ICARE NOHS HML apresenta falha na tela de recargas
+ICARE NOHS apresenta falha no cancelamento de OS
+[SKY AM] Siebel HML 
+Verificação do banco Nohs (Oracle). 
+ICARE SAC LEGADO apresenta falha no registro de contato
+Erro de autenticação ao clicar em numero da fatura no cliente postecipado
+Dados divergentes
+iCare NOHS não carrega o cadastro do cliente.
+Erro para reativar assinatura - ICare Nohs
+FALHA AO ABRIR O.S ATENDIMENTO TECNICO 
+NOHS - ERRO CARREGAR CADASTRO - TELA EM BRANCO
+ICARE NOHS cria pedido de downgrade invés de upgrade
+CLIENTE NOHS sem ofertas e sem pacotes opcionais. 
+ICARE NOHS DEV1 apresenta tela branca
+ICARE NOHS - Cliente gera cobrança indevida após a migração do pacote HBO MAX 2 meses que é degustação de adesão.
+ICARE NOHS permite criar 2 pendentes com mesma Razão
+Icare Clientes NOhs. Falha na aba OS.
+Icare Clientes Nohs. LENTIDÃO 
+Icare CLientes Nohs. Falha na alteração de endereço 
+Icare CLientes NOhs. Divergência de dados. 
+ICARE NOHS apresenta erro na tela de pedidos
+ICARE NOHS apresenta falha ao registrar contato de irregularidade na compra de sua SKY Livre
+ICARE NOHS apresenta falha para alteração de MOP
+Icare CLientes NOhs. Excessos de descontos - sem autorização
+ICARE NOHS apresenta falha na reativação de clientes
+CLIENTE NOHS recebe fatura com dados divergentes
+ICARE CLIENTES NOHS apresenta indisponibilidade.
+ICARE NOHS apresenta falha ao concluir parcelamento
+ICARE NOHS fica apenas carregando ao pesquisar clientes especificos
+ICARE NOHS apresenta tela branca de dados cadastrais
+ICARE NOHS apresenta falha na tela de Ordem de Serviço
+PPV SEM OPÇÃO REPRODUZIR               
+Icare CLientes Nohs. Falha na consulta OSI 
+Icare Clientes Nohs. Erro de migração legado
+Intermitência NOHS 
+iCARE NOHS apresenta lentidão e erros intermitentes mais acentuada na tela de FATURA
+Icare Nóhs 
+NÓHS - Homologação - Novo Pré-Pago (14.0214) - iCare indisponivel
+Icare Legado Inoperante
+Icare Clientes. Falha na migração 
+Icare Clientes Nohs. Falha na assinatura após migração 
+Icare Clientes NOhs. Falha ao consultar cliente migrado.
+Icare intermitente
+Icare Clientes Nohs. Falha na inclusão de PPV
+iCARE NOHS - Apresenta erros intermitentes.
+0119493: JOGOS BRASILEIRÃO TERÇA 30.06.15
+iCARE LEGADO TREINAMENTO - ERRO
+ICARE NOHS TREINAMENTO - Intermitência - Sala de Aula - Ilha Master
+Erro ao abrir pendente de troca de parceiro
+CLIENTE MIGRADO COM STATUS NÃO HABILITADA
+Identificamos que a trava para abertura de um único pendent...
+Icare CLientes NOhs. Erro ao reativar assiantura
+Tela de OS não apresenta conteudo
+Icare Clientes Nohs. Falha ao alterar cadastro 
+Icare CLientes Nohs. Pendentes estão aparecendo em dia que o tratamento já tinha sido finalizado
+Icare Trenamento  NOHS - falha no GPT
+Icare Nohs aprensenta falha para reagendar OS (Intermitente)
+Descrição do valor do produto / zero (Icare Nohs)
+Icare Clientes Nohs.  Status de assinatura do cliente: NÃO HABILITADA indevido
+Icare Clientes Nohs, Falha na Consulta de O.S
+ICARE NOHS - Apresenta erro intermitente.
+iCARE NOHS - Apresena erro na tela de Negociação.
+fatura acumulada por conta do parcelamento de dívida
+ICARE NOHS apresenta falha no registro de contato.
+ICARE NOHS apresenta lentidão para realizar atividades.
+iCARE NOHS - FALHA NA REATIVAÇÃO DA ASSINATURA.
+ICARE NOHS cobrando produto de pacote como opcional
+ICARE NOHS não permite inclusão de novo receptor opcional.
+Teste Problema x Incidentes
+ICARE NOHS apresenta falha na tela de Ordem de Serviço
+Icare Clientes Nohs. Opção ativa de parcelamento para não elegiveis
+Icare Clientes NOhs. Oferta não disponivel na regua 
+ICARE NOHS não faz calculo de desconto automáticamente.
+ENC: SQL Server Job System: 'JOB_SAS_SMSREPLY' completed on \\SRVTBSAS04
+ICARE LEGADO apresenta lentidão e erros intermitentes
+Icare Nóhs com lentidão 
+Icare NOHS
+Cancelamento Programado para data distante 
+Pacote principal sem valor 
+CORREÇÃO DE PACOTE NO CADASTRO DO CLIENTE
+Problema na tela STATUS DE EQUIPAMENTO.
+Icare intermitente
+CLIENTES IBS com Código 4 na Globo Taubaté
+Cliente com Código 4 nos canais que fazem parte da  Degustação Sky Fit 2013 – Recarga 90dias – LIVRE
+[Sky AM][ICare Clientes] Problema no Ambiente de Homologação
+[Sky AM][ICare Clientes] Problema no Ambiente de Homologação
+ICARE SAC LEGADO apresenta falha ao incluir equipamento
+ICARE NOHS não concede desconto para Sócio Torcedor.
+Icare Nohs apresenta lentidão e erro na tela de combos e duetos.
+ICARE SAC LEGADO apresenta falha ao seguir fluxo GPT
+ICARE NOHS não realiza nenhuma ação ao tentar liberar o PPV
+CLIENTE com pacote porém não consta o valor do pacote
+CLIENTE LIVRE sendo cancelado indevidamente.
+ICARE apresenta erro e lentidão
+Erro na tela de OSI
+Icare Nohs-Erro ao alterar CEP
+Erro ao agendar O.S - Legado 
+Erro ao agendar O.S -NOHS
+Erro GPT - Nóhs 
+FALHA NA ALTERAÇÃO DE PACOTE 
+Erro para Soliictar PPV.
+ICARE NOHS - Apresenta tela branca na aba Técnica>Status de Equipamento.
+ERRO NOHS|| CONSULTA OSI 
+Icare ClientesNohs. Falha na inclusão de sistema opcional 
+Icare Clientes Nohs. Falha nos dados cadastrais. 
+Icare nóhs não abre fatura em PDF
+Icare Clientes Nohs. Falha ao alterar Pacote. 
+Icare Nohs apresenta lentidão e erros intermitentes.
+Icare Clientes NOhs. Pedido Concluido com Cotação Criada.01-07-2015.
+[Sky AM][ICare Clientes] Problema no Ambiente de Homologação
+0120617: JOGOS BRASILEIRÃO SÁBADO 04.07.15
+Cliente com Mensagem OSD e consta o pagamento 
+Icare Inperante -  ABA DEVOLUÇÃO DE VALORES 
+ABA STATUS DO EQUIPAMENTO - Icare Nohs
+SKY BANDA LARGA Nohs - Problema na Trava da Venda Base 
+iCARE NOHS - Apresenta tela branca no cadastro 28459172
+CÓD 4 PREMIERE NOHS (Futebol)
+Indisponível Telecine
+ERRO DE MIGRAÇÃO
+Poblema na apresentação do produto Banda Larga
+Cobrança multipla indevida
+ICARE NOHS apresenta erro no acesso à tela de Consulta de OSI
+ICARE NOHS apresenta falha na geração de ordem de Serviço
+Erro na tela de FATURAS.
+ICARE NOHS TRN apresenta falhas intermitentes
+Erro na tela PEDIDOS.
+[15.0008.TN] - Icare Clientes NOhs. Pedido Concluido com Cotação Criada.01-07-2015.
+ERRO NO VALOR DO COMBO.
+Icare CLientes Nohs, Falha ao adquirir recarga dueto 
+Icare Clientes Nohs. Falha ao registrar contato. 
+Icare Clientes Nohs. Falha ao reativar. 
+Siebel  código 4 devido a falta de liberação do Sinal 
+SKY FLOW com extrema lentidão
+ JOB LP_DIMENSIONAL_TER_QUI
+Icare Clientes Nohs. Falha ao acessar conta do cliente. 
+Icare Clientes Nohs. Falha na migração 
+ZABBIX alarmando Icare Sac Back 
+0120586: UFC Fight Night: Ellenberger x Thompson => 12/07/2015
+ICARE NOHS apresenta falha na tela de faturas
+JOGOS BRASILEIRÃO QUARTA 08.07.15
+ICARE NOHS apresenta falha ao acessar a tela de combos e duetos
+ERRO DE MIGRAÇÃO
+OS Cancelada e não é possível novo agendamento
+Icare Clientes não localiza o cadastro do cliente 33288018 
+Cliente com código 6 dados em outra assinatura.
+NOHS não gera OS
+ICARE NÓHS_TELA SOCIO PREMIERE_ERRO TARJA VERMELHA  (Intermitente)
+Erros Sky Nóhs - Treinamento
+ERRO ICARE NOHS TELA DE NÃO FATURADO
+iCARE NOHS - Apresenta lentidão eerro intermitente.
+Erro na Migração de Sistemas (Banda Larga)
+ICARE NOHS - ABA FINANCEIRO
+iCAER NOHS - Reversão de Valores
+Cliente Migrado com dados incorretos no NO ICARE NOHS
+Erro no fluxo GPT
+ERRO NO ICARE CLIENTES NA TELA DE FATURA DESDE A MIGRAÇÃO DO CLIENTE  / SERCOM - CONTRADIÇÃO
+Icare Cliente Nohs. Falha na busca de clientes
+SPW Erro ao debitar cartão
+Erro na aba Tecnica em Consilta OSI
+SIEBEL Não mostra quatidade de equipamentos que cliente possui
+Verificação do Código 4 - Premier Nohs
+Usuário relata que apresenta falha de venda do jogo PPV para sistema coletivo. IBS
+Erro na consulta de faturas.
+Erro na tela de FATURAS (Tarja vermelha: ... CommunicationsInvoiceEBSV2PS ...).
+Clientes com equipamento inativo indevidamente
+Data Fromdate errada
+ ERRO VALOR PACOTE
+Dias de Recara Zero
+ICare SAC NOHS intermitente
+Erro na pagina banda larga 
+Clientes sem N° da conta
+WAR ROOM_ Codigo 4-Degustação HBO/Telecine no UP/Dowgrade"`Produto não esta subindo no parque para  liberação do sinal".
+Erro cancelar opcional Banda Larga
+Erro ao abrir O.S de Banda Larga:"Um erro inesperado ocorreu em CommunicationsSalesQuoteEBSV1PS."
+ICARE NOHS  Cliente não consegue realizar pagamento na Loterica 
+NOHS apresentando lentidão.
+ICARE NOHS não exibe historico de Eventos
+ATRASO MIGRAÇÃO ICARE NOHS
+Erro reversão de valores ( crédito ) na tela de faturas.
+Erro na aba TECNICA
+Erro na aba TECNICA
+ICARE NOHS apresenta falha na tela de consulta de OSI
+ICARE NOHS apresenta falha no registro de contato.
+Clientes informam que não conseguem assistir  o jogo Brasileirão
+Erro Sócio Premiere
+Erro ao liberar o Futebol
+Erro sócio-Premiere
+Premiere SD - P com erro (custo 0)
+Falha na tela Histórico de Eventos
+ICARE NOHS - Erro fatura
+Falha após fazer login no iCare NOHS
+iCARE NOHS - Falha nos dados.
+[15.0008.TN] Falha na nova tela de combos e duetos para Alteração de Pacote (...object reference not set to an instance...)
+O ICARE LEGADO NÃO FUNCIONA NAS SALAS DE TREINAMENTO 
+iCARE NOHS - VISUZALIZAÇÃO DE QUANTIDADE E EQUIPAMENTOS.
+Liberação do PPV Bob Esponja.
+Erro ao acessar ID do cliente 
+Sincronização Siebel X Icare Nohs
+ ERRO NA MIGRAÇÃO ICARE CLIENTES - CUSTOMER 179193300
+ICARE NOHS alarmando nos servidores de Front
+Indisponibilidade do ICARE NOHS
+[14.0298 - Habilitação manual com e sem OS] - ICARE BKO apresenta falha na habilitação manual
+ICARE NOHS apresenta intermitencia no acesso e lentidão.
+[15.0175.TN] Falha ao cancelar as assinaturas de clientes SKY Construtora
+Alteração de Endereço Nohs
+FALHA NA ALTERAÇÃO ENDEREÇO COMERCIAL   
+ICARE NOHS apresenta falhas intermitentes no acessso e na troca de telas
+ICARE NOHS apresenta erro no processo de retirada de equipamento
+ICARE NOHS não exibe historico de Eventos
+Icare Clientes Nohs. Falha na busca de cliente migrado. 
+Icare Clientes Nohs, Falha no cancelamento
+Icare Nohs apresenta lentidão em todas as telas
+Migração de conta 183690200
+ZABBIX
+TARIFAÇÃO INCORRETA AO REVERTER
+ [15.0111.MK - CONCESSÃO DE PREMIERE HD + PLAY - ( NÓHS)] - Pacotes de Futebol com Direito service ID 248 e 249 
+Icare Nohs apresenta lentidão e erros na aba financeiro.
+[15.0130.TN] Sistema gerou duas OS’s para o mesmo cliente, finalizou uma delas, não gerou custumer e consta com o status de Processamento Iniciado/Analise NOHS
+Liberação de PPV
+Lentidão na execução do JOB LP_LIV_LOAD_PLAN
+ICARE NOHS apresenta lentidão e erros intermitentes
+Falha ao localizar cliente.
+Icare Nóhs intermitente
+ICARE NOHS - Erro Alteração de MOP
+ICARE NOHS DEV1 apresenta indisponibilidade de acesso
+OS com status CRIADA com pagamento - Icare SAC Legado.
+iCARE NOHS - ERRO CARTÃO DE CRÉDITO
+ICARE NOHS cobrando degustação do cliente indevidamente.
+Icare Legado Treinamento apresenta erro para logar - Error Informix
+Icare CLientes Nohs. Falha ABA relacionamento 
+Erro liberação de pedido
+ICARE NOHS apresenta falha na tentativa de pagamento do cartão
+Icare nóhs intermitente 
+VP CLIENTES / COBRANÇA - ICARE NOHS - INOPERANCIA ALTERAÇÃO MOP
+Lentidão - Erro iCare
+Legado. Falha ao Gerar OS 
+Icare clientes não retorna informações da Tela Combos e Duetos (DEV1)
+[15.0175] Desconto Contrutora
+JOGOS BRASILEIRÃO SEXTA 17.07.15
+Icare Nohs não gera Ordem de serviço_Credenciado
+JOGOS BRASILEIRÃO SEXTA 17.07.15
+PRODUTOS/SERVIÇOS - Valores zerados
+Icare Clientes Nohs. Falha ao registrar contato
+Icare NOHS indisponível
+Istalação SDU
+ICARE NOHS gerando 2 pedidos de upgrade para mesmo pacote
+Falha no iCare TRN
+Não é possivel Identificar o Preço que o Cliente paga pelo combo.
+ICARE NOHS apresenta lentidão e falha. 
+Icare Clientes Nohs. Falha ao reverter valores da fatura 
+ERRO NO ICARE CLIENTES NA TELA PRINCIPAL DUPLICITADADE  OPCIONAL  E NA FATURA  / SERCOM
+ERRO DE MIGRAÇÃO - CLIENTES COM PRODUTOS DESABILITADOS
+Alarme de monitoração do Zabbix no ICare Cliente Front - PRD
+SEM POSSIBILIDADE DE ALTERAÇÃO DE ENDEREÇO
+ICARE NOHS - DIVERSOS ENDEREÇO NO MESMO CADASTRO.
+INCLUSÃO PPV JOGO_INCLUSÃO PACOTE OPCIONAL PFC_NÃO LIBERA SINAL_PEDIDO STATUS PENDING
+Siebel e Icare Nohs com divergencias de equipamentos.
+Canal  Globo não disponível
+ Cliente NOHS não consegue Alugar FIlme SKY ONline
+Icare Clientes NOhs. Erro ao acessar cadastro
+ICARE NOHS DEV1 apresenta falha na tela de Faturas
+BRM DEV1 não autentica usuário
+ICARE SAC LEGADO indisponivel
+Icare Legado indisponìvel.
+Cobrança antes da habilitação
+Icare nóhs com lentidão
+Troca de Pacote sem tecnlogia com mais de 72 horas
+Erro - iCare Clientes Treinamento
+Lentidão e erros na tela de faturas Icare Nóhs
+Icare nohs alarmando nos servidores de Front
+ICareParceiro | Tela de Estoque - Lentidão e erro ao  acessar endpoint
+Erro ao criar OS 
+ICARE NOHS apresenta falha na alteração de dados cadastrais
+ [NÓHS ] URGENTE Código 4 em todos os canais após envio de Reauthorize devido erro de CAMC S61 - Serviço OPPV expirado BBB15
+[IBS / LEGADO] URGENTE Código 4 em todos os canais após envio de Reauthorize devido erro de CAMC S61 - Serviço OPPV expirado BBB15
+ICARE SAC LEGADO não exibe popup de devolução pendente valores
+Icare Legado Treinamento apresenta erro para logar - Error Informix
+[WAR ROOM] Dados Cadastrais alterados no ICARE CLIENTES não refletem no ICARE CAMPO
+iCAER NOHS - ERRO AO FAZER QUALQUER ALTERAÇÃO NA ASSINATURA.
+ICARE NOHS apresenta falha no registro de contato.
+Alteração de Titularidade apresenta falha
+iCARE NOHS - Apresenta lentidão e erro intermitente na tela GPT.
+DADOS CADASTRAIS DIVERGENTE.
+ICARE NOHS apresenta falha para acessar a tela de Negociação.
+Guardião - Pagamento POS
+USUÁRIOS NOHS sem acesso à banda larga
+Icare CLientes NOhs. Falha na liberação do pacote para o cliente.
+Cine SKY. Falha ao assistir FILME. 
+Icare Clientes Nohs. Fatura duplicadas. 
+Icare Clientes Nohs. Falha ao alterar dados do cliente.
+Icare Clientes Nohs. Data de habilitação divergente. 
+Icare Nohs apresenta lentidão erro na aba finaceiro e técnica.
+Canal  Globo não disponível
+ICARE NOHS - Apresenta intermitencia erros intermitentes em varias telas.
+Erro de migração
+OS Prioridade Zero _ data diferente
+Ocorrência 23_07_PROJETO GUARDIÃO
+Icare nóhs intermitente
+Erro na tela de pedidos - iCare NOHS.
+Erro para reativar cliente programado.
+ICARE NOHS - A ferramenta apresenta erros intermitentes na aba GPT.
+Icare erro na suspensão temporária 
+ICARE NOHS apresenta erro ao acessar a tela de dados cadastrais.
+Erro na regarga - NOHS
+Icare CLientes nohs. Falha ao reativar
+NOHS com lentidão
+Sócio Premiere
+Icare Clientes Nohs. Divergência de status de fatura
+Canal não disponível - GLOBO
+lentidão e erros intermitêntes no NOHS. 
+icare CLientes nOhs. Clientes não sendo cobrados
+Icare Clientes Nohs. Falha ao reativar conta do cliente. 
+[15.0175] - Icare CLientes Nohs. Produtos indevidos disponiveis para o SAC
+Erro na tela de pacotes e produtos.
+Erro na tela de pedidos.
+Icare NOHS - LENTIDÃO SISTÊMICA E ERRO EM VÁRIAS TELAS
+Guardião - equipamentos no parque
+Icare nóhs intermitente
+iCARE NOHS - Apresenta lentidão e erros intermitentes na aba FINANCEIRO.
+NOHS não gera OS - Vendas de Banda Larga realizadas 23/07
+ICARE NOHS - Cancelar Pedido em "Locked"
+Falha no iCare TRN
+ICARE NÓHS NÃO GEROU PEDIDO
+ICARE NOHS - Alteração de endereço de cobrança 
+Icare Clientes Nohs. Falha na cobranca do cliente. 
+ [IBS / LEGADO] URGENTE> Código 4 em todos os canais após envio de Reauthorize devido erro de CAMC S61 - Service ID DO PPV expirado 
+Erro SEC-9000 - Lumini - Icare Nohs
+Alteração de pacote no NÓHS
+Icare CLientes Nohs. Falha ao liberar PFC 
+iCare Clientes DEV1 indisponível
+CLIENTE NOHS com cód 4 na globo
+Cliente SPFC com código 4.
+Icare NOHS - Erro tela de fatura
+ICARE NOHS apresenta lentidão e timeout para seguir o fluxo GPT
+ICARE NOHS apresenta lentidão intermitente
+ [Monitoraçao-Networks] - Icare Parceiro
+ Icare Clientes -Erro para agendar O.S.
+ICARE NOHS|| ABA PRODUTOS||erro ao realizar mudança de equipamentos
+ ICARE NOHS || ABA PRODUTOS||RECARGAS NAO REALIZADAS
+CLIENTE MIGRADO NOHS apresenta erro ao ser consultado (Pontual)
+ICARE NOHS apresenta falha ao reagendar OS
+ERRO ICARE NÓHS TRANSFERÊNCIA DE TITULARIDADE
+SISTEMA GEROU COBRANÇA DIF. DA FATURA MENSAL 
+ICare Clientes - Problema no Ambiente de Homologação
+DEV1 Pedidos Nao tramitam - Demanda Codigo 13
+Icare Nohs treinamento falha no GPT
+Guardião de Vendas - Erro ao Consultar GMAPService 
+Erro no icare nohs - tela de consulta de OSI
+Executar cancelamento de opcional Telecine apresenta falha.
+ 15.0175 - Fase 1- Massa Clientes Especiais - Rodar Série de Cobrança
+Conta sem GEOCODE.
+Icare NOHS - Cancelamento PPV 
+iCARE NOHS - Apresenta lentidão e erros intermitentes.
+Duplicidade de CPF.
+Icare Nohs Treinamento - Erro GPT
+Icare Legado Treinamento - Erro no Login
+JOGOS BRASILEIRÃO TERÇA 28.07.15
+Icare Backoffice não abre opção para incluir equipamento HD Plus 
+Assinatura com marcação postecipado 
+Icare CLientes NOhs. não aparece POP-UP de datas para agendar OS 
+ ICare SAC NOHS não permite retirar equipamento.
+Erro de Timed-Out na tela de pedidos iCare
+Erro icare nohs para cancelamento.
+ Guardião - Duplicidade de equipamentos no parque
+[WARROOM] ALTERAÇÃO DE DADOS NHOS
+ICARE NOHS apresenta tela branca nos dados cadastrais
+ICARE NOHS apresenta lentidão e erros intermitentes
+JOGOS BRASILEIRÃO QUARTA 29.07.15
+iCARE NOHS - Erro reversão
+ICARE NOHS apresenta falha para criar ajustes
+Icare Nohs Treinamento erro no GPT
+Divergência de dados Site SKY x Icare Nohs.
+Impossibilidade de ações  que estão na 2ª pagina adiante na Tela Envio de Comando.
+Icare Clientes Guardião de Vendas, está inserindo descontos 
+Produto principal tarifando em duplicidade
+Icare Clientes Nohs. Falha ao gerar OS 
+[SKY AM][ICare Clientes] - Problema no Ambiente de Homologação
+Zabbix
+Icare CLientes Nohs. assinatura com status ativo sem parque 
+Lentidão no GPT NOHS 
+ICARE TREINAMENTO LEGADO apresenta falha ao logar
+Assinatura cancelada;
+ICARE NOHS apresenta falha na geração de ordem de Serviço
+icare nohs intermitente
+Erro no iCare TRN Nohs
+Guardião - Visualização equipamentos GTI
+ICARE NOHS apresenta erro para realizar reativação de Serviços
+Alteração de endereço (Reinstalação em novo endereço) ICARE NOHS 
+Falha ao tentar cancelar um cliente.
+Icare CLientes NOhs. Erro ao gerar UPGRADE 
+Icare Clientes Nohs. Erro para executar Palavra do Cliente
+[15.0175.TN]Icare Clientes Nohs. Falha na Série de Cobrança com cliente em divida 
+Icare Clientes Nohs. Não esta conseguindo conceder desconto 
+ZABBIX Alarmando 
+Icare Clientes Nohs. Pedido Duplicado. 
+[14.0293] - Icare CLientes NoHS. Lentidão ao alterar endereço 
+iCARE NOHS - Status de Pedido ( Reconexão palavra de Cliente).
+ICARE NOHS não salva atualização de dados cadastrais.
+Agendamento Firme - Instalação Banda Larga
+iCARE NOHS - Pacote Principal cadastrado em duplicidade no parque do assinante bloqueia atendimento pelo GPT.
+Cobrança indevida após Down Grade 
+  ICARE NÓHS  pacote 15 dias com data divergente de 30 dias 
+Falha para adicionar pacotes la carte Premiere Combat
+Icare Clientes Nohs. Tela Créditos e Acertos que não permite preenchimento dos dados.
+Icare Clientes nOhs. Erro na aba de equipamento
+Icare CLientes Nohs. Falha ao abrir tela de equipamentos
+Sistema Nohs.
+iCARE NOHS 
+iCARE NOHS - Apresenta lentidão e erros intermitentes mais acentuada na tela GPT.
+Aba de fatura não esta revertendo - Icare NOHS
+Falha em Registro Pendente
+Ticket a Infraestrutura - iCare - DEV1-NOHS   [Pojeto 15.1096] - Erro na tela de pacotes e produtos
+Icare NOHS - Cliente não está recebendo fatura SKY
+Lentidão GPT
+ICARE NOHS apresenta falha na tela de combos e duetos
+Erro ao incluir premier 
+Tela Créditos e Acertos Clientes BL
+CLIENTE NOHS com pacote sem valor
+2015.04 - Mensagem de erro tela de combos e duetos.
+ICARE NOHS apresenta falha na consulta de equipamentos
+ICARE NOHS -Apresenta lentidão e erros intermitentes.
+Lançamento de cobrança indevida
+SKY PRÉ-PAGO: Falha no agendamento da recarga
+Reabrir incidente 645272- Código 04 nos canais PFC SD e HD
+Icare Clientes NOHS ||lTela Status Equipamentos - Falha no cadastro de equipamentos
+ICARE NOHS - Apresenta erro na tela GPT.
+FALHA AO ABRIR O.S
+Icare Clientes. Falha ao trasnferir para pesquisa de satisfação 
+[ICare Clientes] - Problema no Ambiente de Homologação
+Icare Clientes Nohs. Lentidão e erros 
+iCARE NOHS - Erro e lentidão na tela GPT.
+Icare Nohs - Erro ao realizar pagamento pelo cartao 
+ICARE CLIENTES TREINAMENTO - Erro ao seguir Fluxo GPT
+Cadastro com início zero não localizado ao ser migrado para o Nóhs
+ Problemas em DEV1
+ICARE CLIENTES COM ERRO NA TELA PEDIDOS.
+Campo Canal de recarga em branco 
+Identificamos que o Icare Clientes não apresenta a tela de ...
+Data errada na vigência do produto na aba transações financeiras cliente pré pago.
+Nomenclatura de desconto indevida
+Desconto não acompanha reajuste 
+Icare nohs alarmando nos servidores de Front.
+Impossibilidade de visualizar a fatura da mesma forma que o cliente visualiza por carta ou pela internet
+iCARE NOHS - Apresenta lentidão na tela FATURA.
+Emergencial -  Liberação para implantação em PRD
+Icare Nóhs intermitente
+Cliente não obteve sinal de recarga.
+ICARE NOHS - Andamento Locked - 187407286
+Retirar cobrança do cliente Sky Livre
+ICARE NOHS apresenta falha na alteração de endereço
+Divergencia de valor combo
+Agentes da Sercom reportam falha de conexão com o Banco de dados ao tentar acessar o ICARE
+CLIENTES realizaram pagamento porém não são localizados
+CLIENTES realizaram pagamento porém não são localizados
+[15.0175.TN] Tela de sincronização de conta e parque do cliente com falha via ICARE BKO
+Icare CLientes Nohs. Falha ao registrar contato. 
+DEV1
+Intermitencia em diversas telas do iCare NOHS.
+ICARE NOHS apresenta falha na baixa de estoque de equipamento
+iCARE NOHS TREINAMENTO - Erro
+ICARE NOHS TRN apresenta falha na busca de customers
+erro no canal adulto
+Geração indevida 
+ICARE NOHS apresenta falha no cancelamento de assinaturas
+Icare Nohs-Erro para inclusão de banda larga
+ICARE NOHS apresenta lentidão para realizar atividades
+Icare CLientes Nohs. Canal Indisponivel em todos os equipamentos apos serviço realizado 
+ICARE NOHS Falha na venda de produto banda Larga para cliente
+Icare CLientes NOhs. Produto habilitado não consta 
+ICARE NOHS apresenta falha no upgrade de dispositivo Zapper Slim
+Erro na tela de pedidos.
+Ticket a Infraestrutura - iCare - DEV1-NOHS
+Pendente devolução de valores
+VP CLIENTES /COBRANÇA-NOHS -TELA DE NEGOCIAÇÃO
+Erro na tela de relacionamento.
+ICARE NOHS TRN apresenta falha na pesquisa de customers
+iCare NOHS não gerou número de pedido.
+CLIENTES IBS com Código 4 na Globo Taubaté
+Lentidão e falha no iCare NOHS
+[Nóhs] Codigo 4 -Clientes  Migradodo  IBS sem Produto Globo (Pindamonhangaba- Range de Cobertura de 12400-001 a 12449-999)
+ ICARE NOHS Divergência
+Codigo 4 -Clientes  Migradodo  IBS sem Produto Globo 
+Abertura de incidente: Icare não localiza pendente na tela de Histórico de Eventos.
+[ICare Clientes] - Problema no Ambiente de Homologação
+Cliente banda larga não está sendo identificado com pacote banda larga ativo no Icare
+ICARE NOHS apresenta falha no acesso à tela de Pacotes e Produtos
+ICARE NOHS apresenta falha no acesso à tela Banda Larga
+ICARE NOHS TRN apresenta falha na pesquisa de customers
+Icare CLientes Nohs.  falha na alteração de metodo de pagamento
+Icare CLientes Nohs. falha ao tentar efetuar pagamento com cartão
+Icare CLientes NOhs, apresenta lentidão e intermitência
+CLIENTE BANDA LARGA SEM A ABA DE CRÉDITOS E ACERTOS
+Icare cliente apresenta erro ao cancelar
+Codigo 13 PPV 
+EPS ASSERTH - Apresenta indiponibilidade nas erramentas.
+Icare Cliente Nohs - Erro nóhs produto banda larga não disponivel.
+CLIENTE NOHS apresenta falha na aba de equipamentos
+Icare Cliente Nohs - Erro ChangeLocation
+Teste para Gestão de Problemas 1
+Teste para Gestão de Problemas 2
+iCARE NOHS - Lentidão.
+ERRO NO CADASTRO DO CLIENTE.
+ERRO DE MIGRAÇÃO.
+CLIENTE IBS não teve baixa de pagamento via PEC
+ICARE NOHS TREINAMENTO apresenta falhas intermitentes
+Tela de Fatura ICARE NOHS FALHA  - 47365619
+Pacotes SOU+SKY esta sendo cobrado indevidamente
+Alto índice de erro WebService/ BT 125511
+ICARE NOHS apresenta lentidão na consulta de faturas
+SIEBEL correção do campo Country da tabela S_ADDR_PER do Siebel CCP
+Icare Clientes NOhs. Valores do combo indevido. 
+Indisponibilidade de serviceID, BT: 0127254: JOGOS BRASILEIRÃO TERÇA 11.08.15
+Icare Clientes Nohs. Produtos sem informação na tela de equipamentos
+Equipamentos de ex-assinantes com mensagem OSD
+SIEBEL. Falha na sincronização ICARE - SIEBEL
+AGENTE nao consegue realizar atividades no NOHS
+ICARE NOHS apresenta lentidão para realizar as atividades
+Erro  no processamento do job Cancelamento de produto
+Abertura de chamado - TP SGA  - Nohs não está carregando
+Canais trocados
+Indisponibilidade de serviceID, BT: 0127629: JOGOS BRASILEIRÃO QUARTA 12.08.15
+Erro ao localizar assinatura.
+Pacote com saldo negativo
+Regras Globosat: Icare Dev 1 indisponível
+Icare Clientes - Pedido Concluído de Suspensão temporária, Sinal bloqueado, conta ativa no BRM
+iCAE NOHS - FALHA NA ALTERAÇÃO DE DADOS CADASTRAIS.
+iCARE NOHS - Apresentando lentidão na navegação.
+Alarme de monitoração do ICare FRONT.
+iCARE NOHS - Apresenta lentidão.
+ICARE NOHS - HISTORICO DE EVENTOS.
+Icare Nohs Com Lentidão, intermitencia e não efetua reversão.'
+iCARE NOHS TREINAMENTO - Erros em ABAS e TELAS diferentes.
+ICARE NOHS apresenta intermitencias no uso
+Desconto não habilitado no parque do cliente.
+iCARE NOHS - ERRO AO MANDAR PARA ESTOQUE.
+Após desmembramento dos pacotes, clientes estão com faturamentos incorretos.
+HML. Projeto 15.0062 SH10 - Erros apontados pela Célula Técnica
+Sistema não gerou OS de reinstalação em novo endereço
+ICARE NOHS apresenta falha no ID do Registro
+Sócio Torcedor – Erros em Produção 
+Icare Nohs. Erro na aba pacotes e produtos
+Icare Clientes Nohs. Falha ao alterar endereço 
+Abertura de pendente
+Erro ao efetuar desconto.
+ICARE NOHS não abre pop up para pagamento no cartão
+ICARE CAMPO não exibe número de telone do cliente na OS
+Falha na tela de ofertas.
+ICARE NOHS não realiza busca via telefone do cliente
+iCare QA1 
+icare nóhs inoperante
+NHOS apresenta letidão para realizar qualquer ação.
+ICARE NOHS
+ERRO NÓHS Não Parcela venda no cartão para cliente Novo Pre Pago
+Icare Clientes NOhs. falha no processo de devolução de valores 
+ICARE NOHS não carrega combo de parque do cliente
+GUARDIAO DE VENDAS Proposta Habilitada   porém não inlcusa
+Icare Clientes NOhs. erro na  hora de habilitar equipamento com cod 6
+Icare Clientes nOhs. Erro ao reativar assinatura ICARE NOHS 
+CLIENTES NOHS habilitados pelo GV não são encontrados no NOHS
+ 128162: JOGOS BRASILEIRÃO SÁBADO 15.08.2015
+iCARE SAC LEGADO e PORTAL SKY CLIENTES indiponiveis.
+Ambiente NOHS  Indisponível - Erro ao logar
+ICARE NOHS - Erro ao passar cartão.
+iCARE NOHS - Apresenta erro na tela Status de Equipamento.
+ICare Clientes -  Descrição errada para o pendente de Devolução de valor na tela de Consulta OSI. 
+ GV execução da OS de PP e PO para mesmo equipamento.
+Lumini - Alertas Combo e Duetos em Todas as EPS's
+Icare Treinamento NOHS inoperante
+ Iacre clientes-erro para enviar comando Globo sky livre
+ICARE NOHS apresenta falha na criação de OS via GPT
+ICARE NOHS apresenta falha na geração de ordem de Serviço
+Icare Clientes Nohs. Pedidos de Reinstação em Novo endereço
+Icare Clientes NOhs.  Não conseguem realizar o Up Grade ou Down Grade de 
+ICARE NOHS apresenta lentidão para realizar atividades
+Icare Clientes Nohs. NÃO GEROU O.S DE REINSTALAÇÃO EM NOVO ENDEREÇO
+Icare nohs alarmando em vermelho
+ICARE NOHS apresenta falha no acesso à tela de Pacotes e Produtos
+Falha na tela MOP
+ICARE SAC LEGADO apresenta falha na pesquisa de certos customers
+icare nohs com lentidão 
+ICARE NOHS apresenta lentidão para realizar as atividades
+Erro na realização de vendas - Cartão de crédito.
+ICARE SAC LEGADO apresenta lentidão para realizar atividades
+[WAR ROOM] Falha ao cancelar TV quando cliente tem o bundle paytv + banda larga
+CLIENTE foi migrado para o NOHS como Ativo indevidamente
+[Nóhs] Novo Front  Tela Icare BKO _ habilitação EM Lote_Não esta enviando Bouquet para range com cobertura de Globo.
+Icare ClientesTreinamento  - 
+Jogos 2015 - Quarta - 19/08
+ ICARE NOHS - BAIXA DE PAGAMENTO - PAGAMENTO NÃO CONSTA NA TELA DE FATURA
+ICARE NOHS - Apresenta lentidão.
+Icare Nohs permite retirada de equipamento em assinatura onde só há um equipamento habilitado.
+ICARE NOHS apresenta falha no calculo do Saldo do cliente
+ICARE NOHS apresenta falha na estruturação da exibição de produtos
+Icare Sac Legado com lentidão 
+ICARE NOHS apresenta lentidão para realizar atividades
+icare nohs com lentidão 
+Alarme de monitoração Zabbix
+Icare Nohs. Divergências de Codigos do cliente. 
+CLIENTE NOHS apresenta falha na abertura de tela de faturas (Pontual)
+ICARE NOHS - LENTIDÃO
+Erro na confirmação de baixa de pagamento.
+Icare NOHS - Duplicidade de pacote combo full no parque
+Icare Clientes - Libera Inclusão de Pacotes Opcionais para Clientes sem Pacote Principal ativo.
+ICARE CLIENTES | NOHS - Clientes cancelado adimplentes 
+Erro para reativar produto banda larga. 
+Icare Clientes nOhs. Falha ao seguir fluxo GPT. 
+Icare NoHS. Pastas Duplicadas no Icare NOhs. 
+iCare NOHS não disponibiliza produtos opcionais.
+ICARE NOHS conclui o pedido de alteração de data de vencimento porém não altera a data.
+[15.0064.BL-Incluir Novas Praças Banda Larga::N] Icare Clientes NOhs. Falha ao vender produto, local fora de área indevido 
+Icare Clientes Nohs - Erro para envio de controle remoto - Pedido fica aguardando atualização de Objeto Postal
+Visualizar FATURA através da busca avançada.
+[WAR ROOM] Abertura de OS de BL via GPT ou tela de Ordem de Seviço apresenta falha
+Ticket a Infraestrutura - iCare - DEV1-NOHS
+ Icare Clientes - Libera inclusão do Premiere Futebol em Duplicidade para clientes que já possuem o serviço no COMBO
+[WARRROM] - Icare Nóhs_Dados Cadastrais.
+NOHS alterando endereço indevidamente.
+Icare Clientes - Sistema não disponibiliza pacotes opcionais para inclusão
+Icare Clientes nOhs. Erro ao reativar assinatura ICARE NOHS 
+NOHS apresentando erro para o customer: 69526765
+Abertura de registro de contato de Venda Irregular apresenta falha
+ICARE NOHS não apresenta calendário para reagendar OS
+Icare Clientes - Permite o cancelamento indevido do Premiere Futebol para clientes que possuem o Combo com o pacote incluso
+Problemas na criação de pedidos para o assinante
+Icare Clientes nOhs; Falha na tela de pacotes e produtos. 
+Icare Clientes Nohs. Falha na reversão de valores 
+ICARE CLIENTES NOHS apresenta lentidão
+: Icare Clientes não localiza cadastro de clientes através do n° de telefone.
+Falha na aba FINANCEIRO
+Icare não concluiu compra de PPV
+Cliente novos projeto Guardião com direcionamento indevido.
+ICARE NOHS apresenta falha na ateração de decoder
+Data de Reajuste Invalida
+[15.0175.TN] - Erro na alteração de vencimento para clientes corporativos pelo Icare Nohs
+Icare Clientes Nohs, Falha no corte de sinal 
+[15.0130.TN] Duplicidade de Produtos e Faturamento
+[15.0130.TN-SpeedWeb – Venda sem Oracle (Guardião de Vendas)] - Quantidade Excessiva de Equipamentos
+Erro de reativaçao da conta.
+ICARE NOHS apresenta falha na aba faturas
+Icare CLientes nOhs. Falha na reversão do cliente. 
+ICARE NOHS - DADOS CADASTRAIS
+Icare Clientes Nohs. Erro na venda, Geocode 
+Icare Treinamento apresentando erro.
+iCARE NOHS - Erro ao conceder oferta.
+ICARE NOHS gerando diversas cobranças PPV
+Registro de contato SKY +
+ICARE SAC LEGADO apresenta lentidao nas tratativa de atividades
+Alarme de monitoração do ICare
+iCARE NOHS - Apresenta lentidão e erros intermitentes.
+Icare NOHS - RECARGA ATIVA SEM SINAL
+ICARE NOHS apresenta falha no registro de contato.
+ICARE TRN NOHS apresenta falha na busca de clientes
+Icare NOHS - cliente com mensagem na tela
+iCare NOHS - Equipamento habilitado sem sub id
+Erro MOP
+Icare Cliente Nohs. Lentidãoi 
+Icare Clientes NOhs.  Assinatura Familia foi desmembrada
+ICARE NOHS - DADOS CADASTRAIS
+[WARROOM] Icare Clientes NOhs. Sistema não permite reativar Pay Tv para conta que já possui Banda Larga 
+Icare Clientes nohs. Erro no tela de equipamento
+Lentidão e intermitencia no NOHS.
+Erro na alteração de MOP.
+[15.0130.TN-SpeedWeb – Venda sem Oracle (Guardião de Vendas)]  - Contas duplicadas.
+ICARE NOHS TRN
+Icare Clientes NOhs. Clientes produtos de banda larga cadastrados como paytv, com isto o processo de tarifação e envio para o SAP fica comprometid
+Icare CLientes Nohs. Erro na inclusão da oferta SKY combat por 1 mês, 
+Cliente Icare Nóhs em Série de Cobrança sem Valores em Aberto
+iCARE NOHS - Apresenta erro na tela Negociação.
+Cliente sem a aba Método de Pagamento - iCare NOHS.
+Erro para devolução de valores.
+ICARE TREINAMENTO NOHS apresenta falha no acesso.
+ICARE NOHS apresenta lentidão para realizar atividades
+ICARE NOHS apresenta falha na criação de OS
+Erro para alterar o método de pagamento para cartão de crédito
+ICARE SAC LEGADO apresenta falha para carregar ofertas
+ICARE SAC LEGADO apresenta falha para crregar pacotes e produtos
+ICARE NOHS não habilita botão de reconexão de cliente
+ICARE NOHS apresenta falha para registrar contato pendente para baixa de pagamento fora do prazo.
+ERRO NA TELA DE STATUS E EQUIPAMENTO
+LENTIDÃO ICARE NOHS
+CARE NOHS_TELA PACOTES E PRODUTOS_NÃO DISPONIBILIZA O CANAL PRIVE PARA INCLUSÃO
+ICARE SAC TRN apresenta falha no acesso
+[WARROOM] NÓHS_ESTRUTURA DO PARQUE PÓS REATIVAÇÃO E MOVIMENTAÇÃO DE PACOTE
+Icare Clientes - Erro na Máscara de envio do controle Remoto
+[SKY AM][ICare Clientes] - Problema no Ambiente de Homologação
+Icare CLientes Nohs. Cliente com Assinatura e equipamentos habilitados porem esta sem imagens 
+Icare Clientes NOhs. Descontos Indevidos para Pre Pago
+Icare NOhs. Divergência de dados. 
+CLIENTE MIGRADO NOHS está com pacote duplicado no parque
+Icare CLientes Nohs. Erro ao seguir Gpt
+ICARE NOHS apresenta falha na aba negociação
+ICARE NOHS apresenta falha na reversão de faturas
+Reversão + Inclusão de perdão de dívida
+Reversão de Descontos Múltiplos
+Reversão do perdão de dívida da ação com nome “Reversão + Inclusão de perdão de dívida” 
+Erro ICare Legado Treinamento
+Icare Clientes não permite a inclusão de novos equipamentos na opção VENDA 
+ Erro ao Reagendar e Criar O.S no Icare Nóhs
+Tela de PedidosiIndisponível do iCare DEV2
+Lentidão/Indisponibilidade
+ICARE NOHS HML apresenta lentidão e erros intermitentes
+[Monitoração-31-08-2015-11:00] - Abrir Chamado MST
+ICARE NOHS TRN apresenta falhas intermitentes
+[15.0175.TN] Falha na alteração de pacote de clientes de Construtoras
+[Monitoração-31-08-2015-15:31] - Abrir Chamado Icare Sac
+ICARE NOHS apresenta falha na tela de OS
+Icare Clientes nOHS. Dados divergentes em cadastro 
+ICARE NOHS apresenta lentidão e timeouts
+Erro na tela de negociação.
+Nohs não está carregando.
+Monitoração-01-09-2015-08:00 - iCare NOHS
+Monitoração-01-09-2015-08:00 - iCare FRONT
+Monitoração-01-09-2015-08:00] - Abrir Chamado Icare SAC
+ICARE NOHS apresenta lentidão intermitente
+Icare Clientes - Ativa Combo sem o equipamento principal do pacote habilitado
+[15.0130.TN-SpeedWeb – Venda sem Oracle (Guardião de Vendas)] - Habilitação Via Guardião de vendas Duplicado. 
+[15.0130.TN-SpeedWeb – Venda sem Oracle (Guardião de Vendas)] - Geração de duas faturas com o mesmo vencimento indevido. 
+[SKY AM][ICare Clientes] - Problema no Ambiente de Homologação
+alerta Lumini aba Icare SAC.
+ICARE NOHS apresenta falha para conceder recargas
+Icare NOHS liberação de novos pedidos com pedidos pendentes IN LOCKED
+Icare Nohs gerou cobrança Indevida de serviço Assistência Premium
+Falha para alterar MOP em cadastro de Pessoa Jurídica
+Icare não permite gerar débito pela tela de créditos e acertos
+Lentidão e indisponibilidade
+Falha na abertura baixa de Pgto.
+ICARE CAMPO HML apresenta falha na tela de OS
+[WARRROM] Falha no parcelamento para recargas de cliente Novo Pré Pago.
+ICARE IBS - EFETUAR PAGAMENTO
+Lentidão e erros intermitentes no Icare Nohs
+Icare CLientes Nohs. Falha ao mandar equipamento para estoque
+ Icare Treinamento NOHS inoperante
+Icare Clientes Nohs. Falha ao realizar Recarga
+Icare nohs - erro na reversão
+Icare CLientes NOHs. Cliente não recebeu controle remoto
+iCARE NOHS || TECNICA/FALHA DE ENVIO DE CONTROLE
+Icare Clientes NOHS. Falha na tela de faturas 
+ERRO DE MIGRAÇÃO DO LIVRE PARA O PÓS. 
+Icare Clientes Nohs. O.S não retorna nova criada 
+ Icare Clientes - Apresenta erro para remoção de equipamento do parque pela tela de Status de Equipamentos
+Indisponibilidade de ServiceID, BT: 0131301: JOGOS BRASILEIRÃO QUINTA 03.09.2015
+Intermitencia na tela OS
+icare nohs intermitente
+Monitoração [03-09-2015] - Abrir Chamado Icare SAC
+Monitoração [03-09-2015] - Abrir Chamado Front
+iCARE NOHS - Erro ao Efetuar Reativação.
+iCARE NOHS - Erro ao habilitar SIM25.
+Icare nohs alarmando no Front
+Lentidão no Icare Nohs em todos as atividades.
+erro ao realizar a reversão de valores indevido
+Icare Clientes – Permite retirada de equipamento em assinatura onde só tem um equipamento habilitado.
+ICARE NOHS apresenta erro para carregar dados da tela Principal
+ Monitoração [ 04-09-2015] - Abrir Chamado Icare SAC
+ICARE NOHS sem opção de cancelamento de combo
+ICARE NOHS apresenta falha para realizar acerto de balanço 
+Icare clientes: Erro ao registrar irregularidade na venda 
+Pacote com marcação de cancelado NOHS
+[15.0049.MK-Criar produto SKY Pré-Pago POP 24 meses] - PACOTE NOHS habilitdo indevidamente
+Icare Clientes apresenta lentidão geral
+Falha no icare nohs apenas para seguir GPT com este cliente
+Monitoração [05-09-2015] - iCare SAC - Lumini
+Erro para realizar troca de pacote + inclusões
+ICARE NOHS apresenta falha na reversão de faturas
+Nohs PPV não liberado
+Aparece opção de escolher equipamento para troca em aquisição de equipamento
+ICARE NOHS apresenta falha na visualização da fatura de novos clientes
+ICARE NOHS apresenta falha no cancelamento
+Erro ao agendar OS - Tela GPT
+iCare DEV 2 Erro na tela de Combos e Duetos
+Lentidão no iCare NOHS.
+-ICARE NOHS - ERRO DESCONTO FORA DA POLÍTICA
+ICare Clientes com erro na tela de pedidos.
+Icare Nohs-Venda não processada
+[WARRROM] - (Nóhs) Alteração Cadastral Sem Geração de OS(Ordem de Serviço) não altera Geocode via IcareClientes/Aba Alteração Cadastral - Impacto> Codigo 9 SBT e/ou Blackout.
+ICARE NOHS - LENTIDÃO
+Erro ao Migrar o Cliente
+Atendimento VIP/ Diretoria - Acesso ao cadastro #26203494 está indísponivel. 
+Campo descrição - Reagendamento de O.S desabilitado 
+Zabbix alarmando em vermelho.
+ICARE NOHS NÃO ESTÁ PARCELANDO CARTÃO
+ICARE NOHS apresenta falha na consulta de faturas
+INTROSCOPE - Alerta iCARE FRONT.
+Lentidão Icare legado
+ICARE NOHS TRN apresenta falhas intermitentes
+LUMINI - Alerta no iCARE SAC.
+Falha no grupo de vendas ATEND_VC_VENDAS
+(14.0224) - SKY Media Center (Fase 1 - Upgrade) ::  iCare DEV 2 Erro na Criação de cotação
+[SKY-NOHS] Falha MAESTRO - HML
+Erro na tela de equipamentos Icare Nohs - Na atualização de devolução de equipamentos.
+Deleção do serviço 48563 - Joinville x Chapecoense
+iCARE NOHS - Apresenta lentidão.
+Erro ao gerar débito - iCare NOHS
+ Icare Nóhs com lentidão
+iCARE NOHS apresenta lentidão.
+Espaço em disco no FileSystem /Var
+Icare Nohs [HML] - Pedidos em aberto
+ICARE IBS - CADASTRO
+Erro no Icare Clientes
+Integration DEV1 fora
+[15.0130.TN-SpeedWeb – Venda sem Oracle (Guardião de Vendas)] - Caracteristica do Incidente   Contas a Receber;  Arquitetura   N...
+[15.0130.TN-SpeedWeb – Venda sem Oracle (Guardião de Vendas)] - Pagamento a menor taxa de adesão.
+Recargas não disponíveis - iCare NOHS.
+Equipamento não aparece no ICare
+ICARE NOHS apresenta equipamentos cancelados
+[15.0130.TN-SpeedWeb – Venda sem Oracle (Guardião de Vendas) - ]Duplicidade de produtos - iCare NOHS.
+(HML) - Problemas ao gerar pedidos.
+Incidente Valor pedido ponto opcional
+Sistema não acata a  suspenção do serviço temporária 
+Falha no sistema de HML necessário efetuar a limpeza de cache.
+Falha na pesquisa do código
+Alerta no Indicador Ordem de Serviço 
+Inclusão do Premiere Combate  - Projeto 150175
+ICARE NOHS REATIVAÇÃO
+iCARE NOHS - Apresenta lentidão.
+ VIP CLIENTES/COBRANÇA-ICARE TREINAMENTO-INOPERÂNCIA
+ICARE NOHS - Erro no cartão de crédito - Recarga.
+iCARE NOHS - Apresenta lentidão e erros intermitentes.
+ICARE NOHS - Apresenta erros intermitentes.
+RECARGAS com período incidente (01/01/0001 A 01/01/0001).
+Lumini - Icare Sac - Ordem de Serviço
+Lentidão no Icare Nóhs
+ [Monitoração 14-09-2015 08:00] Abertura de Chamado Icare NOHS
+Icare legado de treinamento não acessa
+OS de Retirada aberta com equipamento de outra conta/cliente
+SISTEMA RETORNA ERRO - ALTERAÇÃO DE MÉTODO DE PAGAMENTO
+Erro no iCare Clientes - DEV1
+Lentidão no iCare Cliente
+Lentidão - iCare NOHS
+Erro iCare Nóhs na ateração de endereço
+Icare Nohs - Erros em SGA (Sky Reativação e Sky HD TOP) e em SP (Sky Staff).                
+Erro na alteração do Método de envio
+Icare DEV2 com extrema lentidão - Projeto 14.0224.MK-ROADMAP - Lançamento do SKY Media Center - Fase 1::N
+Alerta Monitortaçao iCare  Front 
+Icare Nohs com lentidão e erros intermitentes
+Habilitação ou ajuste de link manual de equipamentos SKY+ apresenta falha
+[IcareClientes] Problemas em DEV1 - CommunicationSalesQuote
+ICARE NOHS não disponibiliza alteração de vencimento de 01 a 30
+[15.0130.TN-SpeedWeb – Venda sem Oracle (Guardião de Vendas)]  - Cliente não entra em régua de cobrança
+iCARE NOHS - Apresenta lentidão e erros intermitentes.
+Lentidão no iCare LEGADO.
+iCARE NOHS - Erro na tela de Negociação e Pacoste e Produtos.
+ICare NOHS apresentando lentidão.
+Icare Nohs inoperante
+FALHA NA ABERTURA DE CONTATO PENDENTE DE CONFIRMAÇÃO DE BAIXA DE PAGAMENTO
+ICare Treinamento
+Suspensão temporaria Legado
+ICARE NOHS - Apresenta lentidão e erros intermitentes.
+ERRO NOHS TELA DE PRODUTOS E METODO DE PAGAMENTO
+Icare NOHS Treimaneto - apresenta para localizar clientes.
+Pesquisa de customers com erro.
+Lentidão no iCare NOHS
+Falha agendamento Suspensão Temporária IBS
+[15.0130.TN-SpeedWeb – Venda sem Oracle (Guardião de Vendas)] - Produto habilitado sem Banda Larga.
+[15.0130.TN-SpeedWeb – Venda sem Oracle (Guardião de Vendas)] - Erro incluir Banda Larga
+[15.0130.TN-SpeedWeb – Venda sem Oracle (Guardião de Vendas)] - Cliente sem a cobrança da taxa de adesão
+Icare Nohs - Cobrança de visita técnica
+iCARE NOHS - Apresenta lentidão na aba Financeiro.
+[15.0130.TN] Cliente teve o produto Digital habilitado, enquanto o correto seria o produto Básico
+[15.0130.TN-SpeedWeb – Venda sem Oracle (Guardião de Vendas)] - Desconto indevido na 1a. mensalidade
+Lentidão no Icare NOHS
+Lentidão no Icare NOHS
+iCare - DEV1-NOHS
+Valor pago não entra no iCare NOHS;
+Lentidão no iCare Clientes NOHS
+Falha no pagamento de cartão de crédito - iCare NOHS.
+Usuário informa lentidão no iCare NOHS
+Troca de pacote - iCare NOHS
+iCARE NOHS - Apresenta lentidão e erros intermtentes.
+Lentidão no iCare TRN.
+LUMINI - Alerta no iCARE SAC.
+iCARE NOHS -  Apresenta lentidão e erros intermitentes.
+[WAR ROOM] Icare Nohs apresenta erro ao enviar a linha digitavel do parcelamento por SMS ou Email
+iCare DEV2 indisponível
+ALTERAÇÃO DE TITULARIDADE NÃO ATUALIZADA NOVO CLIENTE NO SITE
+Icare Nohs apresenta lentidão
+Problema Icare legado Treinamento.
+Icare Sac Legado  - GERAÇÃO DE FATURA COM VALOR INDEVIDO 
+Erro no Icare Nohs Treinamento
+Sem informação de Postecipado no Icare
+Icare Nohs apresenta lentidão
+iCARE NOHS - Apresenta lentidão e erros intermitentes.
+Usuário migrado, não é localizado no NOHS
+Icare Nohs - Lentidão e erros intemitentes.
+Erro de para cancelar - Timeout (Icare Nohs)
+[WARROOM] Erro na Alteração de Vencimento atraves do iCare Clientes (...Erro ao alterar a data de pagamento do assinante...)
+NOHS com lentidão.
+Erro no Icare Nohs Treinamento.
+HML Indisponível.
+Alerta Monitoraçao iCare Front Legado 
+Icare Clientes e GPT - Lentidão Intermitente
+Icare Nohs - Erro no debito de valores
+ICare Treinamento
+15.0130.TN-SpeedWeb – Venda sem Oracle (Guardião de Vendas) Problema de proposta com OS finalizada no guardião e conta não habilitada.
+ICARE NÃO GERA FATURA
+ICARE NOHS - Apresenta lentidão e erros intermitentes na tela GPT.
+ICare DEV 2  apresentando erro 
+(14.0224) - SKY Media Center (Fase 1 - Upgrade) Erro de cotação DEV2
+ICARE alarmando no FRONT em vermelho.
+Erro na chamada do serviço ServiceReqEMHelpDeskInsertAndQuery.
+Erro na chamada do serviço AssetManagementComplexUpdate
+ICARE NOHS - Apresenta erro para efetuar recarga.
+iCARE NOHS apresenta lentidão.
+Legado apresentando erros intermitentes.
+Icare Nóhs intermitente
+Lentidão e erros intermitentes no Icare Nohs
+Icare Nóhs inoperante
+Erro na tela de PEDIDOS na Aba técnica para alguns clientes (Tarja vermelha: ... QueryFulfillmentOrderListCCPSiebelProvABCSIMplPS ...)
+Erro em varial telas, lentidão busca de clientes aba financeira.
+Alerta Monitoraçao iCare Legado.
+Icare Clientes Treinamento com erro
+Cobrança multipla indevida 
+Alteração de Dados Principais-  iCare NOHS
+Monitoração - ICare alarmando Back e Front
+(14.0224) - SKY Media Center (Fase 1 - Upgrade) :: iCare DEV 2 tela de faturas/ BRM indisponíveis
+Cancelamento não realizado
+iCARE NOHS - Apresenta lentidão e erros intermitentes.
+Icare Clientes Treinamento com erro - Volta para tala de login quando acessa de login e senha
+Falha no registo de OS de Retirada de TV - Razão Prime 24h Retirada de TV
+ICARE alarmando em vermelho.
+ICARE NOHS gera pedido de PPV com Status Cancelado
+Erro na tela de Pacotes e Produtos - iCare DEV1
+Equipamento com horário divergente.
+ iCare DEV 2 com lentidão/Tela de pedidos inoperante
+[WAR ROOM] Erro na tela de Dados Cadastrais (...QueryFulfillmentOrderListCCPSiebelProvABCSImplPS...)"
+Icare Nóhs intermitente
+Icare Nohs apresenta lentidão e erros intermitentes.
+[WARRROM] - (Nóhs) Alteração Cadastral Sem Geração de OS(Ordem de Serviço) não altera Geocode via IcareClientes/Aba Alteração Cadastral - Impacto> Codigo 9 SBT e/ou Blackout.
+ICARE NHOS ERRO NA REVERSÃO DO PPV
+ICARE TRN NOHS - com erro na aba Técnica > Negocição
+Icare Nohs - Erro de Funcionalidade botão Devolver da tela de Equipamentos 
+Criação de Cotação - Projeto 14.0224.MK-ROADMAP - Lançamento do SKY Media Center - Fase 1::N
+Cadastro divergente - 
+ICARE SAC apresenta falha ao realizar devolução de valores
+Icare Legado Treinamento Insdisponível
+Multa Inadimplencia
+Pedidos NOHS estão ficando em Andamento Locked
+ICARE SAC LEGADO apresenta falha para conceder Suspensão Temporária
+ICARE NOHS apresenta falha na aba faturas
+ICARE NOHS apresenta falha no acesso à tela de Ordem de Serviço
+PPV cobrado indevidamente em assinaturas Beneflex
+ICARE TREINAMENTO NOHS indisponivel
+ICARE TREINAMENTO NOHS apresenta falhas
+Alerta Monitoraçao iCare Front  Back do legado.
+Erro na abertura de Pendente - Baixa de pagamento _ Icare Nohs
+ICARE NOHS apresenta falha na reativação de clientes
+ICARE NOHS apresenta falha para carregar dados do envio de comandos
+NOHS erro no cancelamento de pedido de PPV
+ICARE NOHS permitindo abertura de um segundo Registro Contato Pendente na mesma razão
+ICare NOHS - DEV1-NOHS 
+Falha para reagendar O.S via Icare legado.
+iCare DEV1 indisponível.
+ICARE NOHS apresenta lentidão para realizar atividades
+LENTIDÃO NO IBS.
+Icare Nohs DEV2 apresenta falha para pesquisar clientes
+Icare Nohs DEV1 apresenta falha
+NOHS apresentando lentidão para as operações.
+ICARE NOHS apresenta lentidão e erros intermitentes
+ICARE NOHS gera OS durante qualquer atualização de dados cadastrais
+ICARE NOHS apresenta lentidão para realizar as atividades.
+Icare Treinamento Indisponivel
+[15.0175.TN] Falha ao incluir Ponto Opcional em assinatura de Funcionario - Beneflex 
+ICARE NOHS apresenta lentidão para realizar as atividades
+Icare Nóhs intermitente
+Sem acesso a tela de pedidos no NOHS
+ICARE NOHS apresenta erros intermitentes.
+ICARE SAC LEGADO apresenta falha na consulta de OS
+CLIENTE SOU MAIS SKY (LEGADO) sem sinal
+CLIENTE NOHS migrou de pós para livre indevidamente
+ICARE NOHS apresenta lentidão e erros intermitentes
+[DEV1] - tela pacotes e produtos
+iCARE NOHS - Apresenta lentidão e erros intermitentes.
+Problema no Ambiente Dev1.
+Valor pago de taxa de adesão foi de 150,00 porém após geração de pedido o valor que consta é de 100,00
+Divergências de informações sobre a forma de pagamento entre icare Nóhs e Icare BKO
+ICARE NOHS criou registro de contato com data maior do que a atual
+[ICare Clientes] - Problema no Ambiente de Dev1
+Recargas tarifadas com a mesma vigencia
+O botão Vendas não habilita pacotes no Icare Nohs.
+Icare Nóhs com lentidão
+Icare Clientes apresentanto lentidão e erros intermitentes
+Ambiente DEV1 Icare Nohs - Apresenta lentidão e falhas
+Icare clientes não permite aquisição de equipamento em comodato.
+ICARE NOHS apresenta falha no registro das razões 757 e 9655 
+Ambiente DEV1 - Tela de pedidos com falha
+ICARE NOHS e GEOREF - Apresentam lentidão e erros intermitentes.
+Alerta Monitoraçao iCare do Legado.
+ICare NOHS Treinamento tela de combos e duetos retorna para tela inicial de login.
+Lentidão no NOHS
+Informações desatualizadas na Aba de Canais do menu lateral do GPT
+ICARE NOHS apresenta popup de falha de registro de contato.
+NOHS apresenta indisponibilidade.
+ICARE NOHS apresenta erro na reversão de valores (Financeiro/Faturas)
+ICARE NOHS - Apresenta lentidão.
+ZABBIX alarmando o serviço: Icare Clientes Back - PRD
+iCARE NOHS - Apresenta lentidão. Após às 09h45, o sistema ficou indisponivel.
+Icare Nóhs intermitente
+Time Out na Verificação de pedido aberto no sistema
+ICARE NOHS apresenta erro ao tentar criar Pedido Pendente de Criação.
+Alterou vencimento , porem não tarifou produtos após a saída régua
+iCARE NOHS - Apresenta lentidão e erros intermitentes.
+Falha para efetuar o Up/Down grade de pacote na tela de COMBO e Duetos
+ICARE NOHS apresenta falha nos pedidos de recarga
+iCARE NOHS - Apresenta lentidão e erros intermitentes.
+Correção extração de provisão postecipado.
+Data de Habilitação (Diferente) da Data de Habilitação do Produto.
+Icare Dev 1 inacessível na tela de pesquisa de clientes
+Falha cancelamento de assinatura Nohs
+[15.0175.TN] - Alteração de status de OS apresenta falha
+NOHS apresenta lentidão na consulta da fatura do cliente e não carrega as informações
+Alteração MOP apresenta falha - Icare Nohs
+ICARE TRN NOHS indisponivel
+ICARE TRN LEGADO indisponivel 
+Erro Sincronismo SYSTRN01.
+Pedido de cancelamento concluido porém Receptor continua ativo
+Icare Clientes - MOP divergente entre tela de método de pagamento e faturas
+ERRO AO ALTERAR FORMA DE PAGAMENTO
+Pop-up para inserção de dados de Venda no C.Credito não aparece para alguns operadores da Alma Viva
+QA1 ambiente com erro
+Clientes saíram da série de cobrança indevidamente sem efetuar pagamento
+Dados discriminados em local incoerente na fatura do cliente
+Problemas em DEV1 - Time Out Siebel.
+Conta corrente cadastrada para diversos CPF indevidamente.
+Falha para utilizar o Icare Clientes (Nohs)
+Erro ao incluir Banda Larga para clientes Construtora
+ICARE NOHS apresenta falha na solicitação de dados do cartão de crédito
+ICARE NOHS apresenta falha na aba faturas
+Hostórico das alterações de endereços do cliente não apresenta os dados corretamente
+Repackage Pré-Pago SD - 2ºsem 2015 - Tela de Faturas no Icare Nóhs DEV1 indisponível
+[15.0175.TN] Assinatura familia desvinculada.(não migra transações da conta filha para a Pai)
+Mensagem de erro ao Logar - 15.0255.MK-Repackage 2015 Nohs - Pré-Pago SD - Fase 1
+Busca e custumer apresentando erro no ICARE CLIENTES
+iCare NOHS - Erro na tela Combos e Duetos.
+Combos e Duetos - não é possivel realizar a migração e/ou inclusão de produtos.
+Erro iCare dev1 
+Icare Nohs / Base GV / não permite consulta OSI - AFC
+ICARE NOHS / Portal Sky Clientes / Georef / BOS / Icare Campo  apresentam erro de autenticação
+CCPSiebel indisponível -  DEV1
+Devolução de valores - não subiu para a devolução.
+[15.0175.TN] Tentativa de inclusão de flag de Projetos Especiais ||ICARE NOHS|| PROJETO Nº150175
+Erro na tela histórico de eventos.
+Erro ao alterar endereço pelo GPT
+Falha no iCare Legado - TRN
+[Homologação] - 15.0121.CO-Criar pedido em OS de IRD entregue no Dealer::N
+Opção de recarga não aparece na ABA financeiro.
+Icare Clientes apresenta erro ao logar
+Erro na Tela Créditos e Acertos.
+Falha na reversão de valores - Tela faturas.
+[SKY NOHS]ICare NOHS QA1- Erro nas telas do projeto CustomerBilling
+[SKY-NOHS] HML - Indisponível
+ICARE ALARMANDO NO FRONT
+ICare NOHS - Lentidão Erros intermitentes
+ICare NOHS - Lentidão e erros intermitentes
+Erro na Tela Créditos e Acertos. 
+Cod. 13 - Liberação de Imagem PPV
+ 15.0121.CO-Criar pedido em OS de IRD entregue no Dealer::N
+Registro de Contato-Sub categoria apresenta numeração ao invés da sub categoria descrita no registro de contato
+Icare Clientes apresenta lentidão para realizar qualquer procedimento.
+Icare treinamento apresenta erro na aba de Pedido e na aba de assistencia tecnica.
+Erro na tela de pedidos
+ICARE NOHS informa que conclui o pedido de alteração de data de vencimento porém não altera a data. 
+Erro de SalesQuote ambiente QA
+15.0255.MK-Repackage 2015 Nohs - Pré-Pago SD - Fase 1:: DEV1  Intermitente
+ICARE NOHS - Lentidão e erros intermitentes na Aba Financeira
+ICARE NOHS apresenta erro para cancelar assinaturas
+Procedimento de GPT para abertura de O.S no ambiente Treinamento apresenta falha.
+Ao seguir GPT e clicar para solicitar reinstalação ocorre erro ao processar informação no Icare Nohs
+CEPs Inativos na base ICARE venda de Banda Larga.
+Inoperancia Icare NOHS.
+Icare Nohs intermitente/inoperante (tela de faturas)
+Icare Nohs - Lentidão e Erros intermitentes
+[WarRoom] OS criada sem atualização.
+(14.0224) - SKY Media Center (Fase 1 - Upgrade e 2 Vendas) :: DEV1 indisponível
+Liberação de PPV - Icare Nohs
+Inclusão COMBATE
+GPT - Lentidão e erros intermitentes.
+Ao buscar clientes no ICARE NOHS o nome fica como Account
+Reativar assinatura do cliente com pacote
+ICare Parceiro DEV1 com erro. Impacto projeto: 15.0121.CO-Criar pedido em OS de IRD entregue no Dealer::N
+brcscs62 - ASAP 
+Erro ao efetuar pagamento com cartão de crédito
+Não visualização da tela Método de Pagamento.
+Falha Registro de Contato
+[BACKOFFICE BL] Analise de devoluções - Operações
+I-CARE NOHS - Tela status de equipamento não disponível para consulta
+Recarga Advanced não disponivel do icare - Projeto 15.0255.MK-Repackage 2015 Nohs - Pré-Pago SD - Fase 1
+ICARE TRN NOHS apresenta indisponibilidade
+ICARE NOHS apresenta falha ao conceder oferta de equipamento em dobro
+CLIENTE NOHS migrado com dados cadastrais divergentes
+[WarRoom] Falha no cancelamento de clientes Banda Larga
+Icare Treinamento: Lentidão ao acessar.
+Icare Nohs - Falha no processamento de venda Banda Larga
+[15.0106.CL] - Projeto em produção  15.0106 Erro de cotação Siebel. Não gerou O.S de retirada de equipamentos.
+ICARE NOHS HML apresenta falha na busca de customers
+ICARE NOHS apresenta falha na busca de cliente (Pontual)
+ICARE TRN NOHS - apresenta lentidão e erros intermitentes
+ICARE NOHS apresenta falha na alteração de MOP
+iCare NOHS indisponível.
+Usuários das operações relatam indisponibilidade do iCare NOHS.
+ICARE apresenta lentidão na troca de telas e busca de clientes.
+Erro no iCare NOHS.
+Lentidão no iCare NOHS.
+Alarme - CA Introscope - Icare Front
+Icare Nohs indisponivel
+Icare Nohs inoperante (Ticket Filho)
+Ticket 18806 Em Atendimento (Updated) --> Verificar indicador Busca Avançada:
+Erro ao seguir o fluxo GPT.
+Cliente habilitado.
+ICARE NOHS apresenta lentidão para realizar busca avançada via Protocolo
+SISTEMAS NOHS apresentam lentidão no processamento do cartão de crédito
+Icare NOHS indisponivel.
+iCare NOHS - Apresenta lentidão e erro na pesquisa de Customers.
+ICARE TRN NOHS - com erro na tela de Combos e Duetos.
+ICARE TRN NOHS - Uso impossível do sistema
+Icare NOHS apresenta erro na pesquisa de customer.
+ICARE NOHS informa código invalido porém encontra assinatura via busca avançada
+Icare Clientes apresenta lentidão nas telas
+Icare Nohs intermitente (incidente filho)
+Tela de Combos e Duetos está em branco para todos os clientes
+Icare Legado - Erros nas telas 
+ICARE NOHS apresenta falha na troca de equipamento (Ajuste de Link)
+ICARE NOHS não segue o fluxo GPT de evio de controle remoto
+ICARE NOHS apresenta falha na criação de pedido de liberação do ponto adicional. 
+ICARE NOHS apresenta erro para visualizar historico de eventos (Pontual)
+Icare Clientes:Item de 'Parcelamento' na aba 'Financeiro' não aparece para alguns clientes.
+iCARE DEV1 - aba temporadas com falha
+Remoção de equipamento do parque pelo login skyurahab
+Icare Legado - Erro ao tentar registrar pendente. 
+Icare Clientes:erro ao alterar o SUB ID pela tela Status de Equipamento.
+Icare Clientes apresenta lentidão para realizar qualquer ação.
+ICARE SAC LEGADO apresenta falha na reativação
+ICARE NOHS apreseta falha no agendamento de OS
+ICARE NOHS apresenta falha na alteração de dados cadastrais (QueryFulfillmentOrderListCCPSiebelProvABCSImplPS) 
+Bom Dia,    Icare Clientes apresentando lentidão.   Segue e...
+ICARE TRN NOHS - não carrega os dados do cliente.
+iCARE NOHS - Apresenta lentidão e erros intermitentes.
+Falha ao abrir pendente_propostas GV.
+Icare Nohs: erro nas telas de Sky Livre.
+ICARE TRN NOHS - Falha ao seguir o fluxo GPT
+Icare NOHS apresenta Lentidão
+Area   Contas a Receber;  Arquitetura   NOHS;  Caracteristica do...(ticket filho)
+15.0132.TN-Homologar o iCare nas versões do IE 9 e 11N   - Erro [Siebel] Socio Premiere iCare DEV1
+ICARE TRN NOHS - Icare Nohs Treinamento -Apresenta falha com vários usuários que utilizam a aplicação ao mesmo tempo
+Erro na validação de dados financeiros na opção de devolução.
+POPUP com opces "Corrgiri endereco" e "Solicitar Reinstalacao" aparecendo indevidamente
+ICARE NOHS apresenta falha no pagamento via Cartão de Crédito
+Icare Clientes sem opção de inclusão para alteração de mop Banco do Brasil
+ICARE TRN NOHS - Inoperância do Icare Treinamento
+Registro de contato divergente
+ICARE PARCEIRO não exibe todos os dados do cliente
+ICARE NOHS apresenta falha no registro de OS (Pontual)
+Icare Nohs não reverte valores apos cancelamento de assinatura.
+ICARE SAC LEGADO não sobre pop up para pagamento no cartão
+Solicitação de vendas paradas como cotação criadas. 
+MANTIS 2045 - AT - FLEX - EQUIPAMENTO COMODATO.
+Projeto 15.0179.CL-Criar novos 4 grupos para a VP Clientes] Validação PRD_REGISTRO DE CONTATO
+Falha na reversão de valores na fatura
+Icare Nohs: Falha no parcelamento de divida por boleto.
+Icare Nohs: Falha na opção de cancelamento do período pago de cliente antecipado
+ICARE TRN NOHS -  indisponivel
+ICARE SAC LEGADO apresenta erro para pagamento no cartão
+ICARE CLIENTES - ERRO NA TELA HISTORICO DE EVENTO.
+ICARE NOHS apresenta lentidão na tela de Produtos e Busca Avançada.
+Icare Nohs: Erro ao alterar MOP para cartão de crédito.
+Lentidão no Icare NOHS
+Erro para efetuar recarga no Icare Clientes 
+ICARE NOHS apresenta falha no registro de contato
+Falha na  Retirada de equipamento>Tela Ordem de Serviço - ICare Clientes
+15.0255.MK-Repackage 2015 S2 - PRÉ-Pago SD - Pré-Pago   Sky Flex
+Falha na alteração do método de pagamento (MOP)
+Icare Nohs não está sincronizando as funcionalidades para o usuário
+Icare Clientes com lentidão e intermitencia 
+ICARE NOHS apresenta falha na alteração de MOP
+ICARE SAC LEGADO apresenta letra Y no CPF
+ICARE NOHS apresenta erro para mostrar o calendário de agendamento
+Cobrança indevida na fatura do cliente
+Cliente SKY Livre em série de cobrança
+Falha no fluxo de reagendamento de OS
+Opção de Reprocessar OS não está funcionando apos implantação de 22/12
+Alerta do Nimsoft: Alarme no servidor srvprdwb166
+Icare Nohs:Falha ao gerar crédito pela tela de Créditos e Acertos.
+Pagamento realizado e parcelamento não entra na mensalidade
+Reconexão palavra do cliente (promessa de pagamento) não é concluída
+Alteração data de vencimento indevida.
+Icare Treinamento NOHS apresenta o erro: "One or more errors occurred", para acessar qualquer tela.
+Erro para reverter valor na fatura do cliente 
+ICARE NOHS TRN apresenta falha na busca de customers
+Icare Clientes - Não aparece opção para registro de contato
+Icare TRN não está funcionando
+Login com acesso e apresenta falha no Icare Nohs.
+ICARE NOHS - Inoperante
+Erro ao registrar o contato de desistência de cancelamento - status B (programado)
+Codigo de barras gerado no Icare clientes está com a data de vencimento errada.
+Erro ao reativar clientes Programados (Status B).
+ICARE NOHS TRN apresenta indisponibilidade de acesso
+FALHA NA FUNCIONALIDADE - CRIAÇÃO DE PENDENTE - DEVOLUÇÃO DE VALORES.
+Icare Clientes finaliza OS de AT e não inclui equipamento novo
+Icare Cliente - Pedido não gerar O.S
+Falhas e lentidões na pesquisa de clientes pelo campo Busca Avançada no Icare Nohs.
+Icare Clientes está com erro na pesquisa de clientes
+[14.0273.TN] Falta de opções para cancelamento imediato.
+Falha ao realizar o regsitro de contato.
+Icare Clientes apresenta lentidão na busca de clientes.
+ [15.0256.CL-Palavra do cliente no Nóhs::N] - Implantação.
+Erro na finalização de vendas de cartão de crédito.
+Icare Clientes - Não aparece opções para registro de contato.
+ICARE GERA COBRANÇA DE PRODUTOS DIVERGENTE DE FATURAS ANTERIORES
+Falha pagamento via cartão crédito.
+Erro ao alterar método de pagamento para cartão de crédito
+Grupo de Acesso sem registro de contato no ICARE NOHS
+ICARE NOHS apresenta indisponibilidade
+Falha na solictação Reativação.
+Icare Clientes - Erro na data do reajuste para clientes 
+Icare Clientes - Alteração de vencimento teve fatura fechada no mesmo mes
+Durante a atualização de um equipamento pela tela do IcareClientes , o sistema não atualiza as informações do RID mantendo o dado do equipamento anterior. 
+Icare NOHS apresenta lentidão para realizar qualquer ação.
+Falha de acesso ao Icare NOHS / Icare Campo / Georef
+Erro ao seguir GPT 
+Icare NOHS esta apresentando lentidão com erro
+ICARE NOHS TRN apresenta falha na busca de customers
+iCARE NOHS e SPW GV - Falha Cartão de Crédito.
+ICARE NOHS e CAMPO com dados divergentes
+Indisponibilidade da ferramenta Icare treinamento
+ICARE ALARMANDO NO FRONT
+Icare Clientes - Erro no processo de transferência de titularidade
+Problema na apresentação do produto no iCare
+Icare Nohs - Lentidão e Erros intermitentes
+ICARE NOHS apresenta falha para realizar acerto de balanço
+Agentes com perfil configurado sem acesso ao ICARE NOHS
+Pedidos com status Cotação Criada 
+Falha na Alteração de Vencimento.
+Icare Clientes - Falha no Up/down grade de equipamento na troca de pacote 
+ICARE NOHS apresenta falha na consulta a tela de pedidos
+Lentidão e erros no iCare Treinamento.
+ICARE NOHS apresenta falha na alteração de Pagamento (MOP)
+ICARE TRN NOHS apresenta erros intermitentes
+15.0297.MK-Ofertas Retenção Premiere - iCare DEV1 inoperante
+Icare Clientes - Registrando pendente em duplicidade na razão 1468 – Devolução de valores.
+Introscope alarmando o serviço: ICARE
+Icare Legado/ IBS apresenta lentidão e erros.
+Comandos não processam no Icare Nohs 
+Icare Treinamento - Falha no login
+Ao cancelar assinatura, aparecem razões em excesso.
+ICARE NOHS apresenta falha na criação de OS
+ICARE NOHS apresenta falha no cancelamento
+Cancelar QUOTE - Tela Combos e Duetos opção agendamentos
+ICARE NOHS TRN indisponivel
+Pendente aberto não aparece na fila do financeiro.
+ICARE NOHS apresenta lentidão e tela branca para realizar recargas
+ICARE NOHS TRN indisponivel
+Icare Cliente - Os de reinstalação novo endereço aparece com endereço antigo.
+Lentidão do ambiente LHML01T
+ ICARE Clientes não trata mensagem de erro SOA-5032
+iCARE LEGADO.
+Icare Clientes - Conta não abre na tela Icare Clientes e nem no Siebel 8
+ICARE TREINAMENTO inoperante
+Icare Clientes - Não tem o canal opcional COMBATE para incluir na assinatura do cliente
+[IcareClientes] Erro ao Logar no Icare Clientes em DEV1
+Indisponibilidade ambiente produtivo - iCare NOHS e outros indisponível.
+ICARE NOHS TRN indisponivel
+ICARE NOHS apresenta lentidão em suas atividades
+Lentidão e erro na tela de fatura.
+Icare Nohs - Treinamento 
+Icare Nohs - com lentidão 
+Autorização para débito em conta não aparece para autorização no banco
+Icare Clientes - Tela de dados com a informação account e não aparece os dados do cliente.
+Icare Clientes - Falha no cancelamento, status cancelado e produtos ativos
+Icare Clientes - Erro em pedido para alteração de pacote 
+[IcareClientes] Erro na Consulta de Clientes HML
+Clientes Banda Larga cancelados anteriormente estão com produto ativo indevidamente e sem pedido de Reativação
+Erro para localizar assinaturas no ambiente LHML01T
+iCARE NOHS- Apresenta erros e lentidão.
+Cliente Banda Larga com parcelamento disponivel.
+Lentidão e erros no ICare Nohs (em todas EPSS)
+Icare Nohs: Pedido sem OSE.
+[WAR ROOM] Erro na tela de Dados Cadastrais (...QueryFulfillmentOrderListCCPSiebelProvABCSImplPS...)" 
+[15.0165 SU] Série de cobrança - Passo 1 recebendo mensagem incorreta na tela
+Entrada em série de cobrança antes do vencimento
+Lentidão nas telas do iCare NOHS.
+Recarga Sky Livre com periodo superior ao pago.
+Demora para gerar OS e Pedido.
+Icare Clientes indisponível - DEV1
+Icare Clientes está com lentidão em todas as abas
+ Icare Legado - Cliente com assinatura cancelada está recebendo cobrança de Assistencia Técnica que permaneceu ativa.
+GPT apresenta erro para seguir fluxo
+Icare Nohs Novo Pre Pago não Parcela.
+Icare Clientes Treinamento - Retornando para a tela inicial para colocar o login e senha
+Falha na localização de cliente no Icare Clientes.
+Erro na tela de combos e Duetos
+Indisponibilidade de ServiceID, BT: 0151465: JOGOS BRASILEIRÃO ESTADUAIS 30.01.16
+NOHS apresenta lentidão e erros intermitentes.
+CÓDIGO 13 - PPV
+ICARE NOHS não apresenta opção para pagamento com Banco do Brasil
+ICARE NOHS não registra down/upgrade
+Falha Transacional Icare NOHS - Usuário ausente no front
+ICARE NOHS apresenta falha no cancelamento de Assinaturas
+iCARE NOHS - Erros intermitentes.
+Ambiente de Homologação ICare CLientes
+Problema: Não é possível comprar o produto Temporadas em LHML01T
+Icare Nohs - Erro ao criar Ordem de Serviço corretiva PAYTV
+Erro ao criar Ordem de Serviço corretiva PAYTV
+Icare CLientes está com lentidão e erro para seguir o GPT
+iCare Clientes indisponível
+Icare Clientes - Problema na tela de faturas / 6 ultimas faturas. "Erro: Entidade não localizada na tabela de cross-reference do PIP."
+iCARE NOHS - Não gera numero de protocolo.
+Erros na tela A La Carte.
+ICARE NOHS - Apresenta erros intermitentes ao pesquisar customers
+Tela de "Produtos especiais" com erro
+Em análise de Faturamento referente a Janeiro observamos di...
+Fatura antiga como “valor vencido"
+ICARE NHOS com lentidão, detalhes no anexo.
+Bloquear o método de envio da fatura “Nenhum” no Icare ...
+ICARE NHOS não realiza registro de protocolo de atendimento
+ICARE NOHS apresenta lentidão e erros intermitentes
+ICARE NOHS apresenta lentidão e erros intermitentes
+Lentidão na troca de telas do iCare NOHS e GPT.
+Icare Clientes - Combos 2016 - Não aparece pop-up para escolher os Campeonatos que o cliente deseja no pacote 
+Problemas na reativação.
+Erro na reversão de valores pela fatura.
+Falha na aba créditos e acertos.
+Falha na alteração de MOP e Negociação via cartão de crédito.
+ICARE NOHS apresenta falha na negociação de Dívidas
+Agendamento de mudança de pacote superior a 30 dias.
+ICARE NOHS apresenta indisponibilidade de busca de clientes
+ICARE NOHS TRN indisponivel
+Icare Clientes apresenta erro na pesquisa de clientes
+Backlog não contabilizado no relatório de venda
+Erro ao gerar número de protocolo na assinatura 1501358677 - Uso exclusivo do Prospect.
+Icare Nohs apresenta lentidão na aba financeira.
+ERRO ICARE TROCA DE PACOTES  2016.
+Erro na tela de combos e Duetos para o cliente 153025664
+ICARE NOHS INOPERANTE
+ICARE NOHS apresenta lentidão para realizar atividades
+Intermitencia do sistema ICare NOHS SAc. (ticket filho)
+Icare Clientes - Erro para consultar ultimas faturas "Mandatory field invalid or not informed: Account POID  "
+ICARE TRN NOHS apresenta erros intermitentes
+ICARE NOHS apresenta indisponibilidade de busca de clientes
+Icare Nohs apresenta indisponibilidade no acesso.
+Icare Nohs: Cliente desconhece parcelamento.
+0152696: COMBATE: UFC Fight Night: Cowboy vs. Cowboy - 21/02/16
+ICARE NOHS apresenta falha no acesso à tela de pedidos de clientes especifícos.
+iCare NOHS - Lentidão e erros intermitentes.
+iCARE NOHS - Apresenta lentidão e erros intermitentes.
+Impossibilidade de correção de endereço -  Assinatura cancelada.
+ICARE TRN NOHS apresenta erros intermitentes
+Falha no MOP - Fatura acumulada.
+Icare Nohs - apresenta erro para pesquisa de clientes.
+Icare Clientes - Cobrança de Purchase Fees (srvc) (srvc): Taxa de instalação PayTV após a reativação.
+REATIVAÇÃO Sou+SKY com cobranças nos produtos ativos
+REATIVAÇÃO Sou+SKY sem TELECINE nos produtos ativos
+[IcareClientes] Erro no serviço CommunicationsInstalledProductEBS - DEV1
+Erro no sistema Dev 1 no acesso do Icare Nohs
+Falha Icare: usuario que concedeu o desconto passa a ser o usuario do upgrade
+Icare NOHS com lentidão e erros intermitentes 
+Processamento de Comandos I-care Nohs X T020
+Campo valor ICare 
+Icare Nohs apresenta intermitencia na Aba Tecnica e Financeiro
+Cobranca para Assinaturas SOU+SKY
+Icare Legado: IBS MAGIC PROBLEMA COM REATIVAÇÃO DE ASSINATURA – AFC
+iCare NOHS e SPW GV apresenta lentidão e erros intermitentes
+Icare Nohs apresenta falha para logar.
+Sistema NOHS está indevidamente criando o pedido de Cancelamento Voluntário.
+Icare cria pedido mas não cria ose.
+ICARE NOHS não reconhece retirada de função do grupo de acessos.
+ICARE NOHS apresenta erros intermitentes na tela de OS e Regitro de contato
+ICARE SAC LEGADO indisponivel
+Base de dados de assinantes dia 17/02 foram reativos sem solicitação
+Icare Clientes - Erro na tela de Dados Cadastrais "erro: BaseCerta.AddressQueryByZipCode ERROR: The content type text"
+ICARE NOHS apresenta intermitencias na tela de faturas
+OS não é liberada.
+Ausencia de programação.
+Mensagem de Auto Censura na globo.
+15.0213 Postecipação de Clientes  em Massa - Ambiente  LHML01T
+Zabbix alarmando - Icare SAC BACK
+Icare Clientes - Erro ao incluir premiere Futebol
+Falha na consulta de produtos no iCare NOHS.
+Não existência de visão da crítica do SDA, não se sabe ...
+Produtos funcionários na prateleira.
+Migrações de pacotes 2015      
+Erro ao visualizar faturas.
+iCARE NOHS - AJUSTE NA RESERSÃO.
+Pedido de cancelamento voluntario sem promotion
+ICare NOHS apresenta lentidão e erros intermitentes.
+Pacotes Corp disponíveis indevidamente para clientes construtoras.
+Icare Nohs: Pré-pago cobranças indevidas e varias recargas ativas.

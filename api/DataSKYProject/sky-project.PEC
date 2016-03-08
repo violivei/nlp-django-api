@@ -1,0 +1,122 @@
+Cliente realizou pagamento, porém permanece em cobrança
+Baixas de pagamentos do PEC apresentando falha.
+PEC: Sistema registrando pagamentos de clientes migrados no IBS
+Icare Nohs - Apresenta erro na aba financeiro > parcelamento
+Cliente sem imagem.
+Pagamento PEC não atualizado.
+Restart do Serviço SocketClient 
+PEC (BAIXAS PAGAMENTOS RECARGAS) sistema apresenta erro ao processar baixas
+Alerta no serviço "PEC_NOHS_ConsultaDivida_RT"
+[Causa Raiz: PEC] Area Contas a Receber;  Arquitetura NOHS/BRM;  Caracteristic...
+Foi identicado que no arquivo CEF_PEC_910858_150207_002354 que contam clientes que pagaram em 06/02 através do MOP PEC
+[ PEC ] Clientes migrados estão com problemas para efetuar pagamento via PEC após liberação, não há valores para serem pagos
+Erro em fatura de costumer_ 132351065
+Quedas no link titular entre o Banco Bradesco e Empresa Sky
+Alerta de monitoração do PEC - Consulta Dívida
+ERRO PAGAMENTO LOTÉRICAS || NOHS
+Alerta de monitoração do PEC – Consulta Dívida – Tempo Médio
+Falha com o linck conexão bradesco
+Concilição dos pagamentos PEC
+Alerta de monitoração do PEC
+Clientes não conseguem efetuar o pagamento com código do cliente nem por PEC com o desconto ocorrendo rejeição.
+Identificado pagamentos baixados no IBS, sendo que o cliente já está migrado.
+Baixas duplicades, dos pagamentos efetuados em 06/03 PEC
+Pagamento em casa lotérica.
+PEC HML
+Assinante informa que não consta valores para serem pagos nas Casas Lotéricas
+[Incidente-IBS] - Recargas pendentes na fila do IBS
+Sem comunicação entre o Banco Bradesco e Empresa Sky
+Icare Clientes Nohs. Fatura com valor zerado.
+Area   Contas a Receber;  Arquitetura   Legado;  Caracteristica ...
+ICARE NOHS não solicita PEC para clientes Juridicos
+Incidente - Pagamento de Recarga X Pedido
+Area Contas a Receber;  Arquitetura NOHS/Legado;  Caracteris...
+Cliente não consegue efetuar pagamento.
+PEC DIRECTV INDISPONIVEL
+Problema para pagar fatura.
+Volume alto da Baixa de Pagamento. 
+BAIXA DE PAGAMENTO PEC apresenta falha para cliente NOHS
+ Icare Clientes - Almaviva - Problemas com pagamentos
+serviço PEC, último email foi entregue às 14:00.
+ERRO||COBRANÇA||MOC
+PEC Directv Indisponível
+ERRO PAGAMENTO LOTÉRICA.
+Icare Clientes Nohs.  Cliente não consegue efetuar o pagamento na lotérica
+Icare CLientes Nohs. não conseguem efetuar o pagar, pois ao consultar o CPF não consta valores
+Falha no pagamento nas casas lotéricas
+CLIENTES NOHS pagam o parcelamento e não foi implantado.
+PEC Indisponivel para pagamento  - AFC (Sky Livre)
+Icare Clientes Nohs.  Cliente não consegue efetuar o pagamento na lotérica - Pagamento PEC : Loterica
+Falha no parcelamento
+[WAR ROOM] Area   Contas a Receber;  Arquitetura   IBS/BRM;  Caracteristica...
+  ICARE NOHS não consta pagamento em sistema casas Lotericas 
+CLIENTE NOHS com atualizações no IBS
+Clientes NOHS PJ não consegue pagar PEC e no Bradesco
+Falha na baixa de pagamento
+PEC Indisponivel para pagamento SPWEB GV
+Lentidão - Baixa de pagamento - Extrator para baixa de pagamento
+CLIENTE NÃO RECONHECE O PARCELAMENTO
+Pec Baixa de Cartão.
+CLIENTES NOHS informam falha no pagamento PEC
+Pagamento em PEC ao pagar na lotérica não consta
+Erro na data Baixa de pagamento.
+Extração de Baixa de Pagamento PEC, Cartão de Crédito e Pague Aqui está Fora.
+Alarme - PEC
+Incidente para Banco de Dados (PEC Visão Geral)
+ NÃO APARECE VALOR NA LOTERICA (PEC)
+Indiponibilidade PEC
+Identificado aumento de pendentes de Pagamento
+Tratamento de Baixa de Pagamento PEC e Cartão e Pague Aqui - 10/08 e 11/08
+PAGAMENTO NO PEC com valor abaixo do que consta no sistema
+Alarme de monitoração do PEC
+Erro no parcelamento - NOHS
+Icare Clientes Nohs. Falha na baixa de pagamento 
+Icare Clientes Nohs. Falha no pagament na loterica, fatura sem valor 
+ICARE NOHS - FATURA - ESTORNO PAGAMENTO PEC
+Monitoração PEC.
+SPW está trazendo corretamente o nome do proponente, porém na loterica o CPF aparece nome de outra pessoa
+ERRO PAGAMENTO EM LOTÉRICA.
+[15.0130.TN-SpeedWeb – Venda sem Oracle (Guardião de Vendas)] - Valor disponivel para pagamento no PEC incorreto 
+PEC
+Monitoração-01-09-2015-08:00] - Abrir Chamado PEC.
+[15.0130.TN] PEC não disponibiliza valores em aberto para pagamento
+Chamado PEC
+Recargas não disponiveis em Casa Lotericas
+Monitoração [03-09-2015] - Abrir Chamado PEC
+CLIENTE PRE PAGO não consegue realizar recarga via PEC
+Monitoração [ 04-09-2015 ] - Abrir Chamado PEC
+INTROSCOPE - Alerta no PEC
+Monitoração identificou Alerta PEC 
+Falha no pagamento da taxa de Adesão via PEC
+PEC.
+Problema pagamento na lotérica.
+Alerta Monitoraçao PEC Consulta Dívida 
+Alarme de monitoração do PEC
+Erro Baixa Pagamento.
+ PEC -  com nome de cliente incorreto SPWEB GV
+Monitoração PEC
+Efetuaram o pagamento na data de 06/10 e já passado o prazo de 48horas ainda não consta a baixa no sistema.
+Alerta Monitoraçao PEC
+Divergência de valores entre Arquivo retorno e Portal Finanças GPAG
+Alerta Monitoraçao PEC
+PEC ALARMANDO EM VERMELHO.
+Taxa de efetividade PEC - Transações negadas.
+Recarga PEC sem Processamento no LOG do Tracker nos últimos dias
+Efetividade do PEC abaixo da média no dia 18/11
+NÃO CONSTA VALOR EM ABERTO NA LOTÉRICA (PEC).
+Falha no pagamento de negciação via PEC com Desconto
+Efetividade PEC está à 77%
+Extração de Cartão de Crédito executando sem gerar arquivos
+Clientes efeturam o pagamento porém não houve Baixa
+Efetividade PEC 16/12.
+Efetividade PEC - 15/12/15 96,0%
+Erro JOB MONIT_PEC_PAGUEFACIL
+Efetividade do PEC 11/01 às 9 horas em 8%
+Sistema Sky indisponivel na loterica
+NÃO CONSTA VALOR EM ABERTO NA LOTÉRICA (PEC).
+Lotérica não localiza assinatura
+PAGAMENTO VIA PEC não encontra pendencias
+Baixa PEC na conta suspensa
+SISTEMA LOTÉRICA INDISPONIVEL
+Processamento PEC
+Alerta de monitoração do PEC

@@ -1,0 +1,1134 @@
+O serviço Soa Suíte está alarmando.
+SKY NOHS: Abertura de incidente - Problema no envio do comando Bloqueia OSD_SLIDE via ICare
+Erro na troca de equipamento ZAPPER
+O Business Service do OSB aponta para um composite que não está implantado em produção
+[WARRROM] - Clientes com divergencia de produtos, muitos estão no BRM e não estão no Siebel ou vice versa
+Divergência de Parque entre Siebel e BRM
+Conta onde o produto HBO não foi habilitado no sistema BRM
+Pagamentos baixados com Payment Date incorreto.
+ERRO NO FATURAMENTO
+Cancelamentos não realizados  CORREÇÃO
+Erro ProcessSoftwareFulfillmentOrderBPEL  - MAESTRO - PRD
+Foi identificado que as contas com produto básico estão com datas de vigência inválida no parque Siebel. 
+Area   Contas a Receber;  Arquitetura   Nohs  Caracteristica do ...
+Identificamos um cliente que possui o serviço de AT Corretiva tarifando diversas vezes dentro do período de garantia.
+Pedidos ficando em andamento locked devido problema no Resequencer.”
+DATA BANCO DA FATURA BANCO IGUAL A DATA DE VENCIMENTO
+Erro de invoke durante tramitação de pedidos no SOA
+Falha no histórico de eventos no iCare Nóhs
+Clientes SKY Livre em série de cobrança.
+SKY NOHS - Maestro Retorno de criação de OS está apresentando erros no tratamento de erros
+Erro Maestro impacta geração de OSE
+Fala no GPT ao tentar gerar OS - reincidencia 602213 
+ [NÓHS] Código 6 - Equipamento desabilitado do parque Dow grade/Up Grade sem Troca de Tecnologia/ apresenta OS de retirada impossivel retirada e Status Finalizada.
+Erro no banco de dados _ SOA
+Erro nos registros de DExPARA de parque na tabela XREF_DATA.
+Erro ao solicitar Suspensão temporaria - NOHS
+Assinante com direito a Globo, porém sistema não liberou
+[WARROOM] - Falha na reativação de assinatura - ICARE NOHS
+OSs sem o numero de contato do cliente.
+Cancelamento de assinatura no BRM
+Produto habilitado apenas no BRM.
+Falha na reativação de conta no iCare Nohs.
+Produto não foi habilitado no BRM, habilitado apenas no iCare
+Após cancelamento do pedido, os itens concluídos são alterados para cancelados no NOHS
+Data de expiração PPV.
+[PA] SKY NOHS: Abertura de incidente no CA - Erro Na execução do Proxy WorkflowCommunicationsWorkOrderEBSV1
+Erro de Recorrente no CommunicationsInvoice (Connection is already closed)
+Foi identificado alarme do [Introscope] Alerta SOA Integration
+Produtos Sem Vigência
+SKY BANDA LARGA NÓHS - FALHA NA TRAMITAÇÃO DA HABILITAÇÃO VIA URA
+icare nohs apresentando falha para envio de comandos.
+Erro Validação serviço CancelFulfillmentOrderSynchronously.
+Erro request QueryAssessmentInstalledProductList.
+Icare nohs apresentando Erro na tramitação de Pedido sem GEOCODE.
+Erros de STREAM_IO na comunicação entre SOA e BRM via JCA SR3-10318943691 
+OSE de retirada não está sendo criada. (SR 3-9469230711)
+Icare Nohs - Alteração de vencimento.
+[NÓHS Reincidência] Código 4 ou Código 6 devido divergencia de SubID no Siebel e EMMG
+Pedido XML não localizado.
+Item de Pedido não localizado.
+Serial equipamento não informado.
+Tela de  XREF com erro.
+OSB: indisponibilidade nos momentos de pico
+[A 15/12] - [NÓHS]Código 4 - PFC todos os campeonatos HD sem serviços para liberação das imagens no T020
+Geração de log de erros incompleta
+iCARE NOHS - Faturas com erro de processamento.
+NOHS - Os pedidos não estão sendo gerados com erro no SOA (anexo), não tem um número de pedido, por isso estamos passando os Instance IDs
+SIEBEL NOHS Pedidos de A La Carte é aberto, mas permanece com o Status em "Em Andamento"
+OSB - Consultas de históricos de contato estão retornando timeout por não enviarem filtro para as consultas.
+iCare NOHS: Erro ao cancelar clientes
+Pedidos "A  La Carte" permanecendo com Status 'Em Andamento Locked'
+iCare NOHS: OS gerada em duplicidade
+URA SAC NOHS: Não está encaminhando o sinal de atualização para o cliente com o código 3 ou 4
+[WARRROM] - OS gerada posterior ao Pedido (D1) NOHS 
+Clientes com Status de Pedido Divergente da O.S. 
+Suspensão Não Efetivada/Reconexão de Supensão Não Efetivada 
+Clientes programados para cancelar X Status do produto Ativo 
+Siebel apresentando falha  Foi identificado que foi criado PEDIDOS DE A  LA CARTE COM STATUS EM ABERTO
+Area   Contas a Receber;  Arquitetura   NOHS;  Caracteristica do...
+Erro de migração
+CommunicationsSalesQuote - Erro ao realizar transação no cartão de credito.
+Icare Nohs. CLIENTE PRÉ-PAGO RECEBE OFERTA DOBRO DE PONTO OPCIONAL, A OS É CRIADA O PEDIDO CONSTA EM ANDAMENTO LOCKED OU COM PEDIDO CONCLUÍDO DISPONÍVEL APENAS OS CANAIS ABERTOS
+Banco SOA_ARCH - CSTPRD - Problemas na tradução de Erro no SafeKey
+Usuario reporta que ao realizar um processo com cartão de credito icare nohs apresentou falha.
+CommunicationsFulfillmentOrder - Ao incluir o desconto sistema icare nohs  apresentou mensagen de erro.
+ Erro na criação de pedido no Oracle service BUS.
+Baixa de pagamento Boleto no Icare NOHS
+Icare Clientes Nohs - Impossibilitade de cancelamento de assinatura
+Icare Cliente Nohs - Erro na geração de OS
+Demorando mais de 24 horas para liberar pedido.
+Cliente Sky Livre com status de assinatura cancelado
+iCare NOHS: Pedido não tramita após gerar OS
+UpsertSalesQuote - Falha  no cancelamento de assinatura
+Abertura de Incidente |Recarga duplicada I.
+Represadas.
+ICare Clientes apresenta delay de mais de um dia para conclusão de pedidos
+Erro de conexão de runtime de infraestrtura SOA.
+EQUIPAMENTO DESABILITADO NA MIGRAÇÃO
+Cliente com Meteodo de pagamento Boleto recebendo desconto de Mop
+não gerou a ordem de serviço
+Oem SOA - Pedidos com erro e status Andamento Locked
+Duplicação de registros na XREF de parque impactando fluxo de pedidos
+OSB Batch - Alto numero de erros na criação de contatos no ambiente.
+A coleta de métricas no Service Health do OSB no ambiente de produção não está funcionando. Na Abertura da aba recebemos o erro abaixo;
+Icare Clientes Nohs. Erro na fatura para fazer reversão
+Icare Legado - Codigo do cliente Divergente com de outro cliente
+Erro na alteração Cadastral.
+Nohs SOA Consulta de dívidas está com atraso para ser realizados, impactando o PEC.
+CommunicationsSalesQuote - apresenta erro para 
+Alteração de MOP - NOHS 
+ICARE NOHS - Diveregencia Status de produto principal X Status da assinatura. 
+Pedido de reativação não efetivado - Identificação da causa raiz do problema
+Pedido de Cancelamento Cancelado/ Reativação não Executada. 
+iCARE NOHS - O.S.
+Icare Clientes Nohs.Siebel. Pedido cancelamento la carte não executado.
+Pedidos com o status "Em andamento locked".   
+Status divergentes. 
+Recarga em Andamento Locked.
+Soa Nohs. Erro na tramitação de pedidos
+UpsertSaleQuote - não esta realizando movimentações e inclusões de opcionais
+O serviço CustomerInteraction PRD apresentando erros.
+[PB]URA HAB: Erro de habilitação de Banda Larga
+OSB: Erro no serviço UpsertSalesQuote (SetAttribute) - PRD
+iCare NOHS: Ao cancelar pedido para alteração de endereço não tramita para o icare parceiro
+Icare Clientes Nohs. Cliente Pré pago efetua recarga mas pedido não é gerado.
+Alerta Monitoraçao SOA –ThreadPoolRuntime – Hogging Threads ; 
+Cliente com o produto EM CANCELAMENTO, cujo, a data fim de v...
+Cliente com status do produto Em Agendamento sem pedido, fav...
+Cliente com pedido de suspensão vigente, mas o seu produto ...
+Icare Clientes. Erro ao cancelar assinatura.
+iCare NOHS: Erro ao Processar Serviço UpsertSalesQuote 
+Icare Clientes Nohs. Sistema reativa assinatura porém não ativa os produtos.
+iCare NOHS: Apresentando erro ao processar serviço UpgradeModifyAssetSaleQuote
+OSB -Alerta Error_CommunicationsLocationEBSV1PS sistema 100% crítico
+Pedido de cancelamento cancelado e um de reativação locked
+Pedido de Cancelamento cancelado - Cliente migrado sem fatura desde agosto 2014.
+OS criada indevidamente.
+MIPWrapper Roteando para Proxy Inexistente.
+Pedido de up/down retirando equipamento e não vinculando o novo
+Abrir incidente Mensitef PRD
+Campo SKY_FLD_PLAN_CREDIT_T está recebendo a data com um mês pra frente
+Erro ao criar pedido no Siebel.
+Pedidos não estão tramitando no sistema
+Pedido de cancelamento cancelado, mas cancela produtos
+[UpdatePaymentMethodFulfillmentOrder] - Evidencias BPEL Batch
+Ticket de suporte à Infraestrutura - Oracle Service Bus Console não carrega tela de login
+iCare NOHS: Cliente efetuou recaga que gerou valor divergente.
+Erro ao realizar Up/Downgrade sem troca de equipamentos
+NOHS: Recarga com o Status Pendente.
+iCare NOHS: Cliente sendo cobrado por produto que já faz parte do combo contratado.
+iCare NOHS: Cliente Ativo com o pacote principal e equipamento em cancelamento.
+iCare NOHS: Após reativação não carrega equipamentos e produtos no parque
+iCare NOHS: Erro ao realizar devolutiva de equipamentos
+ICARE NOHS APRESENTANDO ERRO PARA ALTERAÇÃO DE ENDEREÇO PARA O CLIENTE EM ANEXO.
+Erro de Migração de Pacote ou Inclusão de Opcional no iCare NOHS 
+Faturamento de pacote antigo após up/downgrade
+iCare NOHS não reativa assinatura 
+CustomFaultHandler.jar não está configurada no servidor brcscs207
+Status da O.S concluído e status cancelado.
+SISTEMA NÃO GEROU O.S APÓS ALTERAÇÃO DE ENDEREÇO               
+Erro na tela de Cadastro
+Cliente sendo cobrado por pacote antigo (Desativado)
+O OEM fez abertura porém o SOA está fora
+SOA MAESTRO apresentando mensagens represadas.
+iCare NOHS: Realizado recarga porém sistema não efetivou
+iCare NOHS: Pedido de recarga no status Locked
+iCare NOHS: Falha ao realizar pedido (OS de retirada)
+Icare nohs apresentando falha após cancelamento cliente permaneceu recebendo cobranças indevidas.
+iCare NOHS: Sistema não realiza OS de alteração de endereço.
+ALertas Oracle Services BUS (o5_brc208_01 e o5_brc208_02)
+ICARE NOHS apresentando falha para o cancelamento do cliente em anexo.
+sistema não gera número de OS
+Produtos que não foram habilitados no Icare
+CommunicationsSalesQuote - Erro ao cancelar assinatura.
+CommunicationsFulfillmentOrder. Erro ao efetuar recarga com cartão de credito.
+CommunicationsFulfillmentOrder
+Serviço SOA fora do Ar em ambiente de Produção.
+Icare nohs apresentando falha para habilitação de equipamento.
+Icare Clientes Nohs. Erro ao processo de troca de pacote.
+CommunicationsFulfillmentOrderEBSV1PS - Erro de serviço na alteração de endereço
+Icare Clientes Nohs. Erro na alteração pacotes e produtos
+Icare Clientes Nohs. Falha na troca de pacotes.
+SOA  -Erro Tramitador de Pagamento
+Instancias do SOA
+CommunicationsSalesQuote - Ao realizar o cancelamento da  pacote De clientes sky livro turbo ´para ,migrar para outro pacote sistema paresentou falha.
+iCARE NOHS - Não processa venda no cartão de credito SOS.
+SIEBEL NOHS apresentando falha, os pedidos não estão tramitando no Siebel.
+SOA -Erro Tramitador de Pagamento 
+Erro ao efetuar troca de endereço
+iCARE NOHS - Erro ao cancelar a assinatura.
+UpsertSalesQuote: Erro ao realizar cancelamento de serviço.
+Cliente sem combo no Parque não gerando faturas
+Equipamentos retirados de Os finalizada constam cadastrados no nOhs.
+iCARE NOHS - Código 6 - Equipamento opcional promocional não habilitado.
+Abertura de incidente no CA - Erro ao Abrir o Message Report do OSB
+SIEBEL
+Pacote Principal cadastrado em duplicidade no parque do assinante bloqueia atendimento pelo GPT.
+MIP- Erros no tratamento do maestro dificulta analise de tramitação, pedidos parados
+CommunicationsFulfillmentOrderEBS demorando para responder - INCIDENTE 0 - URA 4004 2112 NOHS efetua habilitação e ao final da ligação pede pra retornar.
+MIP Pedidos promessa de pagamento no GMAP pedido em status andamento parado.
+Icare Nohs não processa venda no cartão de credito SOA
+Icare Nohs apresentando erro ao seguir procedimento para alteração de endereço 
+UpsertSaleQuote - Erro na alteração de pacote e alteração de endereço
+SOA - erro ao criar Pedido (Failure of server APACHE bridge)
+UpsertSaleQuote - Erro ao liberar PPV
+Icare Nóhs atraso para gerar ordem de serviço
+Após solicitar cancelamento, produtos não cancelam no BRM. 
+Cliente permanece com o status Em Cancelamento, mesmo com o ...
+Cliente com o pedido de cancelamento com o status de CANCELA...
+Erro no serviço 'FINS Data Transfer Utilities'
+Baixa no estoque não acontece após habilitação.
+Alerta monitoraçao OSB
+UpsertSaleQuote - erro para cancelamento
+MAESTRO erro no composite ProcessSoftwareFulfillmentOrderEBFMIP  
+sistema não gera número de OS
+UpsertSaleQuote - Erro ao cancelar assinatura 
+URA 3003 3110 não habilita equipamento S14 LIV001.
+Icare Clientes Nohs. Cliente efetuou recarga e não consta.
+Erro de conexão de runtime infraestrutura SOA               
+UP/Down.
+SoapUI: Erro na criação de pedido.
+Pedidos em aberto PRD
+Durante um processo no SOA foi identificado o erro no serviço CommunicationsFulfillmentOrderEBSV1PS
+iCARE NOH - Mensagem de erro ao tentar efetuar liberação de PPV cine Sky HD pelo Icare NÓHS e URA.
+Indisponibilidade OEM.
+Abertura de incidente no CA - Problema na Tramitação de Pedidos.
+ICARE NOHS apresenta erro ao incluir telecine HD
+ICARE NOHS com erro no cancelamento de ofertas.
+ICARE NOHS apresenta falha ao habilitar assinatura de clientes (Equipamento/Produtos/Assinatura)
+BBB NÃO LIBERADO - Pedidos ficam com status "em andamento locked"
+ICARE NOHS apresenta falha no cancelamento da assinatura
+BBB NÃO LIBERADO - Pedidos ficam com status "em andamento locked" 
+Icare Clientes Nohs. Erro ao efetuar cancelamento.
+  Icare Nóhs atraso para gerar ordem de serviço
+Foi identificado falha no Cancelamento Programado. 
+Icare Clientes Nohs.Falha no registro de  Pedido. 
+Sinal deveria ter retornardo, porém não retornou. Foi cancelado.
+Pedido de cancelamento programado porém não houve ação do sistema.
+BBB NÃO LIBERADO - Pedidos ficam com status "em andamento locked" 
+Pedidos no status "locked"
+REATIVAÇÃO CANCELAMENTO DA ASSINATURA
+erro de runtime no sistema SOA 
+foi identificado que este cliente saiu do Passo 6. Solicitou a reativação em 15/11/2014. Foi reativada a assinatura no BRM e produto habilitado. No Icare, a assinatura está cancelada
+MAESTRO - Problema na Tramitação de Pedidos 
+UP/ geração nao geração de OS (Nova tela)
+UP/ Pedido esta com itens em andamento loked
+Problema no OEM -  Não aparece a lista de servidores
+Ambiente NOHS apresenta indisponibilidade Total
+Criação de Pedidos não está tratando erros funcionais do Siebel
+SOA não esta permitindo geração de cotação e pedido
+ICARE NÓHS ERRO INESPERADO CARTÃO
+MAESTRO apresenta composite que impacta na tramitação de pedidos.
+Atualização de Item de pedido retornando erro devido a Xref ausente
+Icare Clientes. Pedidos com a data informada sem resolução.
+Problema no OEM -  Não aparece a lista de servidores.
+SOA - Tramitação de Pedidos em Produção.
+Icare Clientes Nohs Clientes que comprou ou ganhou degustação do canal Combate e não esta liberado para luta de amanha.
+Pedido de Recarga não concluído acima de 48hr, status PENDING
+PPV COMBATE apresentando erro na liberação de sinal.
+Erro de recarga do livre
+Erro no composite gerando erro na tramitação de pedidos. 
+ERRO AO CANCELAR A ASSINATURA 
+O.S de Retirada Finalizada e Equipamentos Ativos
+Falha na tramitação do pedido - Ponto Opcional Gratuito
+Indisponibilidade do SOA
+Icare Clientes Nohs. Erro no cancelamento. 
+URA SAC NOHS não identifica o cliente no atendimento
+ (Time out RV/Getnet ).
+Infraestrutura - Oracle Enterprise Manager não carrega SOA-INFRA
+URA SAC - consulta telefone QueryCustomerPartySummaryListEBM nao retorna resultado
+OSB - Service Bus
+[Mensitef] - Preparação
+MAESTRO - Problema no SOA Integration 
+SOA. Erro ao rodar o processo bat não executando, erro ao logar no servidor   brcscs170 
+ICARE NOHS APRESENTANDO ERROS PARA LIBERAÇÃO DE OPCIONAL BBB.
+Delay no processamento de pedidos (andamento locked)
+Erro PRD mensitef - queryChargeOptions
+SOAP UI
+Fatura_Sem previsão. 
+SOA, o serviço de baixa de pagamento não esta baixando os pagamentos cerca de 20% dos casos.
+iCARE NOHS - DOWGRADE SOLICITADO - NÃO CONCLUIDO.
+iCARE NOHS - Pedido de recarga em andamento Locked há mais de 48 horas.
+Sistema não da baixa na tela de faturas como pago.
+ICARE NOHS apresenta erro para cancelamento de assinatura
+iCARE NOHS - ERRO AO CANCELAR A ASSINATURA.
+Sistema não acatou o procedimento de cancelamento da assinatura.
+SOA
+XML Conta Serial
+Foi identificado que na requisição de consulta de parque está inválida, elemento path não é valido.
+PROBLEMA NO FLUXO DE CHAMADA DO SERVIÇO
+Visibilidade dos traces no EM.
+Habilitado 2 PPV para o mesmo Canal (PPV Esporte e Premiére Combrate).
+SOA pedidos de com falt referente a Xref  Foi identificado que o varios produtos não estavam cadastrados na XREf.
+Icare Clientes Nohs. Cliente em passo 2 com sinal indisponível
+ Alerta Monitoraçao   SOA  - Batch
+monitoraçao OSB-Batch
+Tentativa de pesquisa no sistema OEM - Não está apresentando as instâncias.
+Atualização de parque sem ID
+Tentativa de pesquisa no sistema OEM
+Troca de pacote
+Falha na atualização de MOP
+Falha ICARE não acessa aba de equipamentos - AlmaViva GC 17.02.2015 - ERRO
+Incidente OEM.
+Icare Clientes Nohs. Falha ao incluir canal DW alemão para cliente.
+iCARE NOHS - Pedido não Gerado.
+Query consumindo 91% de cpu do banco MSTPRD.
+Clientes com produto básico “cancelado” e com o status ...
+Icare Clientes Nohs. Cliente com sinal disponível mesmo não pagando.
+Erro na criação de cotação de recarga durante o processo de baixa de pagamento .
+Icare Clientes Nohs. Cliente com desconto, mas valor esta descontado esta incorreto.
+Icare Clientes –Metodo de pagamento solicitado alteração, porém no sistema não gerou 
+Abertura de incidente no CA - Recarga com erro na criação de cotação
+Conexão Pague Aqui RV e GetNet fora do ar
+O serviço do OSB / CreateCustomerInteractionSynchronously esta demorando muito a retornar, gerando timeout no sistema do Mensitef.
+Erro ao cancelar assinatura.
+Icare CLientes Nohs. Falha ao tentar alterar endereço 
+ERRO AO CANCELAR A ASSINATURA 
+o erro no OSB de produção 
+ Service Configuration Influx no OSB
+erro Erro Invalid Path error no OSB
+Clientes com pagamento atrasado recebendo código 4
+Icare Clientes Nohs. BRM Falha na alteração de MOP
+Icare Clientes Nohs. Falha no cancelamento.
+RESEQUENCER QUERY SOA INFRA 26-02-2015 18hs 
+Cobrança após migração para PRÉ PAGO
+iCARE NOH - Desconto percentual não aplicado.
+ BRM não consta com status ativo o  pacote principal  New Sky Light S
+Icare nohs Inoperante não gera pedido
+ Cobrança após migração para PRÉ PAGO
+OSB - Proxy Error. 
+SOA - Erros Oracle.
+SOA
+Icare Nohs apresenta falha para consultas de faturas
+Erro cancelamento Icare Nohs
+Alerta Monitoraçao SOA-LOG-errors orcale.
+Alerta Monitoraçao - Batch OSB - Open Sockets
+Infra OSB - VM Status - o6_brc264_01
+Alerta de monitoração do OSB - Pending User Requests
+GPT NOHS apresenta falha.
+Alerta de monitoração do SOA - Erros Oracle.
+Alerta de monitoração do OSB – VM Status, o6_brc264_01.
+[Nohs- COD 4-SUB ID Incorreto no Siebel)Comando Newsubscriber não atualizou SUB ID Icare Clientes para liberação do sinal.
+Order de cancelameto gerada pelo Icare Clientes não cria uma OSE de retirada de equipamentos,
+Cobrança em duplicidade.
+[WARROOM] Alteração de MOP.
+Serviços devolvidos com Pedido ja concluido.
+FALHA NO CANCELAMENTO DO PRODUTO - PACOTE OPCIONAL 
+SOA.
+Alerta de monitoração do OSB - Socket Timeout – Too Many Open Files.
+Alerta de monitoração do SOA
+Erro Hierarquia Equipamento SIM23
+Alerta de monitoração do SOA 
+Alerta no serviço OSB
+SOA HML apresenta indisponibilidade conforme anexo
+ Desconto Percentual que possui a Promessa de Pagamento Duplicado
+SOA. Pedidos com status parado.
+erro  QueryInventoryTransactionListGTIProvABCSImplPS.               
+SOA - erro na criação de pedidos.
+Erro no cancelamento.
+SOA - Erro ao gerar pedidos.
+ERRO REGISTRO DE CONTATO - Razão - Problema com registro de Up/Downgrade de sinal
+Serviço SoapUI - REQUEST CONTA E SERIAL / Erro ao realizar consulta do cartão ou equipamento do cliente               
+Alerta de monitoração do SOA
+SOA indisponível
+ICARE NOHS com pedido no status “andamento em locked”
+ICARE NOHS com pedido no status “andamento em locked” 
+Falha iCare  - AlmaViva GC 10.03.2015_Valor Indevido na Aquisição de Equipamento
+Alerta de monitoração do SOA
+Icare Sac Nóhs Erro para gerar ordem de serviço Banda Larga - EPS SERCOM
+Solicitação de execução de query
+Alerta de monitoração do SOA
+Maestro fora.
+Limpreza de cache - HML
+Ordem de serviço aparece gerada no pedido porem na aba ordem de serviço não consta os e pedido com status aguardando ose
+Falha na Migração LIVRE para PÓS PAGO
+rro Inesperado ao realizar transação no cartão de crédito
+A la carte ativo no BRM após pedido de cancelamento
+Alerta Monitoraçao SOA- Log Reader Scripts 
+Alerta Monitoraçao OSB-Proxy 
+ERRO NA TELA SUSPENSÃO TEMPORARIA
+Desconto que consta em ofertas mas não entrou na fatura - Analise
+Migração de assinatura de Pós para Sky Livre pelo método de cancelamento da assinatura. Ou seja, ao cancelar uma assinatura que já foi Sky LIVRE via Icare Clientes o mesmo deveria criar uma Order migrando a assinatura de Pós para Sky Livre.
+Alerta Monitoraçao OSB
+ICARE NOHS apresenta erro para Liberação de PFC
+Icare Nohs - Abertura de Incidente | Recarga em andamento locked. 
+Recarga consta em não faturado e não ativa o sinal - ICARE NÓHS
+ERRO NA INCLUSÃO DA SUSPENSÃO TEMPORARIA
+ICARE NOHS - PEDIDO COM SUBTITULO ERRADO
+Cancelamento não executado
+OHS não cria ordem de retirada para pedidos de cancelamento em passo 6
+Pacotes distintos ativos em conjunto
+RM10548 - Informações para investigação em HML
+DUPLICIDADE DO DESCONTO DE MOP_147242502
+ERRO ICARE NOHS RECARGA FIT DOBRO.
+SKY NOHS: Abertura de ocorrência
+Pedidos cancelados
+ABERTURA DE INCIDENTE - ERROS DE TRAMITAÇÃO EM PEDIDOS QUE UTILIZAM SERVIÇOS DO BRM
+Cliente sem faturamento.
+Cobrança indevida de opcional cancelado.
+Ao realizar troca de equipamento o mesmo não consta como habilitado.
+Criar tramitação para cliente no SIEBEl
+Alarme de monitoração do SOA
+SOA apresenta o erro: "Um erro inesperado ocorreu em CommunicationsFulfillmentOrderEBSV1PS."
+SOA / MAESTRO Serviço queryConfigurationList não esta respondendo.
+Indisponibilidade SOA
+Icare Nohs apresenta erro na tela de pedidos
+Suspensão temporária
+ICARE NOHS apresentando erro para reinstalação novo endereço - Tela "PEDIDOS" sem conteúdo
+Serviço que força a tramitação de Order de cancelamento voluntário.
+Alarme de monitoração do SOA.
+Alarme de monitoração do OSB.
+Tramitação de pedido 
+Log alarmando em vermelho. SOA
+Desconto HBO tarifando várias vezes
+Tratamento backlog.
+Desconto R$ 90 tarifando várias vezes
+Alarme no Serviço SOA (MIP / LOG)
+erro no componente CreateWorkOrder
+Icare Clientes -  Sky Livre gerando cobranças após a migração
+Cliente efetuou mais de uma recarga e esta gerando as tarifações com períodos iguais e estão com mesmo período de vigência
+Erros de Out Of Memory novo maestro
+[NÓHS]SubID não assume valor na habilitação de ponto opcional ou troca de equipamento pois cartão está atrelado a mais de 1 assinatura
+Icare Clientes Nohs. Sistema não gerou fatura após constar pagamento e recarga – SKY Livre
+SOA. Pedido de Entrada passo - 6 ficam com status de 'Erro na geração de OSE'
+Ambiente de HML WebApi
+Erro na tela de cadastro - iCare NOHS.
+ ERRO NA TELA DE PEDIDOS
+Alarme de monitoração do OSB
+Clientes com pedidos "Em Andamento Locked"
+ICARE NOHS apresenta falha nas recargas do cliente
+Icare Clientes Nohs. Falha ao cancelar assinatura
+Área: Faturamento;  Arquitetura: NOHS;  Caracteristica do I...
+LIVRE TURBO PRORROGANDO NA ATUALIZAÇÃO DE ENDEREÇO
+Desconto via iSelling nao foi gerado, anexo evidencia
+Erros e solução no OSB
+Clientes Nóhs com Status Provisório
+Alerta Monitoraçao do OSB
+LOG do SOA
+SOA(brcscs268) está recebendo muitos erros durante todo o dia
+Problemas de transação no BRM
+Icare Clientes NOHS.  Erro para habilitar equipamento.
+problema na inclusão de suspensão temporária - 03.04.2015
+Erro MOP  Icare Clientes 
+Erro na baixa de pagamento no cartão.
+Incidente Ambiente de Homologação
+SOA
+SOA
+ABERTURA DE INCIDENTE - ERRO AO CRIAR PEDIDO DE INSERÇÃO DE RECARGA (BAIXA DE PAGAMENTO)
+Falha na criação de ordens de retirada.
+Icare Clientes suspensos sem pedido de reconexão agendado
+Icare Clientes NOhs. OS Duplicada.
+Icare CLientes. Falha na geração de fatura.
+ABERTURA DE INCIDENTE PARA O SOA
+Alteração de Timeouts no OSB
+Icare CLientes Nohs. Reconexão de Suspensão Temporária 
+SOA
+Diversos cenários de clientes com produtos lançados em duplicidade (ou mais).
+Correção envio de email OSB
+Icare Clientes Nohs. pacote ativo no icare sac Nóhs e BRM consta o pacote inactive
+Erro Icare: 
+APM Viewer alamando serviço do SOA 
+ICARE NOHS gerando ordens de serviço duplicadas
+Business Service BIPublicReportServiceBS com 100% de falha
+Erro na inclusão de Ponto opcional - Icare Nohs
+SOA
+Erro intermitente no Combos e Duetos - Icare Nohs
+SOA
+[NÓHS] Código 6 - UpGrade - Equipamento desabilitado do parque antes da visita do técnico e finalização da OS de substituição.
+Acesso reports OSB
+Nóhs > Troca de Equipamento sem atualização do SUB ID nulo (0).
+Transferência de titularidade
+Icare Clientes ERRO PARCELAMENTO- GERA PAGAMENTO COMPLEMENTAR INDEVIDO
+Recarga em não Faturado
+Reativação da suspensão temporária - Icare Nohs
+Pedido de alteração cadastral com desconto
+Erro para reativar - Icare Nohs (intermitente)
+Siebel. OS andamento locked".
+Alarme de monitoração do OSB
+OS SERVIÇOS SOA
+Origem do Problema Siebel
+ Alarme de monitoração do OSB
+Envio de faturas
+Serviços do SOA não funcionam
+SOA apresentando erro.
+ERRO NA TELA FINANCEIRO/RELACIONAMENTO
+Cliente em Suspensão Temporária e Produtos Permanecem Ativos no BRM.
+Teste, favor desconsiderar
+BPM FAZ ALTERAÇÃO COM SUCESSO MAIS NÃO APARECE NEM UMA INFORMAÇÃO NO ICARE LEGADO
+{Nóhs} Código 4 - Up Grade - Problema na tramitação do Pedido
+Icare Clientes Nohs. Falha no cancelamento 
+ICARE Clientes NOhs. Cliente sem fatura
+Falha na alteração de MOP
+{Nhós} Código 4 >COMBO B SKY HDTV FULL TOP 13 + FUTEBOL 3 Campeonatos – P  > Sem informação dos Campeonatos no Icare Cliente. 
+dados cadastrais.
+Identificado Pedidos em andamento Locked no ICARE NOHS
+Icare Clientes NOhs. Falha na tela de pedidos. 
+Pagamento  com cartão de credito sem baixa de pagamento
+Maestro HML Indisponivel
+SOA/MIP alarmando em produção
+Existem parques sem a data de vigência nas cargas do BI
+ICARE NOHS apresenta erro intermitente na aba de negociação.
+Icare nohs Inoperante- ERRO SOA
+Icare Clientes Nohs. Erro ao Cancelar 
+Siebel NOHS PRD
+iCARE NOHS - ERRO PARCELAMENTO- GERA PAGAMENTO COMPLEMENTAR INDEVIDO
+Icare Clientes Nohs. Falha na recarga, cliente sem sinal
+Icare CLientes Nohs.  Pacote principal sem valor 
+SISTEMA GEROU VALOR MAIOR DA REVERSÃO REALIZADA 
+Cliente ativo sem faturamento.
+SOA
+Sistema não gerou fatura após constar pagamento de recarga – SKY Livre.
+Cliente com duplicidade em produto ativo (parque).
+Cancelamento indevido 
+Unique constraint (MIP.ORDER_PIP_XML_CLOB_PK) violated 
+Erro ao realizar venda no cartão de crédito.
+EF Incluir Produto x BPM
+Erro de Tarja Vermelha no Icare Nohs - Combos e Duetos
+SOA alarmando em produção
+Icare Clientes - NÃO LOCALIZA ASSINATURA - Cliente Mayara
+Icare CLientes Nohs. Erro ao Criar Pedido de Cancelamento
+Falha no serviço QueryCatalogList de venda de PPV
+Divergência nos dados de fatura. 
+cancelamento voluntário agendado 
+Icare Clientes Nohs Desconto não habilitado.
+ICARE NOHS apresenta alguns clientes que apresentam lentidão / erros
+[Nohs} Impossibilidade de Compra de OPPV VOD  via site/Icare Clientes
+Abertura de Chamados SOA-MST maquina BRCSCS207
+Abertura de Chamados para o SOA
+Abertura de chamados para o SOA maquina brcscs89
+Alto índice de erro no Web Service.
+Alto índice de erro no Web Service.
+Icare Clientes Nohs. ERRO AO ABRIR O.S BANDA LARGA 
+ERRO NOHS||PAGAMENTO CARTAO DE CREDITO||BH
+iCare Cliente - alterar metodo de pagamento.xlsx
+Erro para finalizar pedido-assistencia tecnica
+Icare CLientes Nohs. Efetuou recarga e esta em andamento locked
+Sem informações de notificação Fiscal
+iCARE NOHS - Código 4 - Canais Telecine >Cotação não esta completa.
+ ICARE NOHS alteração de pacote
+DESCONTO IMEDIATO STATUS 'PENDING' (TRACKER)
+PEDIDOS COM STATUS “EM ANDAMENTO” COM ITENS PENDING
+ICARE NOHS duplicou equipamento e grou novo equipamento
+CLIENTE MIGRADO NÃO LOCALIZADO NO ICARE CLIENTES - RECLAMAÇÃO EXTRA JUDICIAL (TOTEM)
+ICARE NOHS apresenta falha na aba de pedidos
+Inclusão indevida de a la carter - Telecine e PFC
+NOHS desabilitou indevidamente o parque do cliente.
+ICARE NOHS apresenta falha na aba de Backoffice
+ABERTURA DE INCIDENTE -  ERROS RECUPERAVEIS (TRACKER)
+ICARE CLIENTES NOHS apresenta falha para realizar cancelamentos
+ERRO NA GERAÇÃO DE OSE (TRACKER).
+Icare CLientes NOhs. Erro ao abrir Xref
+Falha no Processo de Troca Equipamento URA BL para Cliente Nohs
+[WARROOM] Icare Clientes -  Cobrança indevida de Opcional já cancelado/retirado. 
+Equipamentos estão sendo habilitados sem BOUQUET. Na consulta ao bouquet para envio do sinal, na transformação 
+[SOA QA] - Abertura de chamado - Tablespace SOAINFRA Maestro - Ambiente QA
+Religue de confiança(Palavra do cliente) - Serviço VerifyCommitmentCustomerParty
+ERRO ICARE NA ABA XREF
+SKY PRE PAGO e SKY LIVRE   Falha na liberação de compra. 
+QueryCustomerPartySummary - Campos Futebol - BT 86142: [NÓHS] Repackage
+ERRO NOHS|| migração de pos pago para livre indevidamente|| GV
+Falha na consulta de fatura para clientes SKY Nóhs
+Icare CLientes Nohs. Falha na troca de pacote 
+[Nóhs]Ura- Habilitação> Problemas Ponto Opcional 26/05
+Erro ao gerar OS
+Cliente foi marcado no dia 13/05, como CANCELAMENTO, no enta...
+Cobrança indevida no NOHS
+ SOA
+Erro modulo Canais Abertos
+VOLUME DE RECARGAS REALIZADAS DOS CLIENTES NOHS
+Erros Constantemente no MST_PRD
+Erro na página de tratamento das mensagens de erro EM
+PROCEDIMENTO DE UPGRADE E DOWNGRADE  (TRACKER).
+ERRO AO ACESSAR TELA DE NEGOCIAÇÃO 
+Erro Criação de OSE 
+ICARE NOHS apresenta erro na utilização da aba RELACIONAMENTO
+JCA Homologação
+Icare Clientes nOhs. Falha na alteração de valor do pacote 
+Problema de Alteração de Vencimento
+Alerta MST
+Alerta OSB
+Alarme de monitoração do SOA
+SOA 
+Cliente NOHS 102307447 apresenta falha ao acessar a tela de faturas
+OS Reinstalação - OS finalizada e Pedido Pendente
+Sky Livre gerando cobranças após a migração.
+Falha no enfileiramento de comandos - Icare Clientes (NOHS).
+Erro pagamento em cartao de crédito - não zera negociação. Icare Nohs
+Alto índice de erro WebService/ BT: 115370
+Alerta de espaço em disco no MIPPRD
+Composite CommunicationsInvoiceEBS [2.0.18]
+Icare Clientes Nohs. Falha na concessão de descontos 
+OSB
+Falha na tramitação de pedidos do SIEBEL 8
+Falha ao seguir GPT 
+ICARE NOHS apresenta falha na aba de relacionamento
+SEM SINAL PAGAMENTO NA LOTERICA 
+Icare Clientes Nohs. Falha na alteração de metodos de pagamento
+Sistema não liberou sinal do premiére. (Em Locked) NOHS
+Pedido de reativação.
+Assinatura com cancelamento programado / Sistema desabilita parque.
+Erro ORA-00001 no banco do SOA-PRD
+Erro de Sincronismo e geração de valores após reversão
+Erro Nohs - Pasta Negociação
+Icare CLientes Nohs. aderiu ao parcelamento e o status ficou como EXPIRADO. O status correto é ATIVO
+Icare Clientes Nohs. Falha na alteração de Endereço 
+PEDIDOS NOHS encerrando indevidamente
+[QA1] - SOA
+Assinatura com Status cancelado.
+Alto índice de erro WebService/ BT: 117326
+Falha na TRAMITAÇÃO DE PEDIDOS no ambiente de HML
+Alarme de monitoração do OSB
+ICARE NOHS apresenta erro na geração de OSE
+Pagamentos eletrônicos baixados no BRM automaticamente
+[Projeto Guardião] Icare CLientes Nohs, Falha na alteração de pacote 
+PROCEDIMENTO DE UPGRADE E DOWNGRADE (TRACKER).
+SOA. Pedidos com status parado.
+ICARE NOS não está criando Ordem de Retirada. 
+Nohs - Valor divergente - parcelamento
+Siebel - Falha funcionalidade
+SKYOLINE apresenta falha no cancelamento do PREMIERE PLAY 
+WAR ROOM_Incidente Analise OS executada e Pedido Cancelado
+Icare Clientes Nohs. Falha ao acessar boleto facil 
+TP SGA  - LIBERAÇÃO PPV
+ Recarga não ativada no parque
+ Aging Pagamento  Recarga X Pedido
+ Cancelamento sem produto básico
+Erro Nohs ao tentar fechar parcelamento
+Produtos ativos depois do fim da vigencia Palavra do Cliente.
+ICARE NOHS|| parcelar no boleto||JPA
+Alarme de monitoração do OSB
+Alarme de monitoração do SOA
+Icare Clientes Nohs. Falha no parcelamento 
+Erros Serviço SOA - ProcessHardwareFulfillmentOrder
+Tratamento do backlog.  Falha no Processo de Troca Equipamento URA BL para Cliente Nohs 
+Verificar Disk Group Oracle do banco MIPPRD
+Banco SOABPRD
+Erro ao efetuar baixa de pagamento.
+ICARE NOHS apresenta falha na tela de faturas
+SOA Alarmando 
+Icare Clientes Nohs. Erro ao reativar assinatura 
+Icare Clientes NOhs. Falha na alteração de metodo de pagamento. 
+CRIAÇÃO DE ORDEM DE SERVIÇO - INDEVIDA - CAIXA TUTY SAT
+[WARROOM] - Sistema desabilita equipamentos indevidamente 
+Erro Locked
+Area   Contas a Receber;  Arquitetura   NOHS  Caracteristica do ...
+[WARRROM] - Erro de recarga - NOHS.
+[WARROOM] Icare Clientes apresenta erro para gerar O.S de Retirada de Equipamento pela tela de equipamentos. 
+UPDOWN SEM TROCA DE TECNOLOGIA COM STATUS ABERTO COM CHAMADA DOS ATRIBUTOS INCORRETOS
+Compra do  PPV via Ura e Icare Nohs 
+Falha na tramitação de Pedidos
+iCARE NOHS - Casos de Código 6 BOS CT
+COTAÇÃO CRIADA.
+Alarme de monitoração do SOA
+Icare CLientes Nohs. Falha ao incluir pedido do cliente. 
+Icare Clientes NOhs. Parcelamento não acatado. 
+reativação e serviço está com status(Inactive/Closed)  
+Nóhs - Reincidência, não libera Gravação Externa pela falta do serviço 22
+ICARE NOHS apresenta falha na alteração de MOP
+SOAPUI retorna erro ao consultar equipamento.
+Siebel - InstalledProduct - Query Sem Filtro
+Pedidos em Aberto - PRD - Servidor: Brcscs207
+PEDIDOS DE CANCELAMENTO VOLUNTARIO COM OSE GERADA
+PEDIDOS RETIRADA HW NÃO TRAMITA
+Descrição do valor do produto / zero
+ERRO - RECONEXÃO DE SUSPENSÃO TEMPORARIA
+Pedido em Locked.
+ALARME - SOA MST
+PEDIDOS NÃO ESTÃO TRAMITANDO.
+Alarme de monitoração do OSB
+Alarme de monitoração do SOA
+Falha na Tramitação de pedidos Banda Larga 
+iCARE NOHS - OS
+120898: Alto indice de erro na função GetBarCode
+"brcscs18 - PROBLEMA DE ALTA UTILIZACAO DE FILESYSTEM /u01/oracle/logs"
+Erro para reativar assinatura NOHS
+Icare Cliente Nohs. Falha de baixa pagamento
+Icare Nohs os pedidos então em andamento Locked
+Pedido em andamento Locked (Icare Nohs)
+Erro na criação de OS
+Clientes com problemas de reativação || GV
+ICARE NOHS apresenta erro ao acessar a tela de dados cadastrais.
+Icare Clientes Nohs. Falha na liberação do PPV.
+Alteração de método de pagamento não realizado
+Problemas no ambiente do Oracle OER
+Erro ICARE NOHS - Andamento Locked 
+ICARE NOHS - Supensão temporária Banda Larga.
+Erro ICARE NOHS - Andamento Locked
+MST/ int PRD alarmando em vermelho
+Tramitação de Pedidos apresenta indisponibildiade
+XML ALTERAÇÃO DE VENCIMENTO
+Icare NOHS - Erro na tela de RECARGAS.
+Problemas no BRM
+Contenção no banco soaprd.
+Assinatura NOHS em Andamento Locked.
+ Alarme de monitoração do CA APM: Alarme SOAPRD
+  Alarme de monitoração do CA APM: Alarme no MST
+ICARE NOHS apresenta falha na aba Pedidos
+REATIVAÇÃO - STATUS ANDAMAENTO LOCKED
+SOA - Erro ao consultar equipamento
+Siebel - Tramitação de Pedidos
+Erro na ferramenta SIEBEL 8.1
+SoapUI - apresenta falha na consulta de equipamentos
+ICARE NOHS não gera OS após criação de pedidos
+Falha comando Força Habilita após saída de série de cobrança
+VP CLIENTES / COBRANÇA / ICARE NOHS / PARCELAMENTO - PAGOU, MAS NÃO ACATOU.
+Informações escritas de maneira errada na Fatura
+Clientes em Suspensão Temporária sem pedido NÓHS
+Alarme de monitoração do CA APM: Alarme no MST
+Alarme de monitoração do CA APM: Alarme no INFRA
+Opcional com valor zerado
+SOA - REQUEST CONTA SERIAL
+Services/log alarmando em vermelho. OSB.
+  Alarme de monitoração do CA APM: Alarme no MST
+Services/log alarmando em vermelho. OSB.
+ABERTURA DE INCIDENTE - ERRO NA TELA CRÉDITOS E ACERTOS
+(Nóhs) Duplicidade de cartão em contas Divergentes( Impacto liberação do Sinal se o SUB não for atualizado).
+Auditoria SOA Integration
+  Alarme de monitoração do CA APM: Alarme no MST
+Services/log alarmando em vermelho. OSB.
+ OSs UP sem gerar RT
+[Nohs-Ura-Up Grade]Cod 6 Nenhum Comando chegou no EMMG e SIM 25 de Caixa Acoplada subindo no Parque> Sem linha Fantasma.
+SOA - Atraso na tramitação do pedido.
+Alarme de monitoração do CA APM: Alarme no  Log  OSB - LogReader script
+Icare Clientes Nohs. Recarga sem pedido 
+Alarme de monitoração do OSB.
+Erro ao registrar OS
+Icare CLientes Nohs. Falha no parcelamento 
+Icare Clientes NOhs. Venda de PPV, falha na liberação 
+Mensagens da fila OSB apresentam falha
+[Monitoraçao-Middleware] - Service
+Pedidos A_LA_CARTE 
+Apresenta erro em Busca Avançada ao realizar pesquisa de cliente pelo n° da fatura 
+Monitoraçao-Middleware  - OSB
+SIEBEL Desconto Mensalidade na Fatura
+Monitoração INTROSCOP - Midd 
+Alarme de monitoração do OSB.
+threshold dashboard do OSB – Batch (Open Sockets), colocar o valor 300
+[URGENTE] Analise problemas Maestro.
+CLIENTE NOHS com código 4 e pedido aguardando OSE
+[WARROOM] PPV tarifando em duplicidade
+[WARRROM] - Erro S61 (OPPV expirado, exceto BBB15) no NOHS gerando OSD de código 4 (NOHS)
+Pedidos Concluidos/Cancelados com itens em Locked
+Durante a Geração de OSE os pedidos ficam com o status "Locked"
+[WARROOM] - Falha no prepara e executa fila - Icare NOHS
+[WARROOM] ICARE NÓHS - LIVRE - Recarga 15 dias 
+Icare CLientes nOhs. Falha no registro de OS. 
+[WARRROM] - Pedidos de Cancelamento não executado
+Código 4 apos habilitação - Cartão com status invalido para envio de comandos e bouquet de comandos não enviados
+DEV1 - Incidente comunicação
+iCAER NOHS - Instalados  a mais de 48 horas com código 06 sem imagem.
+iCARE NOHS - Código 4
+Erro em Assinatura para reativação.
+ICARE NOHS apresenta falha no cancelamento da assinatura
+XML Cancelamento de Produto
+ICARE NOHS apresenta falha no processamento de suspensão temporária. 
+Produtos Cortesia e Globo sem fim de vigência
+Alarme de monitoração do OSB.
+Valores inválidos no campo de identificação de smartcard na Engenharia (Acesso Condicional - EMMG) no Datamart do SAS
+Tempo de vigência de produto Pré pago apresenta divergencia
+OSB
+MST alarmando em vermelho. SOA
+Alarme de monitoração do OSB.
+SERVIÇO SOA - BRM
+Falha no Processo de Upgrade e Downgrade
+Incidente SOA - Tramitação de pedidos
+ICARE NOHS apresenta falha na consulta de faturas de cliente
+Icare clientes – Não aparece o pacote opcional HBO para incluir e consta pedido em andamento locked sem opção para cancelar
+SKY ME: Export de Composites de Produção
+SOAP UI apresenta falha na criação de pedidos
+Area   Contas a Receber;  Arquitetura   NOHS  Caracteristica do ...
+SOAP -  Tratamento da baixa de pagamento
+iCARE NOHS - RETORNO DE SUSPENSÃO TEMPORARIO.
+AMBIENTE HML apresenta falha para criação de pedidos
+[Warroom] CLIENTES BANDA LARGA estão com OS em locked
+Icare Clientes Nohs. Produtos sem informação na tela de equipamentos
+Icare Clientes Nohs. Falta preço do pacote tela principaL
+Alarme de monitoração do CA APM: Alarme no MST
+Endereço alterado - OS criada com endereço antigo
+Nome divergente entre o Icare e o sistema Custumer Center(aleatório - Não é interlocutor)
+ICARE NOHS - BAIXA DE PAGAMENTO - PAGAMENTO NÃO BAIXADO.
+Incidência Infra - Produção.
+URA Falha ao indentificar cliente
+Incidente - Tramitação de Pedido
+[WARRROM] - Tela Créditos e Acertos - Não é possível utilizar.
+SOA Ao trocar de data para vencimento na XML o mesmo retorna erro impossibilitando tratativa do caso.
+Alarme de monitoração do OSB
+Alarme de monitoração do  CA APM: Alarme no  SOA
+SOAP - Indisponibilidade Request Conta e Serial
+Alarme de monitoração do SOA
+Erro na Aquisição do PPV no Nóhs - Em Andamento Locked
+SOA DEV1 intermitente
+ICARE NOHS DEV apresenta falha na alteração de pacotes
+ICARE NOHS apresenta falha no cancelamento da assinatura
+11484 (19/06) – funcionava em HML e não em PRD, foi sugerido pelo Yushi Giriko e Thiago Vilas que a equipe de QA retirasse as dependências de arquitetura ao gerar o pacote  RM: 11828 (30/07) – após nova aplicação o problema persiste
+0128900: URA COMPRAS não finaliza venda de PPV adulto
+ URA 4004 2112 após habilitação não gera o SUB ID do equipamento.
+MST SOA  alarmando em vermelho.
+[WARROOM] - Comandos enviados com o subid errado - erro S04 no retorno da transação entre ASAP e EMMG
+Erro na tela de fatura.
+ICARE NOHS apresenta falha no cancelamento da assinatura
+Abertura de Incidente Assinatura em Andamento Locked
+Icare Clientes - Falha na alteração de método de pagamento, alteração realizada com sucesso, porém continua debitando no método de pagamento anterior.
+ICARE NOHS apresenta erro na geração de OSE
+ XML Alteração de Vencimento
+Icare Clientes NOhs. Pedido Concluido ,não alterado na tela de Combos
+Siebel está demorando para habilita equipamento 
+Alerta MST Procedure EDN_DEQUEUE_OAOO_DELIVERY.
+Alarme de monitoração do SOA.
+PEDIDOS NOHS estão parando no status Aguardando OSE
+DOWNGRADE_EQUIPAMENTO
+ Cancelamento sem produto básico
+Alarme de monitoração do SOA.
+Erros STREAM_IO
+Icare  NOhs - Abertura de Ocorrencia - Clientes em passo 6 e 7 com produtos ativos no parque 
+Erro na tela de relacionamento - iCare NOHS
+Assinatura ativa sem produtos habilitados.
+Cliente no ICARE com produto Ativo, porém o mesmo não esta Habilitado/ Ativo no BRM. 
+Clientes sem programação
+Periodo de Recarga Incorreto
+problema no ambiente de hml (SKY),
+BRMJCA Logs
+Falha na execução de comando pelo SoapUI
+Alarme SOAPRD
+Sistema soa indisponilvel Homologação.
+ICARE NOHS apresenta pedidos de troca de pacote com status Locked
+ICARE NOHS apresenta falha nos pedidos de recarga
+Monitoração-01-09-2015-10:00] - Abrir Chamado OSB
+RES: Monitoração-01-09-2015-10:00] - Abrir Chamado MST
+Monitoração-01-09-2015-10:00] - Abrir Chamado SOA BATCH
+iCARE NOHS - Cliente 74659200 não localizado.
+Monitoração-01-09-2015-11:00] - Abrir Chamado OSB Log.
+[WAR ROOM]: Cliente com dois parcelamentos ativos no Icare
+[WAR ROOM]: Divergência do MOP do cliente, no customer center temos um MOP (incorreto) e no Icare NOHS outro MOP (correto)
+Icare Clientes Nohs. Falha ao gerar numero de pedido
+Reversão de período inteiro com valor menor. 
+Monitoração [03-09-2015] - Abrir Chamado MST
+[WARROOM] I-CARE NOHS - UPGRADE SEM DATA DE ATIVAÇÃO
+Monitoração [03-09-2015] - Abrir Chamado Batch
+Monitoração [03-09-2015] - OSB
+PIP de sincronismo de contas - DEV
+Os Pedidos estão ficando com Status Abertos desde o dia 02/09.
+Icare Clientes - Desconto de Campanhas ou Degustação em duplicidade no sistema
+Introscope
+I-CARE NOHS - UPGRADE CONCLUÍDO E PEDIDO / PEDIDO
+RECARGAS NOHS com prazo indevido
+131843: Alto indice de erro na consulta do WebService
+Erro na consulta de faturas para alguns clientes Nohs
+ICARE NOHS apresenta falha na reativação de cliente banda larga
+Falha no Pedidos de Recarga em Andamento Locked
+Ambiente DEV1 - Fora do ar
+Cancelamento sem produto básico
+Alarme de monitoração do OSB
+O cliente está migrado, porém não retorna no NOHS. (Siebel)
+Erro W.S
+Problema OSB.
+Erro W.S. na Ura cobrança
+[WARROOM] - [Nóhs] Up Grade -  Canal Não Disponivel Amostra de  habilitação 03/09/15.
+[WAR ROOM] - Clientes habilitados via guardião não tiveram fechamento/geração de Fatura
+Desconto antigo vinculado a outro Login
+Erro na consulta de cliente
+DE - PARA SISTEMA PIP
+Identificado falha no Servidor brcscs280 Maestro
+Falha na tramitação de Pedidos em HML
+[WARROOM] Pré Pago com recarga de 15 dias com cod 4 nos canais abertos e cortesias não liberadas 
+Erro na tela de relacionamento - iCare NOHS
+Erro na regra de negócio - Pacote Pré Pago 24 meses, que estão realizando recarga de pacote Ligth 
+Icare Nohs apresenta erro na reativação.
+Tela de negociação fica toda branca
+Alarme de monitoração do OSB.
+execução do xml para criação de pedido 
+Alarme de monitoração do SOA
+ ERRO NO ICARE CLIENTES NA FATURA DUPLICIDADE DE COBRANÇA DE PPV 
+Criar pedido - SOAP/OSB
+Alerta Monitoraçao MST (Maestro) 
+[HML] - fila de pedidos
+Mantis 0001075
+[HML] - filas JMS
+iCare NOHS - Falha na reativação.
+[WARROOM] Itens de Pedidos Cancelados X O.S. Finalizada
+iCAER NOHS - Apresenta erro na Aba Técnica>Pedidos.
+[15.0175.TN] Falha ao alterar o CNPJ impossibilita Transferencia de Titularidade
+SOA indisponível
+Erro de agendamento de O.S - iCare NOHS
+Alerta Monitoraçao OSB Infra 
+Icare Nohs - Clica na aba Técnica > Pedidos (ocorre o erro).
+Icare NOHS OS Cancelada com Status Pendente - SKY BANDA LARDA
+MOS - Ordem de Retirada.
+Alerta Monitoraçao MST.
+Erro na abertura de OS.
+Analise Hogging Threads x Hospital
+ICare Nohs - Erro aba – Cadastro Dados Cadastrais.
+SOA Integration - EM indisponível
+Erro OSB.
+Erro WS
+Erro na tela de pedidos.
+[WARRROM] -Clientes tarifados indevidamente por AT de Banda Larga.
+Alarme de monitoração do OSB
+Falha na reativação após saido de scob 7 - iCare NOHS.
+LOADEXTERNAL com erro na execução.
+Alarme de monitoração do OSB.
+cobrança indevida de AT corretiva
+Recarga com 5 dias a menos em produção.
+Erro na reativação - iCare NOHS
+NOHS - Maestro com status “down”.
+OSB Produção
+URA 4004-2112 não valida níveis de sinal.
+[War room] Habilitação de OSs  - OS de PP Habilitadas - entrando Sim25 de outros na GRADE
+Icare Nohs - Pedidos com status Locked impedem a abertura de novas OS’
+Alarme de monitoração do OSB.
+Icare Nohs - apresenta falha para cancelamento de serviço
+Compra de PPV no Icare Nohs permanece com status aberto.
+Alarme de monitoração do OSB
+Alarme de monitoração - OSB
+Alarme de monitoração do SOA
+Evidências Retirada HW - Equipamento Sem Razão
+iCARE NOHS - Erro na  Reativação.
+Falha na REATIVAÇÃO sistema altera status para ativo porém o cliente continua cancelado.
+Icare Nohs - Erro ao abrir tela de fatura
+Icare Nohs - Erro ao cancelamento Show Room - Eventos
+iCARE NOHS - Erro ao criar OS.
+URA 4004 2112 não reconhece equipamento HDSLIM - AFC.
+[WarRoom] Data de Habilitação incorreta no Icare NOHS e Sky Analytics
+Falha para consultar faturas do cliente 182680509 (Icare Nohs)
+ERRO AO ACESSAR CADASTRO
+[WARROOM] Pedidos de Cancelamento Voluntário gerou OS de Retirada por Troca indevidamente
+Alerta Monitoraçao OSB (Log)
+Aumento no Volume de Pendentes de Baixa de Pagamento Mensalidade Cartão
+Criaçao de Pedido via Siebel NOHS
+Alerta Monitoraçao OSB (infra).
+Aumento no Volume de Pendentes de Baixa de Pagamento PEC Mensalidade/Recarga/ Promessa
+SOAPRD - Hoggins Threads
+Erro na Criaçao de Pedido / SOAPUI
+Contenção Banco SOA_PRD.
+Falha na criação de pedidos Conta Serial
+[WAR ROOM] - Status de pedido ficou como expirado invés de ATIVO
+ICARE NOHS apresenta falha na consulta de valores em negociação
+Contenção no banco do SOA_PRD
+[WAR ROOM] Banda Larga - Produto Ativo no Parque Sem OS de Instalação Habilitada / Finalizada
+Faturamento zerado com produtos Faturaveis - Icare NOHS
+Clientes com divergencia de produtos, muitos estão no BRM e não estão no Siebel ou vice versa
+Falha no Serviço OSEReturn 
+[War room] ICARE NOHS não gera parcela do acordo de parcelamento
+Cliente guardião não criado no Customer Center
+Falha na chamada do SOA de HML
+LoadExternal - Indisponível.
+Abertura de OS indevida/Icare Clientes na atualização de endereço
+[WAR ROOM] ISELLING - Dados divergente em tabela.
+Preços nulos no parque.
+[WARROOM] URA 4004 2112 após habilitação não gera o SUB ID do equipamento. 
+[War room] Pedidos de Upgr/Down com e sem tecnologia (Erro na geração de OSE)
+Alerta de Performance OSBTRCK.
+Erro ao acessar a tela do gpt
+CLIENTE BANDA LARGA sem sinal devido a fatura indevida
+Assinaturas Demostração Migrada Nóhs ROCK IN RIO acima de 10 equipamentos com 77 habilitados
+Alerta de Performance OSB.
+Falha para consulta das 6 ultimas faturas no Icare Nohs (não é geral)
+Falha nos Serviços do OSB
+Incidente Serviço LoadExternal SoapUI.
+Alerta Monitoraçao SOA-MIP.
+Pedidos não estão tramitando.
+Multiplicidade de Faturamento.
+Delete Não sendo enviado após OS de retirada com Status Finalizado e Pedido e Item do Pedido em Andamento Locked.
+Reconexão após retorno de Suspensão Temporário não executada
+Aumento do Volume de Pendentes de Pagamento PEC 20-10-2015
+Tratamento de Backlog do incidente 656082 - Alteração Cadastral não altera Geocode 
+Fila JMS - Soa batch
+RECARGAS COM PERÍODO 01/01/0001 A 01/01/0001 
+Rodando o serviço LoadExternal para realizar Habilitação de equipamento               
+MST alarmando em vermelho.
+Erro ao cancelar pedido de reconexão palavra do cliente (Icare Nohs)
+Falha na geração de OS  de AT corretiva para BANDA-LARGA
+Cobrança indevida de A.T Sky Banda Larga
+Não gerou reversão após Upgrade (Guardião de Vendas)
+Busca de customers com falha via ICARE BKO (... 500 - Oops! Um erro inesperado ...)
+Alarme de monitoração do OSB
+Alarme de monitoração do SOA.
+LoadExternalService não responde            
+Alterar a quantidade de parametros retornados na operação QueryClassificationList
+[WAR ROOM] - Cliente Sky Livre realizou o pagamento da recarga porem não foi liberado o sinal
+[WarRoom] - Pré pago com crédito
+Pedido de cancelamento parados - Reativação concluída
+Falha na tramitação de pedidos - Nohs
+CLIENTES EM SCOB2 com equipamento ativo
+Contençao SOA
+Produtos Ativos sem valor no parque do cliente
+Falha na concessão de desconto de MOP
+iCARE NOHS - Alterção de endereço.
+Falha no Sincronismo de Produtos / Parque
+Identiciados pedidos do MAESTRO com o status locked
+Erro tela "Ofertas especiais" do ICARE NOHS (... QuerySalesOpportunityListCommercialDA...)
+Parametrização de monitoração de Log Ambientes SOA e OSB
+Falha para alguns clientes - Na aba Financeiro Icare Nohs
+Alerta Monitoraçao soaprd
+Pedidos de PPV com status "Em Andamento Locked".
+Comandos pendentes da URA HAB com previsão para 2016
+Verificação do Restart do Servidor SOA, BRCSCS101.
+SKY NÓHS Timeout ao Atualizar Cotação
+ICARE NOHS apresenta falha na consulta das faturas de clientes especificos
+ICARE NOHS apresenta falha na geração de OSE
+CÓDIGOS PAIS SANTANDER 16819354 E TRANSPETRO 163404681 SEM ACESSO A VISUALIZAÇÃO DE FATURAS NO ICARE NOHS.
+Mensagens de erro nas filas do OSB/Tracker
+Pedidos não tramitam e param no status "aberto"
+Atualização de Composites do ambiente BATCH
+Falha na implantação dos serviços em produção.
+ERRO - Trck  (CA) OSB TRCK alarmando
+SERVIÇO - CRIAR OSE DE RETIRADA INDISPONÍVEL.
+[Projeto 123] [OSB Digital] Problemas no ambiente DEV1
+[WARROOM] CLEINTE NOHS com falha no parcelamento de divida
+Erro na tela de faturas Icare Nohs.
+Chamada do serviço do Bpel para acordar os pedidos de Cancelamento com falha
+DS SOA Integration Aguardando conexão
+Serviço Load External - CommunicationsFulfillmentOrderEBS.
+LOG/ TRCK ALARMANDO EM VERMELHO.
+Incidente serviços.
+Supensão temporária não desabilita produtos do parque
+Reconexão após Supensão temporária não rehabilita produtos do parque
+Cancelamento de produto - Serviço SOA.
+ICARE NOHS apresenta erro na tela de recargas
+ICARE NOHS está gerando pedidos indevidos (Triplica a geração)
+ICARE NOHS está criando registro de baixa da pagamento
+[WAR ROOM]: ICARE NOHS cancela parcelamento invés de gerar novo parcelamento
+Processo não rodado no SOA.
+Pedidos de Reativação com o status "Em Andamento Locked"
+WR - Canal globo não é liberado com pacote no parque
+ICARE NOHS apresenta falha na criação de OS
+Alto volume de pedido cancelados do produto Cine SKY HD nos meses de outubro e novembro
+Incidente de TN: Clientes que cancelaram seus produtos continuam com SmartCard ativo 
+Pedidos Sócio Torcedor com o status "Em Andamento Locked"
+Cliente Pré pago com assinatura Pós no Icare.
+SERVIÇO SOA - REQUEST CONTA E SERIAL.
+Pedidos cancelados e Up Concluido.
+Produto cortesia sem data fim.
+Cliente com direito a Globo recebendo comando de Pré Pago sem Globo.
+EM Indisponível SOA PIP
+Mensagem de OSD assinatura Sou+Sky
+[WAR ROOM] Contas Pós Paga sem Faturar
+OEM apresenta falha no login 
+CommunicationsProposalEBF com problema.
+Alto índice de erro na consulta ao ambiente Web Service - SKY
+Periodo de vigencia da recarga incorreto.
+Reativação não realizada após término de suspensão
+INT PRD alarmando em vermelho.
+DS SOA Integration Aguardando conexão
+ERRO - INFRA OSB com status em vermelho na ferramenta de monitoração.
+INDISPONIBILIDADE REQUEST CONTA E SERIAL.
+Tela de cadastro do Icare clientes não aparece data correta em que o endereço do cliente foi alterado.
+ICARE NOHS apresenta erro na consulta de faturas (Pontual)
+Agendamento Firme.
+Pedidos da URA ficam em andamento Locked
+Alteração de endereço indisponível para o grupo SUP_CÉLULA_TÉCNICA.
+Icare Nohs: O.s finalizada sem retirada de equipamento.
+Critico>Codigo 4 ou 6 ]GV Habilitação Geocode Generico a informação parou de subir para tela de cadastro no Icare Clientes e Comando via GPT/Tela de envio de Comandos não Processam para liberar sinal.
+Recargas criadas indevidamente com status Pendente.
+Razão de os de retirada downgrade - Icare Campo
+Falha na abertura de Pendente para atendimento Técnico.
+Impossibilidade de alteração Cadastral com abertura de OS de reinstalação.
+FALHA NA LIBERAÇÃO DO COMBATE _ COD 17 E 13.
+Falta de Blackout gera Codigo 9
+Icare Clientes - Erro na tela de créditos e acertos.
+SOA apresenta lentidão.
+Reincidencia>Codigo 6-Habilitação VIA URA > Canal não Disponivel > Devido a falta de Atualização de Bouquet
+Clientes com recargas dentro do prazo de vigência, porem essas recargas consta como inativa. 
+[Mensagens fila do SOA]
+Alarme Ca Introscope - OSB LogReader script
+Icare Nohs - Clientes Pré-pago com erro no período de Regarga "de... até"
+Pedidos de Conhecimento sem ordem de retirada
+PEDIDOS DEV1 nao estão tramitando
+Falha na visualização de faturas de Cliente Risco Anatel
+ICARE NOHS apresenta data de recarga divergente
+Icare Clientes - Ao acessar a tela de fatura apresenta erro e cliente não tem cobrança mensal
+Falha na Alteração de Vencimento atraves do iCare Clientes (...Erro ao alterar a data de pagamento do assinante...) 
+Analise de Capacidade OSB - Os ENT das máquinas do OSB estão acima de 100%.
+SKY NOHS - Fila JMS do OSB Batch - Performance de processamento
+brcscs174 apresenta baixo desempenho.
+FLUXO GPT de controle remoto apresenta falha
+[SOLICITAÇÃO] ORACLE SR 3-11854855151 - Alteração de politica de segurança
+ICARE NOHS apresenta falha na alteração da data de vencimento
+Erro XML Criar Pedido
+Icare Clientes - Solicitação concluída porem status do pedido cancelado
+Icare Clientes - Reverte valor duplicado.
+Alto índice de erro WebService/ BT 0149576
+Falha no Serviço de Assistencia Premium
+Problema no código implantado em produção pela RM 14014 (SOA). 
+Icare Clientes - Não conclui alteração de dados
+Valores divergentes recebidos do BRM no SAP
+Falha ao realizar reversões
+Icare Clientes - Pedidos em Andamento Locked
+Introscope alarmando o serviço: SOA-INT PRD
+Erro ICARE NOHS - Pedido de cancelamento da assinatura deletado após sua criação
+OSB ALARMANDO EM VERMELHO
+Introscope alarmando o serviço: OSB 
+ SISTEMA NÃO RECONHECE O CÓDIGO DE QUALIDADE – AFC
+Falha na alteração do método de pagamento (MOP) 
+ERRO - SERVICES -  MONITORAÇÃO
+Produto cortesia sem data fim.
+BRM não recebe troca de produto impactando adição dos valores nas faturas.
+Falha no Registro de Os de ausência de Sinal
+Alarme MST sem indicadores.
+OSB DEV indisponivel
+ICARE BKO informa que o equipamento está com o assinante e não habilita
+URA SAC não reconhece assinatura 
+Processo identificação URA SAC 10611
+ICARE NOHS apresenta erro ao cancelar Temporada do BBB
+Sky On-Line - Filme Vai que Cola apresenta erro para alugar
+Icare Bko - Habilita equipamento Digital e classifica como HD PLUS
+ICARE NOHS com divergência no MOP
+Garantia de projeto nº150175 : CÓDIGOS PAIS SANTANDER 16819354 E TRANSPETRO 163404681 SEM ACESSO A VISUALIZAÇÃO DE FATURAS NO ICARE NOHS.
+Área:   Faturamento;  Arquitetura:   NOHS;  Caracteristica do I...
+URA não reconhece assinatura ativa.
+Icare Nohs: Pedidos com status divergente da ose
+O.s vinculada a pedido cancelada e pedido parado.
+Timed-out entre Sky.OperationSupport.IVR e OSB afetando a URA Habilitação
+ICARE BKO apresenta erro ao selecionar a aba Técnica/Ordem de Serviço.
+Falha na Oferta Recarga em Dobro: Não gera o.s de equipamento opcional.
+Falha na tramitação e cancelamento de PPV
+Falha processo de cancelamento Pedido em "Em andamento locked"
+Lentidão no SOA
+Reativação - Produto principal com data fim 
+ICARE NOHs apresenta falha para conceder Crédito/Acerto
+OSB alarmando em vermelho em trck
+OSB  -  ERRO (DEV1)
+Icare Clientes - Visualização de créditos divergente entre BRM e tela de faturas
+ICARE NOHS gera pedido de alteração de pacote e o cancela invés de concluir.
+0153186: URA informa pendencia de pagamento para cliente Pré
+CLIENTES NOHS com parque BRM cancelado
+SOA brcscs320 sem exibir detalhamento de serviço
+Problemas para acessar ambiente SOA Integration.
+Criação de parcelamento de dívida no BRM - CommunicationsBRMSKYServicesEBS
+LOG ALARMANDO EM VERMELHO
+Icare Clientes - Falha na reativação "Erro: Um erro inesperado ocorreu em CommunicationsFulfillmentOrderEBSV1PS. "
+Erro no SOA ao executar o Serviço Load External para habilitação de equipamento 
+Cancelamento realizado pela Ura e Icare não gera protocolo
+Área:   Faturamento;  Arquitetura:   NOHS;  Caracteristica do I...
+Indisponibilidade SOA QA - RM14319 - Cancelamento Soberano.
+As instâncias de pedido de cancelamento estão apresentando erro no Maestro.
+O.S. de Reinstalação com status "Finalizada", e o pedido com status "Em andamento Locked"
+Pedidos do SKY ONLINE estão sendo direcionados com valor errado no SOA
+Falha no retorno de A La Cartes Ativo
+RECARGA com periodo de inicio para 2017
+Altas taxas de erro WS 17/02
+Falha no cancelamento. Sistema cancela o pedido de cancelamento.
+ICARE NOHS não gera pedido de  alteração de pacote
+Área:   Faturamento;  Arquitetura:   NOHS;  Caracteristica do I...
+Introscope alarmando o serviço: OSB - LOG/TRCK

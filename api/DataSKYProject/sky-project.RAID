@@ -1,0 +1,32 @@
+Caros, bom dia!   Podem p.f. executar a extração de alarme...
+Caros.   Podem p.f. executar a extração de alarmes do resu...
+Diferenças de pagamentos entre a stage RAID e BI Analytics 
+Valores de pagamentos com mais de 2 casas decimais (baixas de pagamentos)
+Pagamentos/Faturamentos clientes livre/pré pago sem ciclo, ex: recarga de 6 meses com inicio e fim de vigência no mesmo dia.
+Diferenças de pagamentos entre a stage RAID e BI Analytics
+Diferenças de pagamentos entre a stage RAID e BI Analytics
+Diferenças de pagamentos entre a stage RAID e BI Analytics
+PEQUENA MELHORIA chamado 658257: Valores de pagamentos com mais de 2 casas decimais (baixas de pagamentos):
+Base do RAID tem registros faltantes em relação ao ORA_DW 
+Base do ORA_DW  tem registros faltantes em relação ao Relacional (ref.: RAID) 
+Base do ORA_DW  tem registros faltantes em relação ao Relacional (ref.: RAID) 
+Base do DIMENSIONAL ORA_DW.XDWD_INVC com Registros Faltantes
+Base do ORA_DW  tem registros faltantes em relação à referência do RAID.
+Base do ORA_DW  tem registros faltantes em relação à referência no Relacional (RAID) 
+Carga na tabela WEDO. BRM_SKY_ACCTG_FISCAL_INFO não concluída desde 06/11
+Base do RAID  tem registros faltantes em relação ao Dimensional (ref.: ORA_DW) 
+Base do RAID tem registros faltantes em relação ao ORA_DW 
+Base do RAID não recebeu atualização diária após 12/11.
+Base do RAID não recebeu atualização diária após 12/11
+Base do RAID (BRM_BILL) tem registros a menos que a base correspondente do ORA_DW (XDWD_INVC).
+Base do RAID (BRM_EVENT_BALANCE_IMPACT) tem registros a menos que a base correspondente do ORA_DW (XDWD_ACCT_BAL_IMPC).
+Base do RAID (SIEBEL_SUBSCRIPTION) tem registros a menos que a base correspondente do ORA_DW (XDWD_SBRP).
+Base do ORA_DW (XDWD_INVC) tem registros a menos que a base correspondente do RAID (BRM_BILL).
+BRM_Event_Balance_Impact: Código do Evento
+Incidente de BI: Tabela do RAID tem registros com a data errada
+Bases do ORA_DW não receberam dados atualizados de 01/12 até hoje.
+BRM_Event_Balance_Impact: Código do Evento 
+Base do ORA_DW (XDWD_INVC) tem registros a menos que a base correspondente do RAID (BRM_BILL).
+Base do ORA_DW (XDWD_ACCT_BAL_IMPC) tem registros a menos que a base correspondente do RAID (BRM_EVENT_BALANCE_IMPACT).
+Base do ORA_DW (XDWD_SBRP) tem registros a menos que a base correspondente do RAID (SIEBEL_SUBSCRIPTION).
+WEDO_BRM_ACCOUNT_BILLING_INFO – Método de pagamento divergente BRM.

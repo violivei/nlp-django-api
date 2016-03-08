@@ -1,0 +1,4 @@
+2016-02-26  Giuseppe Attardi  <attardi@R730-gpu>
+
+	* process_data.py (load_word2vec): load vectors also in text format.
+

@@ -1,0 +1,14 @@
+
+TREINAR:
+
+THEANO_FLAGS=mode=FAST_RUN,device=gpu,floatX=float32 python conv_net_sentence.py -train model.non-static sky-priority.treino
+
+TESTE:
+
+THEANO_FLAGS=mode=FAST_RUN,device=cpu,floatX=float32 ./conv_net_sentence.py model.non-static sky-priority.teste
+
+
+
+
+
+
