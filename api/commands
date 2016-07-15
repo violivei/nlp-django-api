@@ -1,0 +1,7 @@
+docker run -it -v ~/Projects/somoclu:/somoclu kaixhin/cuda-theano /bin/bash
+
+docker run -it -v ~/Projects:/Projects kaixhin/cuda-theano /bin/bash
+
+python som_sentence.py -vectors w2v_file.bin mFile.p data.txt -train
+
+python som_sentence.py -vectors w2v_file.bin mFile.p test.txt 

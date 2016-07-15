@@ -1,0 +1,153 @@
+# @configure_input@
+
+# Package-related substitution variables
+package	= @PACKAGE_NAME@
+version	= @PACKAGE_VERSION@
+tarname	= @PACKAGE_TARNAME@
+distdir	= $(tarname)-$(version)
+
+# Prefix-related substitution variables
+prefix	 = @prefix@
+exec_prefix    = @exec_prefix@
+bindir	 = @bindir@
+libdir	 = @libdir@
+
+# Tool-related substitution variables
+CXX		         = @CXX@
+CXXFLAGS       = @CXXFLAGS@
+LIBS	         = @LIBS@
+DEFS           = @DEFS@
+INSTALL	       = @INSTALL@
+INSTALL_DATA   = @INSTALL_DATA@
+INSTALL_PROGRAM= @INSTALL_PROGRAM@
+INSTALL_SCRIPT = @INSTALL_SCRIPT@
+CUDA_CFLAGS    = @CUDA_CFLAGS@
+CUDA_LIBS      = @CUDA_LIBS@
+CUDA_LDFLAGS   = @CUDA_LDFLAGS@
+NVCC       	   = @NVCC@
+MPI_INC        = @MPI_INC@
+MPI_LIBDIR     = @MPI_LIBDIR@
+MPI_LIBS       = @MPI_LIBS@
+MATLAB_ROOT    = @MATLAB_ROOT@
+MEX_BIN        = @MEX_BIN@
+
+# VPATH-related substitution variables
+srcdir	 = @srcdir@
+VPATH	  = @srcdir@
+
+LIBOBJS=sparseCpuKernels.o denseCpuKernels.o mapDistanceFunctions.o training.o uMatrix.o
+
+MEX_FLAGS=-I./
+MEX_LIBS=-lgomp
+MEX_OBJS=sparseCpuKernels.o denseCpuKernels.o mapDistanceFunctions.o uMatrix.o
+
+ifdef CUDA_LIBS
+	LIBOBJS+=denseGpuKernels.cu.co
+	MEX_FLAGS+=-I"$(MATLAB_ROOT)/toolbox/distcomp/gpu/extern/include/" -DCUDA
+	MEX_LIBS+=$(CUDA_LDFLAGS) $(CUDA_LIBS) -lnvblas -lmwgpu
+	MEX_OBJS+=denseGpuKernels.cu.o
+endif
+
+OBJS=$(LIBOBJS) io.o somoclu.o
+
+all: somoclu
+
+lib: $(LIBOBJS)
+	$(CXX) -g $(DEFS) $(CXXFLAGS) $(CUDA_LDFLAGS) ${MPI_LIBDIR} -shared -o libsomoclu.so $^ $(LIBS) $(CUDA_LIBS) ${MPI_LIBS}
+
+somoclu: CXXFLAGS+= -DCLI
+somoclu: $(OBJS)
+	$(CXX) $(DEFS) $(CXXFLAGS) $(CUDA_LDFLAGS) ${MPI_LIBDIR} -o $@ $^ $(LIBS) $(CUDA_LIBS) ${MPI_LIBS}
+
+%.o: %.cpp
+		$(CXX) $(DEFS) $(CXXFLAGS) ${MPI_INC} -I$(srcdir) -I.. -o $@ -c $(srcdir)/$<
+
+%.cu.co: %.cu
+		$(NVCC) $(DEFS) $(CUDA_CFLAGS) ${MPI_INC} -I$(srcdir) -I.. -o $@ -c $(srcdir)/$<
+
+matlab: lib
+	if [ -e denseGpuKernels.cu.co ]; then cp denseGpuKernels.cu.co denseGpuKernels.cu.o; fi
+	$(MEX_BIN) $(MEX_FLAGS) MATLAB/MexSomoclu.cpp training.cpp $(MEX_OBJS) $(MEX_LIBS)
+	mv MexSomoclu* MATLAB
+
+matlab_clean:
+	-rm -f MATLAB/*o
+
+python:
+	mkdir -p ./Python/somoclu/src
+	mkdir -p ./Python/somoclu/src/Windows
+	cp ../LICENSE ./Python
+	cp ../Makefile.in ./Python/somoclu/
+	cp ../configure ./Python/somoclu/
+	cp ../config.h.in ./Python/somoclu/
+	cp ../install-sh ./Python/somoclu/
+	cp ./Makefile.in ./Python/somoclu/src/
+	cp ./*.h ./Python/somoclu/src/
+	cp ./mapDistanceFunctions.cpp ./Python/somoclu/src/
+	cp ./training.cpp ./Python/somoclu/src/
+	cp ./uMatrix.cpp ./Python/somoclu/src/
+	cp ./denseCpuKernels.cpp ./Python/somoclu/src/
+	cp ./denseGpuKernels.cu ./Python/somoclu/src/
+	cp ./sparseCpuKernels.cpp ./Python/somoclu/src/
+	cp ./*.cu ./Python/somoclu/src/
+	swig -c++ -python ./Python/somoclu/somoclu.i
+	cd Python; python setup.py build
+
+python_doc: python
+	export PYTHONPATH=`ls -d --color=never $$PWD/Python/build/lib.*| head -c -1`:$$PYTHONPATH; $(MAKE) -C Python/doc html latexpdf
+
+python_install: python python_doc
+	cd Python; python setup.py install
+
+python_clean:
+	-rm -fr ./Python/somoclu/src ./Python/somoclu.egg* \
+	  ./Python/somoclu/install-sh ./Python/somoclu/Makefile* \
+	  ./Python/somoclu/config* ./Python/somoclu/*so \
+	  ./Python/somoclu/somoclu_wrap* ./Python/somoclu/*pyc \
+	  ./Python/LICENSE ./Python/dist \
+	  ./Python/doc/doctrees ./Python/doc/manual.pdf ./Python/doc/html \
+	  ./Python/doc/latex ./Python/build $(OBJS) 1>/dev/null
+
+r_clean:
+	-rm -fr ./R/src/configure ./R/src/config.h.in ./R/src/Makefile.root.in \
+	  ./R/src/Makefile.in ./R/src/denseGpuKernels.cu ./R/src/*h \
+	  ./R/src/mapDistanceFunctions.cpp ./R/src/training.cpp \
+	  ./R/src/io.cpp ./R/src/uMatrix.cpp ./R/src/denseCpuKernels.cpp \
+	  ./R/src/sparseCpuKernels.cpp R/data ./Rsomoclu*gz
+
+r:
+	mkdir -p R/data
+	cp ../configure ./R/src/
+	cp ../config.h.in ./R/src/
+	cp ../install-sh ./R/src/
+	cp ../Makefile.in ./R/src/Makefile.root.in
+	cp ./Makefile.in ./R/src/
+	cp ./*.h ./R/src/
+	cp ./mapDistanceFunctions.cpp ./R/src/
+	cp ./training.cpp ./R/src/
+	cp ./uMatrix.cpp ./R/src/
+	cp ./denseCpuKernels.cpp ./R/src/
+	cp ./denseGpuKernels.cu ./R/src/
+	cp ./sparseCpuKernels.cpp ./R/src/
+	cp ../data/rgbs.txt ./R/data/
+	gzip -f ./R/data/rgbs.txt
+	R CMD build R
+
+clean: python_clean r_clean matlab_clean
+	-rm -fr $(OBJS) somoclu libsomoclu.so *.cu.o 1>/dev/null
+
+install:
+	$(INSTALL) -d $(DESTDIR)$(bindir)
+	$(INSTALL_PROGRAM) -m 0755 somoclu \
+	 $(DESTDIR)$(bindir)
+
+uninstall:
+	-rm $(DESTDIR)$(bindir)/somoclu &>/dev/null
+
+Makefile: Makefile.in ../config.status
+	cd .. && ./config.status $@
+
+../config.status: ../configure
+	cd .. && ./config.status --recheck
+
+.PHONY: all clean install uninstall python
