@@ -9,7 +9,7 @@ from rest_framework import status
 
 from django.http import JsonResponse
 import conv_net_sentence
-
+import som_sentence
 
 class GetPriority(APIView):
     """
@@ -49,6 +49,38 @@ class GetProject(APIView):
         final_class = conv_net_sentence.get_predict("modelproject.non-static", request.data["description"])
         data = {'predicted_class': final_class}
         return JsonResponse(data)
+
+    def put(self, request, pk, format=None):
+        task = self.get_object(pk)
+        serializer = TaskSerializer(task, data=request.data)
+        if serializer.is_valid():
+            serializer.save()
+            return Response(serializer.data)
+        return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
+
+    def delete(self, request, pk, format=None):
+        task = self.get_object(pk)
+        task.delete()
+        return Response(status=status.HTTP_204_NO_CONTENT)
+
+class GetSimilarity(APIView):
+    """
+    Retrieve, update or delete a task instance.
+    """
+    def get_object(self, pk):
+        try:
+            return Task.objects.get(pk=pk)
+        except Task.DoesNotExist:
+            raise Http404
+
+    def get(self, request, pk, format=None):
+        data = som_sentence.get_similars("Mensagem de input do serviço SubscriberControllerEBF", "mFile.p")
+        return JsonResponse(data)
+
+    def post(self, request, format=None):
+        data = som_sentence.get_similars(request.data["description"], "mFile.p")
+        print data
+        return JsonResponse({"data": data})
 
     def put(self, request, pk, format=None):
         task = self.get_object(pk)
