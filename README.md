@@ -31,7 +31,8 @@ THEANO_FLAGS=mode=FAST_RUN,device=gpu,floatX=float32 python conv_net_sentence.py
 Predict:
 
 ```
-curl http://localhost:8080/api/classify/ -d "description=question: Are there any SciFi treatments of time travel that avoid the typical paradoxes? [duplicate]; excerpt: Possible Duplicate:\n  Why do time-travel stories often have the characters “returning” to the future?  \n\n\n\n\nThe possibility of time travel normally creates paradoxes. If you can travel into the ...\r\n        "
+- python manage.py runserver
+- curl http://localhost:8080/api/classify/ -d "description=question: Are there any SciFi treatments of time travel that avoid the typical paradoxes? [duplicate]; excerpt: Possible Duplicate:\n  Why do time-travel stories often have the characters “returning” to the future?  \n\n\n\n\nThe possibility of time travel normally creates paradoxes. If you can travel into the ...\r\n        "
 ```
 
 ## Dataset
