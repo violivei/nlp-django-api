@@ -11,17 +11,17 @@ from django.http import JsonResponse
 import conv_net_sentence
 
 
-class GetPriority(APIView):
+class GetClass(APIView):
     """
     List all tasks, or create a new task.
     """
     def get(self, request, format=None):
-        final_class = conv_net_sentence.get_predict("model3.non-static", "Mais de um desconto de MOP ativo no parque do BRM e do Icare")
+        final_class = conv_net_sentence.get_predict("mr.p", "question: Linux training setup; excerpt: I want to give a tutorial/training type seminar on Linux. I also want to demonstrate certain Linux specific software with audience participation (on their own machines). What is the best way to go")
         data = {'predicted_class': final_class}
         return JsonResponse(data)
 
     def post(self, request, format=None):
-        final_class = conv_net_sentence.get_predict("model3.non-static", request.data["description"])
+        final_class = conv_net_sentence.get_predict("mr.p", request.data["description"])
         data = {'predicted_class': final_class}
         return JsonResponse(data)
 

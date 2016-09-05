@@ -1,2 +1,0 @@
-curl http://localhost:8080/api/priority/ -d "description=Clientes estão com produto principal zerado. Cobrança indevida"	ALTA
-curl http://localhost:8080/api/project/ -d "description=Mensagem de input do serviço SubscriberControllerEBF"	ASAP

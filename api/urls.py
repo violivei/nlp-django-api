@@ -6,7 +6,5 @@ from api import views
 admin.autodiscover()
 
 urlpatterns = patterns('',
-    url(r'^priority/', views.GetPriority.as_view()),
-    url(r'^project/', views.GetProject.as_view()),
-   # url(r'^tasks/(?P<pk>[0-9]+)/$', views.TaskDetail.as_view()),
+    url(r'^classify/', views.GetClass.as_view()),
 )
