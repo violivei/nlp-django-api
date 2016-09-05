@@ -1,54 +1,36 @@
 
 ## Requirements
 
+- Django
 - Python 2.7
-- Tensorflow
+- Theano 0.7
 - Numpy
+
+Using the pre-trained `word2vec` vectors will also require downloading the binary file from
+https://code.google.com/p/word2vec/
+
+### Data Preprocessing
+To process the raw data, run
+
+```
+python process_data.py path
+```
+
+where path points to the word2vec binary file (i.e. `GoogleNews-vectors-negative300.bin` file). 
+This will create a pickle object called `mr.p` in the same folder, which contains the dataset
+in the right format.
 
 ## Running
 
-Print parameters:
-
-```bash
-./train.py --help
-```
-
-```
-optional arguments:
-  -h, --help            show this help message and exit
-  --embedding_dim EMBEDDING_DIM
-                        Dimensionality of character embedding (default: 128)
-  --filter_sizes FILTER_SIZES
-                        Comma-separated filter sizes (default: '3,4,5')
-  --num_filters NUM_FILTERS
-                        Number of filters per filter size (default: 128)
-  --l2_reg_lambda L2_REG_LAMBDA
-                        L2 regularizaion lambda (default: 0.0)                        
-  --dropout_keep_prob DROPOUT_KEEP_PROB
-                        Dropout keep probability (default: 0.5)
-  --batch_size BATCH_SIZE
-                        Batch Size (default: 64)
-  --num_epochs NUM_EPOCHS
-                        Number of training epochs (default: 100)
-  --evaluate_every EVALUATE_EVERY
-                        Evaluate model on dev set after this many steps
-                        (default: 100)
-  --checkpoint_every CHECKPOINT_EVERY
-                        Save model after this many steps (default: 100)
-  --allow_soft_placement ALLOW_SOFT_PLACEMENT
-                        Allow device soft device placement
-  --noallow_soft_placement
-  --log_device_placement LOG_DEVICE_PLACEMENT
-                        Log placement of ops on devices
-  --nolog_device_placement
-
-```
-
 Train:
 
-```bash
-./train.py
+```
+THEANO_FLAGS=mode=FAST_RUN,device=gpu,floatX=float32 python conv_net_sentence.py -train model.non-static stackoverflow.train
 ```
 
 Predict:
+
+```
+curl http://localhost:8080/api/classify/ -d "description=question: Are there any SciFi treatments of time travel that avoid the typical paradoxes? [duplicate]; excerpt: Possible Duplicate:\n  Why do time-travel stories often have the characters “returning” to the future?  \n\n\n\n\nThe possibility of time travel normally creates paradoxes. If you can travel into the ...\r\n        "
+```
 
