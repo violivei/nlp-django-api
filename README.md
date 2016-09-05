@@ -22,10 +22,16 @@ in the right format.
 
 ## Running
 
-Train:
+Train (GPU):
 
 ```
-THEANO_FLAGS=mode=FAST_RUN,device=gpu,floatX=float32 python conv_net_sentence.py -train model.non-static stackoverflow.train
+THEANO_FLAGS=mode=FAST_RUN,device=gpu,floatX=float32 python conv_net_sentence.py -train mr.p stackoverflow.train
+```
+
+Train (CPU):
+
+```
+THEANO_FLAGS=mode=FAST_RUN,device=cpu,floatX=float32 python conv_net_sentence.py -train mr.p stackoverflow.train
 ```
 
 Predict:
